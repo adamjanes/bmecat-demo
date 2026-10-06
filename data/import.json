@@ -1,0 +1,3626 @@
+{
+ "lts": {
+  "header": {
+   "slug": "lts",
+   "name": "LTS",
+   "supplier": "LTS Licht & Leuchten GmbH",
+   "catalogName": "LTS General Catalog",
+   "generated": "2026-09-29",
+   "currency": "EUR",
+   "territory": "GB",
+   "language": "eng",
+   "etim": "ETIM 9.0",
+   "format": "BMEcat 2005 \u00b7 ETIM BMEcat 5.0",
+   "file": "LTS_BMEcat_9.0_2026-09-29_en.xml",
+   "fileBytes": 186833994,
+   "source": "Public BMEcat download",
+   "sourceUrl": "https://www.lts-light.com/en/service/downloads/product-data/",
+   "segment": "Architectural"
+  },
+  "counts": {
+   "products": 9435,
+   "luminaires": 8409,
+   "accessories": 1026,
+   "families": 54,
+   "models": 174,
+   "etimClasses": 13,
+   "features": 364355,
+   "media": 44633,
+   "ldt": 8359,
+   "accessoryLinks": 34063,
+   "componentLinks": 5088
+  },
+  "classes": [
+   [
+    "Downlight/spot/floodlight",
+    3691
+   ],
+   [
+    "Ceiling-/wall luminaire",
+    2398
+   ],
+   [
+    "Pendant luminaire",
+    1981
+   ],
+   [
+    "Mechanical accessories/spare parts for luminaires",
+    621
+   ],
+   [
+    "Batten luminaire",
+    302
+   ],
+   [
+    "Light technical accessories/spare parts for luminaires",
+    188
+   ],
+   [
+    "Electrical accessories/spare parts for luminaires",
+    158
+   ],
+   [
+    "Floor luminaire",
+    35
+   ],
+   [
+    "Light-track",
+    34
+   ],
+   [
+    "LED driver",
+    18
+   ],
+   [
+    "Lighting control system component",
+    6
+   ],
+   [
+    "Built-in installation box luminaire",
+    2
+   ],
+   [
+    "Emergency unit for luminaire",
+    1
+   ]
+  ],
+  "fields": [
+   {
+    "key": "power",
+    "label": "Wattage",
+    "code": "EF009347",
+    "kind": "ETIM",
+    "precision": "Exact",
+    "unit": "W",
+    "coverage": 1.0,
+    "samples": [
+     "13.3",
+     "31.6",
+     "64.8",
+     "21.5"
+    ]
+   },
+   {
+    "key": "flux",
+    "label": "Lumens",
+    "code": "EF009349",
+    "kind": "ETIM",
+    "precision": "Exact",
+    "unit": "lm",
+    "coverage": 1.0,
+    "samples": [
+     "3380",
+     "3240",
+     "3270",
+     "970"
+    ]
+   },
+   {
+    "key": "efficacy",
+    "label": "Efficacy",
+    "code": "EF012172",
+    "kind": "ETIM",
+    "precision": "Exact",
+    "unit": "lm/W",
+    "coverage": 1.0,
+    "samples": [
+     "149.84",
+     "128.74",
+     "154.74",
+     "153.16"
+    ]
+   },
+   {
+    "key": "cct",
+    "label": "Colour temperature",
+    "code": "EF009346",
+    "kind": "ETIM range",
+    "precision": "Range",
+    "unit": "K",
+    "coverage": 0.979,
+    "samples": [
+     "3000",
+     "4000",
+     "2700"
+    ]
+   },
+   {
+    "key": "cri",
+    "label": "CRI",
+    "code": "EF000442 + text",
+    "kind": "Text",
+    "precision": "Exact from text \u00b7 band in ETIM",
+    "unit": "",
+    "coverage": 0.98,
+    "samples": [
+     "80",
+     "90",
+     "98"
+    ]
+   },
+   {
+    "key": "sdcm",
+    "label": "MacAdam",
+    "code": "EF011946",
+    "kind": "ETIM",
+    "precision": "Whole steps",
+    "unit": "SDCM",
+    "coverage": 0.95,
+    "samples": [
+     "3",
+     "2",
+     "4",
+     "1"
+    ]
+   },
+   {
+    "key": "ugr",
+    "label": "UGR",
+    "code": "EF013735 + text",
+    "kind": "Text",
+    "precision": "C0 / C90 from text \u00b7 rounded in ETIM",
+    "unit": "",
+    "coverage": 0.962,
+    "samples": [
+     "19.6",
+     "19.4",
+     "19",
+     "25 / 24.6"
+    ]
+   },
+   {
+    "key": "beam",
+    "label": "Beam angle",
+    "code": "EF008157 + LDT",
+    "kind": "Photometry",
+    "precision": "Two planes from LDT \u00b7 band in ETIM",
+    "unit": "\u00b0",
+    "coverage": 0.978,
+    "samples": [
+     "74 \u00d7 57",
+     "55 \u00d7 58",
+     "62 \u00d7 74",
+     "54 \u00d7 57"
+    ]
+   },
+   {
+    "key": "distribution",
+    "label": "Distribution",
+    "code": "EF004283",
+    "kind": "ETIM",
+    "precision": "Choice",
+    "unit": "",
+    "coverage": 0.958,
+    "samples": [
+     "Symmetric",
+     "Asymmetric",
+     "Double asymmetric"
+    ]
+   },
+   {
+    "key": "ip",
+    "label": "IP rating",
+    "code": "EF005474",
+    "kind": "ETIM",
+    "precision": "Choice",
+    "unit": "",
+    "coverage": 0.924,
+    "samples": [
+     "IP20",
+     "IP40",
+     "IP44",
+     "IP66"
+    ]
+   },
+   {
+    "key": "ik",
+    "label": "IK rating",
+    "code": "EF004293",
+    "kind": "ETIM",
+    "precision": "Choice",
+    "unit": "",
+    "coverage": 0.032,
+    "samples": [
+     "IK03",
+     "IK08",
+     "IK02",
+     "IK10"
+    ]
+   },
+   {
+    "key": "voltage",
+    "label": "Voltage",
+    "code": "EF005127",
+    "kind": "ETIM range",
+    "precision": "Range",
+    "unit": "V",
+    "coverage": 0.993,
+    "samples": [
+     "220\u2013240",
+     "24"
+    ]
+   },
+   {
+    "key": "current",
+    "label": "Current",
+    "code": "EF009345",
+    "kind": "ETIM range",
+    "precision": "Range",
+    "unit": "mA",
+    "coverage": 0.927,
+    "samples": [
+     "325",
+     "158",
+     "700",
+     "350"
+    ]
+   },
+   {
+    "key": "dimming",
+    "label": "Dimming",
+    "code": "EF0121xx (\u00d720)",
+    "kind": "ETIM",
+    "precision": "Yes/no set",
+    "unit": "",
+    "coverage": 1.0,
+    "samples": [
+     "DALI-2\u2013DALI",
+     "Switch only",
+     "DALI",
+     "Bluetooth"
+    ]
+   },
+   {
+    "key": "finish",
+    "label": "Finish",
+    "code": "EF000136",
+    "kind": "ETIM",
+    "precision": "Choice",
+    "unit": "",
+    "coverage": 1.0,
+    "samples": [
+     "White",
+     "Black",
+     "Silver",
+     "Other"
+    ]
+   },
+   {
+    "key": "housing",
+    "label": "Material",
+    "code": "EF001596",
+    "kind": "ETIM",
+    "precision": "Choice",
+    "unit": "",
+    "coverage": 0.96,
+    "samples": [
+     "Steel",
+     "Other",
+     "Aluminium"
+    ]
+   },
+   {
+    "key": "lamp",
+    "label": "Lamp type",
+    "code": "EF002423",
+    "kind": "ETIM",
+    "precision": "Choice",
+    "unit": "",
+    "coverage": 1.0,
+    "samples": [
+     "LED not exchangeable"
+    ]
+   },
+   {
+    "key": "gear",
+    "label": "Driver type",
+    "code": "EF000381",
+    "kind": "ETIM",
+    "precision": "Choice",
+    "unit": "",
+    "coverage": 1.0,
+    "samples": [
+     "Electronic ballast",
+     "Not required"
+    ]
+   },
+   {
+    "key": "protection",
+    "label": "Protection class",
+    "code": "EF000004",
+    "kind": "ETIM",
+    "precision": "Choice",
+    "unit": "",
+    "coverage": 1.0,
+    "samples": [
+     "I",
+     "II",
+     "III"
+    ]
+   },
+   {
+    "key": "length",
+    "label": "Length",
+    "code": "EF001438",
+    "kind": "ETIM",
+    "precision": "Exact",
+    "unit": "mm",
+    "coverage": 0.618,
+    "samples": [
+     "587",
+     "873",
+     "1447",
+     "1160"
+    ]
+   },
+   {
+    "key": "width",
+    "label": "Width",
+    "code": "EF000008",
+    "kind": "ETIM",
+    "precision": "Exact",
+    "unit": "mm",
+    "coverage": 0.62,
+    "samples": [
+     "66",
+     "130",
+     "60",
+     "193"
+    ]
+   },
+   {
+    "key": "height",
+    "label": "Height / depth",
+    "code": "EF001456",
+    "kind": "ETIM",
+    "precision": "Exact",
+    "unit": "mm",
+    "coverage": 0.996,
+    "samples": [
+     "46",
+     "62",
+     "50",
+     "102"
+    ]
+   },
+   {
+    "key": "diameter",
+    "label": "Diameter",
+    "code": "EF000015",
+    "kind": "ETIM",
+    "precision": "Exact",
+    "unit": "mm",
+    "coverage": 0.384,
+    "samples": [
+     "135",
+     "100",
+     "115",
+     "175"
+    ]
+   },
+   {
+    "key": "cutout",
+    "label": "Cut-out",
+    "code": "EF016380",
+    "kind": "ETIM",
+    "precision": "Exact",
+    "unit": "mm",
+    "coverage": 0.165,
+    "samples": [
+     "90",
+     "158",
+     "68",
+     "105"
+    ]
+   },
+   {
+    "key": "recess",
+    "label": "Recess depth",
+    "code": "EF023518",
+    "kind": "ETIM",
+    "precision": "Exact",
+    "unit": "mm",
+    "coverage": 0.337,
+    "samples": [
+     "100",
+     "110",
+     "140",
+     "195"
+    ]
+   },
+   {
+    "key": "weight",
+    "label": "Weight",
+    "code": "UDX.EDXF.NETWEIGHT",
+    "kind": "BMEcat",
+    "precision": "Exact",
+    "unit": "kg",
+    "coverage": 1.0,
+    "samples": [
+     "1.31",
+     "1.28",
+     "0.65",
+     "0.76"
+    ]
+   },
+   {
+    "key": "life",
+    "label": "Lifetime",
+    "code": "text",
+    "kind": "Text",
+    "precision": "Text",
+    "unit": "",
+    "coverage": 1.0,
+    "samples": []
+   },
+   {
+    "key": "price",
+    "label": "List price",
+    "code": "PRICE_AMOUNT",
+    "kind": "BMEcat",
+    "precision": "Exact",
+    "unit": "EUR",
+    "coverage": 1.0,
+    "samples": [
+     "383",
+     "376",
+     "186",
+     "303"
+    ]
+   },
+   {
+    "key": "phot",
+    "label": "Photometry",
+    "code": "MD19 \u2192 LDT",
+    "kind": "File",
+    "precision": "Polar curve",
+    "unit": "",
+    "coverage": 0.994,
+    "samples": []
+   },
+   {
+    "key": "image",
+    "label": "Product image",
+    "code": "MD01",
+    "kind": "File",
+    "precision": "Image",
+    "unit": "",
+    "coverage": 1.0,
+    "samples": []
+   }
+  ],
+  "issues": [
+   {
+    "id": "no-cct",
+    "label": "Colour temperature blank",
+    "count": 176,
+    "field": "cct"
+   },
+   {
+    "id": "no-phot",
+    "label": "No photometry file",
+    "count": 50,
+    "field": "phot"
+   },
+   {
+    "id": "cri-band",
+    "label": "CRI only as a band",
+    "count": 8,
+    "field": "cri"
+   },
+   {
+    "id": "ugr-conflict",
+    "label": "UGR: text and ETIM differ by \u22651",
+    "count": 1062,
+    "field": "ugr"
+   },
+   {
+    "id": "beam-conflict",
+    "label": "Beam: photometry outside ETIM band",
+    "count": 12,
+    "field": "beam"
+   },
+   {
+    "id": "oval",
+    "label": "Beam differs by plane (\u22655\u00b0)",
+    "count": 2461,
+    "field": "beam",
+    "kind": "info"
+   },
+   {
+    "id": "no-price",
+    "label": "No price",
+    "count": 0,
+    "field": "price"
+   }
+  ],
+  "unmapped": [
+   {
+    "code": "EF005905",
+    "name": "With light source",
+    "count": 8407
+   },
+   {
+    "code": "EF006436",
+    "name": "Suitable for number of light sources",
+    "count": 8407
+   },
+   {
+    "code": "EF000048",
+    "name": "Lamp holder",
+    "count": 8407
+   },
+   {
+    "code": "EF000187",
+    "name": "Voltage type",
+    "count": 8407
+   },
+   {
+    "code": "EF016835",
+    "name": "Energy efficiency class of the light source according to 2019/2015/EU",
+    "count": 8407
+   },
+   {
+    "code": "EF009350",
+    "name": "Colour of light",
+    "count": 8407
+   },
+   {
+    "code": "EF016261",
+    "name": "Colour of light adjustable",
+    "count": 8407
+   },
+   {
+    "code": "EF016262",
+    "name": "Luminous flux adjustable",
+    "count": 8407
+   },
+   {
+    "code": "EF016263",
+    "name": "Beam angle adjustable",
+    "count": 8407
+   },
+   {
+    "code": "EF007556",
+    "name": "With control gear",
+    "count": 8391
+   },
+   {
+    "code": "EF016286",
+    "name": "Exchangeable control gear",
+    "count": 8391
+   },
+   {
+    "code": "EF011959",
+    "name": "Degree of protection (NEMA)",
+    "count": 8372
+   },
+   {
+    "code": "EF006420",
+    "name": "Luminaire with limited surface temperature, sign \"D\u201c according to EN 60598-2-24",
+    "count": 8372
+   },
+   {
+    "code": "EF011868",
+    "name": "Type of wiring",
+    "count": 8372
+   },
+   {
+    "code": "EF000124",
+    "name": "Connection type",
+    "count": 8372
+   },
+   {
+    "code": "EF004282",
+    "name": "Light outlet",
+    "count": 8105
+   },
+   {
+    "code": "EF004284",
+    "name": "Cover material",
+    "count": 7458
+   },
+   {
+    "code": "EF012170",
+    "name": "Light distributor",
+    "count": 6233
+   },
+   {
+    "code": "EF009351",
+    "name": "Adjustability",
+    "count": 3691
+   },
+   {
+    "code": "EF000139",
+    "name": "Surface protection",
+    "count": 3691
+   },
+   {
+    "code": "EF002632",
+    "name": "Reflector colour",
+    "count": 3691
+   },
+   {
+    "code": "EF024150",
+    "name": "Surface protection housing",
+    "count": 2398
+   },
+   {
+    "code": "EF007694",
+    "name": "Suitable for workplace according to EN 12464-1",
+    "count": 2164
+   },
+   {
+    "code": "EF000280",
+    "name": "Suitable for lamp power",
+    "count": 1276
+   },
+   {
+    "code": "EF002169",
+    "name": "Material",
+    "count": 1182
+   },
+   {
+    "code": "EF007566",
+    "name": "With suspension",
+    "count": 1075
+   },
+   {
+    "code": "EF000007",
+    "name": "Colour",
+    "count": 1001
+   },
+   {
+    "code": "EF000215",
+    "name": "Type of accessory/spare part",
+    "count": 963
+   },
+   {
+    "code": "EF013236",
+    "name": "Accessory",
+    "count": 610
+   },
+   {
+    "code": "EF013237",
+    "name": "Spare part",
+    "count": 610
+   },
+   {
+    "code": "EF000040",
+    "name": "Height",
+    "count": 599
+   },
+   {
+    "code": "EF004274",
+    "name": "Suitable for light line configuration",
+    "count": 212
+   },
+   {
+    "code": "EF016889",
+    "name": "Kind of luminaire cover/post globe",
+    "count": 188
+   },
+   {
+    "code": "EF009352",
+    "name": "Suitable for traverse mounting",
+    "count": 186
+   },
+   {
+    "code": "EF009470",
+    "name": "Suitable for clamp-mounting",
+    "count": 186
+   },
+   {
+    "code": "EF004267",
+    "name": "Electrical connection with connector system",
+    "count": 95
+   },
+   {
+    "code": "EF001792",
+    "name": "Number of cores",
+    "count": 50
+   },
+   {
+    "code": "EF001335",
+    "name": "Nominal cross section",
+    "count": 50
+   },
+   {
+    "code": "EF004258",
+    "name": "Number of lighting heads",
+    "count": 35
+   },
+   {
+    "code": "EF007917",
+    "name": "Luminaire heads flexible",
+    "count": 35
+   }
+  ]
+ },
+ "deltalight": {
+  "header": {
+   "slug": "deltalight",
+   "name": "Delta Light",
+   "supplier": "Delta Light",
+   "catalogName": "The Lighting Bible 16",
+   "generated": "2026-07-30",
+   "currency": "EUR",
+   "territory": "BE",
+   "language": "en",
+   "etim": "ETIM 9.0",
+   "format": "BMEcat 2005 \u00b7 ETIM BMEcat 5.0",
+   "file": "DELTALIGHT-BMEcatExport-en-20260730pp.xml",
+   "fileBytes": 315992662,
+   "source": "Public BMEcat download",
+   "sourceUrl": "https://deltalight.com/en/download/technical-documents",
+   "segment": "Architectural"
+  },
+  "counts": {
+   "products": 21408,
+   "luminaires": 20044,
+   "accessories": 1364,
+   "families": 102,
+   "models": 791,
+   "etimClasses": 33,
+   "features": 826428,
+   "media": 82593,
+   "ldt": 0,
+   "accessoryLinks": 0,
+   "componentLinks": 0
+  },
+  "classes": [
+   [
+    null,
+    6932
+   ],
+   [
+    "Downlight/spot/floodlight",
+    5732
+   ],
+   [
+    "Electrical unit for light-line system",
+    3692
+   ],
+   [
+    "Ceiling-/wall luminaire",
+    1502
+   ],
+   [
+    "Pendant luminaire",
+    1090
+   ],
+   [
+    "Mechanical accessories/spare parts for luminaires",
+    537
+   ],
+   [
+    "In-ground luminaire",
+    410
+   ],
+   [
+    "Luminaire bollard",
+    222
+   ],
+   [
+    "Light technical accessories/spare parts for luminaires",
+    215
+   ],
+   [
+    "Electrical accessories/spare parts for luminaires",
+    211
+   ],
+   [
+    "Support profile light-line system",
+    188
+   ],
+   [
+    "LED driver",
+    90
+   ],
+   [
+    "Orientation luminaire",
+    77
+   ],
+   [
+    "EC004966",
+    65
+   ],
+   [
+    "Light-track",
+    59
+   ],
+   [
+    "Lighting control system component",
+    58
+   ],
+   [
+    "Floor luminaire",
+    56
+   ],
+   [
+    "EC002706",
+    56
+   ],
+   [
+    "Luminaire for streets and places",
+    56
+   ],
+   [
+    "EC000061",
+    44
+   ],
+   [
+    "EC000996",
+    35
+   ],
+   [
+    "Batten luminaire",
+    24
+   ],
+   [
+    "EC000302",
+    17
+   ],
+   [
+    "EC001959",
+    15
+   ],
+   [
+    "EC002955",
+    7
+   ],
+   [
+    "Accessories/spare parts for light ribbon/-hose/-strip",
+    4
+   ],
+   [
+    "Built-in installation box luminaire",
+    3
+   ],
+   [
+    "EC001511",
+    2
+   ],
+   [
+    "EC001698",
+    2
+   ],
+   [
+    "Emergency unit for luminaire",
+    2
+   ],
+   [
+    "EC002337",
+    2
+   ],
+   [
+    "EC001582",
+    2
+   ],
+   [
+    "EC000142",
+    1
+   ]
+  ],
+  "fields": [
+   {
+    "key": "power",
+    "label": "Wattage",
+    "code": "EF009347",
+    "kind": "ETIM",
+    "precision": "Exact",
+    "unit": "W",
+    "coverage": 0.967,
+    "samples": [
+     "9.9",
+     "6.9",
+     "6.7",
+     "19.8"
+    ]
+   },
+   {
+    "key": "flux",
+    "label": "Lumens",
+    "code": "EF009349",
+    "kind": "ETIM",
+    "precision": "Exact",
+    "unit": "lm",
+    "coverage": 0.958,
+    "samples": [
+     "974",
+     "623",
+     "1018",
+     "1089"
+    ]
+   },
+   {
+    "key": "efficacy",
+    "label": "Efficacy",
+    "code": "EF012172",
+    "kind": "ETIM",
+    "precision": "Exact",
+    "unit": "lm/W",
+    "coverage": 0.635,
+    "samples": [
+     "84",
+     "88",
+     "72",
+     "68"
+    ]
+   },
+   {
+    "key": "cct",
+    "label": "Colour temperature",
+    "code": "EF009346",
+    "kind": "ETIM range",
+    "precision": "Range",
+    "unit": "K",
+    "coverage": 0.963,
+    "samples": [
+     "3000",
+     "2700",
+     "1800\u20133000",
+     "4000"
+    ]
+   },
+   {
+    "key": "cri",
+    "label": "CRI",
+    "code": "EF000442 + text",
+    "kind": "Text",
+    "precision": "Exact from text \u00b7 band in ETIM",
+    "unit": "",
+    "coverage": 0.267,
+    "samples": [
+     "90",
+     "97"
+    ]
+   },
+   {
+    "key": "sdcm",
+    "label": "MacAdam",
+    "code": "EF011946",
+    "kind": "ETIM",
+    "precision": "Whole steps",
+    "unit": "SDCM",
+    "coverage": 0.904,
+    "samples": [
+     "1",
+     "3",
+     "2"
+    ]
+   },
+   {
+    "key": "ugr",
+    "label": "UGR",
+    "code": "EF013735 + text",
+    "kind": "Text",
+    "precision": "C0 / C90 from text \u00b7 rounded in ETIM",
+    "unit": "",
+    "coverage": 0.0,
+    "samples": []
+   },
+   {
+    "key": "beam",
+    "label": "Beam angle",
+    "code": "EF008157 + LDT",
+    "kind": "Photometry",
+    "precision": "Two planes from LDT \u00b7 band in ETIM",
+    "unit": "\u00b0",
+    "coverage": 0.0,
+    "samples": []
+   },
+   {
+    "key": "distribution",
+    "label": "Distribution",
+    "code": "EF004283",
+    "kind": "ETIM",
+    "precision": "Choice",
+    "unit": "",
+    "coverage": 0.93,
+    "samples": [
+     "Symmetric",
+     "Symmetric/asymmetric",
+     "Asymmetric"
+    ]
+   },
+   {
+    "key": "ip",
+    "label": "IP rating",
+    "code": "EF005474",
+    "kind": "ETIM",
+    "precision": "Choice",
+    "unit": "",
+    "coverage": 0.671,
+    "samples": [
+     "IP20",
+     "IP65",
+     "IP67",
+     "IP44"
+    ]
+   },
+   {
+    "key": "ik",
+    "label": "IK rating",
+    "code": "EF004293",
+    "kind": "ETIM",
+    "precision": "Choice",
+    "unit": "",
+    "coverage": 0.773,
+    "samples": [
+     "IK03",
+     "IK06",
+     "IK08",
+     "IK07"
+    ]
+   },
+   {
+    "key": "voltage",
+    "label": "Voltage",
+    "code": "EF005127",
+    "kind": "ETIM range",
+    "precision": "Range",
+    "unit": "V",
+    "coverage": 0.968,
+    "samples": [
+     "17.2",
+     "48",
+     "17.1",
+     "16.6\u201317.2"
+    ]
+   },
+   {
+    "key": "current",
+    "label": "Current",
+    "code": "EF009345",
+    "kind": "ETIM range",
+    "precision": "Range",
+    "unit": "mA",
+    "coverage": 0.955,
+    "samples": [
+     "500",
+     "350",
+     "350\u2013500",
+     "700"
+    ]
+   },
+   {
+    "key": "dimming",
+    "label": "Dimming",
+    "code": "EF0121xx (\u00d720)",
+    "kind": "ETIM",
+    "precision": "Yes/no set",
+    "unit": "",
+    "coverage": 0.701,
+    "samples": [
+     "Dimmable",
+     "DALI-2\u2013DALI",
+     "DALI\u20131-10 V",
+     "Phase cut (trailing)"
+    ]
+   },
+   {
+    "key": "finish",
+    "label": "Finish",
+    "code": "EF000136",
+    "kind": "ETIM",
+    "precision": "Choice",
+    "unit": "",
+    "coverage": 0.945,
+    "samples": [
+     "Black",
+     "White",
+     "Gold",
+     "Bronze"
+    ]
+   },
+   {
+    "key": "housing",
+    "label": "Material",
+    "code": "EF001596",
+    "kind": "ETIM",
+    "precision": "Choice",
+    "unit": "",
+    "coverage": 0.912,
+    "samples": [
+     "Aluminium",
+     "Plastic",
+     "Other",
+     "Glass"
+    ]
+   },
+   {
+    "key": "lamp",
+    "label": "Lamp type",
+    "code": "EF002423",
+    "kind": "ETIM",
+    "precision": "Choice",
+    "unit": "",
+    "coverage": 0.964,
+    "samples": [
+     "LED not exchangeable",
+     "HV halogen lamp",
+     "LED exchangeable",
+     "Incandescent lamp"
+    ]
+   },
+   {
+    "key": "gear",
+    "label": "Driver type",
+    "code": "EF000381",
+    "kind": "ETIM",
+    "precision": "Choice",
+    "unit": "",
+    "coverage": 0.966,
+    "samples": [
+     "LED operating device current-controlled",
+     "Not required",
+     "LED operating device voltage-controlled"
+    ]
+   },
+   {
+    "key": "protection",
+    "label": "Protection class",
+    "code": "EF000004",
+    "kind": "ETIM",
+    "precision": "Choice",
+    "unit": "",
+    "coverage": 0.97,
+    "samples": [
+     "III",
+     "I",
+     "II"
+    ]
+   },
+   {
+    "key": "length",
+    "label": "Length",
+    "code": "EF001438",
+    "kind": "ETIM",
+    "precision": "Exact",
+    "unit": "mm",
+    "coverage": 0.407,
+    "samples": [
+     "170",
+     "160",
+     "84",
+     "155"
+    ]
+   },
+   {
+    "key": "width",
+    "label": "Width",
+    "code": "EF000008",
+    "kind": "ETIM",
+    "precision": "Exact",
+    "unit": "mm",
+    "coverage": 0.267,
+    "samples": [
+     "28",
+     "50",
+     "42",
+     "70"
+    ]
+   },
+   {
+    "key": "height",
+    "label": "Height / depth",
+    "code": "EF001456",
+    "kind": "ETIM",
+    "precision": "Exact",
+    "unit": "mm",
+    "coverage": 0.663,
+    "samples": [
+     "92",
+     "120",
+     "29",
+     "95"
+    ]
+   },
+   {
+    "key": "diameter",
+    "label": "Diameter",
+    "code": "EF000015",
+    "kind": "ETIM",
+    "precision": "Exact",
+    "unit": "mm",
+    "coverage": 0.328,
+    "samples": [
+     "39",
+     "52",
+     "90",
+     "81"
+    ]
+   },
+   {
+    "key": "cutout",
+    "label": "Cut-out",
+    "code": "EF016380",
+    "kind": "ETIM",
+    "precision": "Exact",
+    "unit": "mm",
+    "coverage": 0.11,
+    "samples": [
+     "76",
+     "51",
+     "43",
+     "92"
+    ]
+   },
+   {
+    "key": "recess",
+    "label": "Recess depth",
+    "code": "EF023518",
+    "kind": "ETIM",
+    "precision": "Exact",
+    "unit": "mm",
+    "coverage": 0.375,
+    "samples": [
+     "45",
+     "70",
+     "80",
+     "50"
+    ]
+   },
+   {
+    "key": "weight",
+    "label": "Weight",
+    "code": "UDX.EDXF.NETWEIGHT",
+    "kind": "BMEcat",
+    "precision": "Exact",
+    "unit": "kg",
+    "coverage": 0.0,
+    "samples": []
+   },
+   {
+    "key": "life",
+    "label": "Lifetime",
+    "code": "text",
+    "kind": "Text",
+    "precision": "Text",
+    "unit": "",
+    "coverage": 0.0,
+    "samples": []
+   },
+   {
+    "key": "price",
+    "label": "List price",
+    "code": "PRICE_AMOUNT",
+    "kind": "BMEcat",
+    "precision": "Exact",
+    "unit": "EUR",
+    "coverage": 0.0,
+    "samples": []
+   },
+   {
+    "key": "phot",
+    "label": "Photometry",
+    "code": "MD19 \u2192 LDT",
+    "kind": "File",
+    "precision": "Polar curve",
+    "unit": "",
+    "coverage": 0.0,
+    "samples": []
+   },
+   {
+    "key": "image",
+    "label": "Product image",
+    "code": "MD01",
+    "kind": "File",
+    "precision": "Image",
+    "unit": "",
+    "coverage": 0.991,
+    "samples": []
+   }
+  ],
+  "issues": [
+   {
+    "id": "no-cct",
+    "label": "Colour temperature blank",
+    "count": 745,
+    "field": "cct"
+   },
+   {
+    "id": "no-phot",
+    "label": "No photometry file",
+    "count": 20044,
+    "field": "phot"
+   },
+   {
+    "id": "cri-band",
+    "label": "CRI only as a band",
+    "count": 13997,
+    "field": "cri"
+   },
+   {
+    "id": "ugr-conflict",
+    "label": "UGR: text and ETIM differ by \u22651",
+    "count": 0,
+    "field": "ugr"
+   },
+   {
+    "id": "beam-conflict",
+    "label": "Beam: photometry outside ETIM band",
+    "count": 0,
+    "field": "beam"
+   },
+   {
+    "id": "oval",
+    "label": "Beam differs by plane (\u22655\u00b0)",
+    "count": 0,
+    "field": "beam",
+    "kind": "info"
+   },
+   {
+    "id": "no-price",
+    "label": "No price",
+    "count": 20044,
+    "field": "price"
+   }
+  ],
+  "unmapped": [
+   {
+    "code": "EF016261",
+    "name": "Colour of light adjustable",
+    "count": 19356
+   },
+   {
+    "code": "EF016262",
+    "name": "Luminous flux adjustable",
+    "count": 19356
+   },
+   {
+    "code": "EF016263",
+    "name": "Beam angle adjustable",
+    "count": 19356
+   },
+   {
+    "code": "EF000048",
+    "name": "Lamp holder",
+    "count": 19347
+   },
+   {
+    "code": "EF000280",
+    "name": "Suitable for lamp power",
+    "count": 19321
+   },
+   {
+    "code": "EF009350",
+    "name": "Colour of light",
+    "count": 19321
+   },
+   {
+    "code": "EF016835",
+    "name": "Energy efficiency class of the light source according to 2019/2015/EU",
+    "count": 19240
+   },
+   {
+    "code": "EF005905",
+    "name": "With light source",
+    "count": 19201
+   },
+   {
+    "code": "EF018714",
+    "name": "Rated luminous flux according to IEC 62722-2- 1",
+    "count": 19193
+   },
+   {
+    "code": "EF000187",
+    "name": "Voltage type",
+    "count": 19155
+   },
+   {
+    "code": "EF004282",
+    "name": "Light outlet",
+    "count": 19011
+   },
+   {
+    "code": "EF018918",
+    "name": "Emergency power supply system",
+    "count": 18765
+   },
+   {
+    "code": "EF018921",
+    "name": "Emergency function monitoring system",
+    "count": 18672
+   },
+   {
+    "code": "EF006436",
+    "name": "Suitable for number of light sources",
+    "count": 18525
+   },
+   {
+    "code": "EF012170",
+    "name": "Light distributor",
+    "count": 18442
+   },
+   {
+    "code": "EF015687",
+    "name": "Lumen maintenance at median useful life of 50,000 h at 25 \u00b0C ambient (tq)",
+    "count": 17684
+   },
+   {
+    "code": "EF000036",
+    "name": "Reflector",
+    "count": 16957
+   },
+   {
+    "code": "EF015691",
+    "name": "Failure rate at median useful life of 50,000 h at 25 \u00b0C ambient (tq)",
+    "count": 13934
+   },
+   {
+    "code": "EF015693",
+    "name": "Failure rate at median useful life of 100,000 h at 25 \u00b0C ambient (tq)",
+    "count": 13586
+   },
+   {
+    "code": "EF019111",
+    "name": "Containing product according to 2019/2020/EU",
+    "count": 12764
+   },
+   {
+    "code": "EF011948",
+    "name": "Photobiological safety according to EN 62471",
+    "count": 12748
+   },
+   {
+    "code": "EF015686",
+    "name": "Lumen maintenance at median useful life of 35,000 h at 25 \u00b0C ambient (tq)",
+    "count": 12716
+   },
+   {
+    "code": "EF018713",
+    "name": "Luminaire efficacy",
+    "count": 11878
+   },
+   {
+    "code": "EF015690",
+    "name": "Failure rate at median useful life of 35,000 h at 25 \u00b0C ambient (tq)",
+    "count": 11259
+   },
+   {
+    "code": "EF009351",
+    "name": "Adjustability",
+    "count": 10978
+   },
+   {
+    "code": "EF000137",
+    "name": "Dimmable",
+    "count": 10955
+   },
+   {
+    "code": "EF003118",
+    "name": "Degree of protection (IP), front side",
+    "count": 7234
+   },
+   {
+    "code": "EF010795",
+    "name": "Built-in height",
+    "count": 7011
+   },
+   {
+    "code": "EF007556",
+    "name": "With control gear",
+    "count": 5893
+   },
+   {
+    "code": "EF002632",
+    "name": "Reflector colour",
+    "count": 3951
+   },
+   {
+    "code": "EF000282",
+    "name": "Type of grid",
+    "count": 3090
+   },
+   {
+    "code": "EF000007",
+    "name": "Colour",
+    "count": 1279
+   },
+   {
+    "code": "EF002169",
+    "name": "Material",
+    "count": 1170
+   },
+   {
+    "code": "EF004275",
+    "name": "Suitable for emergency lighting",
+    "count": 1147
+   },
+   {
+    "code": "EF006009",
+    "name": "With mounting material",
+    "count": 1028
+   },
+   {
+    "code": "EF013236",
+    "name": "Accessory",
+    "count": 1024
+   },
+   {
+    "code": "EF015688",
+    "name": "Lumen maintenance at median useful life of 75,000 h at 25 \u00b0C ambient (tq)",
+    "count": 884
+   },
+   {
+    "code": "EF011933",
+    "name": "Built-in width",
+    "count": 870
+   },
+   {
+    "code": "EF023168",
+    "name": "Built-in length",
+    "count": 870
+   },
+   {
+    "code": "EF000215",
+    "name": "Type of accessory/spare part",
+    "count": 841
+   }
+  ]
+ },
+ "schuch": {
+  "header": {
+   "slug": "schuch",
+   "name": "Schuch",
+   "supplier": "Adolf Schuch GmbH",
+   "catalogName": "SCHUCH Katalog 2026",
+   "generated": "2026-08-20",
+   "currency": "EUR",
+   "territory": "DE",
+   "language": "deu",
+   "etim": "ETIM 9.0",
+   "format": "BMEcat 2005 \u00b7 ETIM BMEcat 5.0",
+   "file": "SCHUCH_ETIM-9_2026-01_Preisanpassung_2026-09-01.xml",
+   "fileBytes": 52423141,
+   "source": "Public BMEcat download",
+   "sourceUrl": "https://www.schuch.de/de/service/downloads",
+   "segment": "Industrial \u00b7 outdoor \u00b7 Ex"
+  },
+  "counts": {
+   "products": 2332,
+   "luminaires": 2100,
+   "accessories": 232,
+   "families": 81,
+   "models": 139,
+   "etimClasses": 20,
+   "features": 74974,
+   "media": 11062,
+   "ldt": 0,
+   "accessoryLinks": 0,
+   "componentLinks": 0
+  },
+  "classes": [
+   [
+    "Luminaire for streets and places",
+    669
+   ],
+   [
+    "Ceiling-/wall luminaire",
+    451
+   ],
+   [
+    "High bay luminaire",
+    381
+   ],
+   [
+    "Explosion proof luminaire fixed mounting",
+    261
+   ],
+   [
+    "Downlight/spot/floodlight",
+    179
+   ],
+   [
+    "Mechanical accessories/spare parts for luminaires",
+    92
+   ],
+   [
+    "Emergency luminaire",
+    85
+   ],
+   [
+    "Explosion proof emergency and security luminaire",
+    74
+   ],
+   [
+    "Light technical accessories/spare parts for luminaires",
+    70
+   ],
+   [
+    "Pictogram for emergency luminaire",
+    15
+   ],
+   [
+    "Cable gland",
+    11
+   ],
+   [
+    "Accessories/spare parts for light pole",
+    11
+   ],
+   [
+    "Electrical accessories/spare parts for luminaires",
+    10
+   ],
+   [
+    "Plug for cable screw gland",
+    8
+   ],
+   [
+    "Standard battery (rechargeable)",
+    7
+   ],
+   [
+    "Explosion proof CEE-plug/-coupler (IEC 60309)",
+    2
+   ],
+   [
+    "Explosion proof CEE socket outlet (IEC 60309)",
+    2
+   ],
+   [
+    "Explosion proof switch",
+    2
+   ],
+   [
+    "Explosion proof hand luminaire",
+    1
+   ],
+   [
+    "Accessories/spare parts for light ribbon/-hose/-strip",
+    1
+   ]
+  ],
+  "fields": [
+   {
+    "key": "power",
+    "label": "Wattage",
+    "code": "EF009347",
+    "kind": "ETIM",
+    "precision": "Exact",
+    "unit": "W",
+    "coverage": 0.997,
+    "samples": [
+     "35",
+     "70",
+     "140",
+     "18"
+    ]
+   },
+   {
+    "key": "flux",
+    "label": "Lumens",
+    "code": "EF009349",
+    "kind": "ETIM",
+    "precision": "Exact",
+    "unit": "lm",
+    "coverage": 0.997,
+    "samples": [
+     "30000",
+     "20000",
+     "10000",
+     "35300"
+    ]
+   },
+   {
+    "key": "efficacy",
+    "label": "Efficacy",
+    "code": "EF012172",
+    "kind": "ETIM",
+    "precision": "Exact",
+    "unit": "lm/W",
+    "coverage": 0.906,
+    "samples": [
+     "150",
+     "157",
+     "159",
+     "163"
+    ]
+   },
+   {
+    "key": "cct",
+    "label": "Colour temperature",
+    "code": "EF009346",
+    "kind": "ETIM range",
+    "precision": "Range",
+    "unit": "K",
+    "coverage": 0.995,
+    "samples": [
+     "4000",
+     "3000",
+     "5000",
+     "6500"
+    ]
+   },
+   {
+    "key": "cri",
+    "label": "CRI",
+    "code": "EF000442 + text",
+    "kind": "Text",
+    "precision": "Exact from text \u00b7 band in ETIM",
+    "unit": "",
+    "coverage": 0.995,
+    "samples": [
+     "80",
+     "70",
+     "90",
+     "50"
+    ]
+   },
+   {
+    "key": "sdcm",
+    "label": "MacAdam",
+    "code": "EF011946",
+    "kind": "ETIM",
+    "precision": "Whole steps",
+    "unit": "SDCM",
+    "coverage": 0.0,
+    "samples": []
+   },
+   {
+    "key": "ugr",
+    "label": "UGR",
+    "code": "EF013735 + text",
+    "kind": "Text",
+    "precision": "C0 / C90 from text \u00b7 rounded in ETIM",
+    "unit": "",
+    "coverage": 0.0,
+    "samples": []
+   },
+   {
+    "key": "beam",
+    "label": "Beam angle",
+    "code": "EF008157 + LDT",
+    "kind": "Photometry",
+    "precision": "Two planes from LDT \u00b7 band in ETIM",
+    "unit": "\u00b0",
+    "coverage": 0.0,
+    "samples": []
+   },
+   {
+    "key": "distribution",
+    "label": "Distribution",
+    "code": "EF004283",
+    "kind": "ETIM",
+    "precision": "Choice",
+    "unit": "",
+    "coverage": 0.477,
+    "samples": [
+     "Symmetric",
+     "Asymmetric",
+     "Symmetric/asymmetric"
+    ]
+   },
+   {
+    "key": "ip",
+    "label": "IP rating",
+    "code": "EF005474",
+    "kind": "ETIM",
+    "precision": "Choice",
+    "unit": "",
+    "coverage": 1.0,
+    "samples": [
+     "IP65",
+     "IP66",
+     "IP54",
+     "IP69K"
+    ]
+   },
+   {
+    "key": "ik",
+    "label": "IK rating",
+    "code": "EF004293",
+    "kind": "ETIM",
+    "precision": "Choice",
+    "unit": "",
+    "coverage": 0.999,
+    "samples": [
+     "IK09",
+     "IK10",
+     "IK06",
+     "IK05"
+    ]
+   },
+   {
+    "key": "voltage",
+    "label": "Voltage",
+    "code": "EF005127",
+    "kind": "ETIM range",
+    "precision": "Range",
+    "unit": "V",
+    "coverage": 1.0,
+    "samples": [
+     "220\u2013240",
+     "24"
+    ]
+   },
+   {
+    "key": "current",
+    "label": "Current",
+    "code": "EF009345",
+    "kind": "ETIM range",
+    "precision": "Range",
+    "unit": "mA",
+    "coverage": 0.006,
+    "samples": [
+     "78",
+     "105",
+     "40",
+     "20"
+    ]
+   },
+   {
+    "key": "dimming",
+    "label": "Dimming",
+    "code": "EF0121xx (\u00d720)",
+    "kind": "ETIM",
+    "precision": "Yes/no set",
+    "unit": "",
+    "coverage": 0.782,
+    "samples": [
+     "Switch only",
+     "DALI",
+     "DALI-2",
+     "DALI-2\u2013DALI"
+    ]
+   },
+   {
+    "key": "finish",
+    "label": "Finish",
+    "code": "EF000136",
+    "kind": "ETIM",
+    "precision": "Choice",
+    "unit": "",
+    "coverage": 0.834,
+    "samples": [
+     "Grey",
+     "White",
+     "Aluminium"
+    ]
+   },
+   {
+    "key": "housing",
+    "label": "Material",
+    "code": "EF001596",
+    "kind": "ETIM",
+    "precision": "Choice",
+    "unit": "",
+    "coverage": 1.0,
+    "samples": [
+     "Aluminium",
+     "Plastic",
+     "Steel",
+     "Stainless steel"
+    ]
+   },
+   {
+    "key": "lamp",
+    "label": "Lamp type",
+    "code": "EF002423",
+    "kind": "ETIM",
+    "precision": "Choice",
+    "unit": "",
+    "coverage": 0.989,
+    "samples": [
+     "LED exchangeable"
+    ]
+   },
+   {
+    "key": "gear",
+    "label": "Driver type",
+    "code": "EF000381",
+    "kind": "ETIM",
+    "precision": "Choice",
+    "unit": "",
+    "coverage": 0.999,
+    "samples": [
+     "LED operating device current-controlled",
+     "LED operating device voltage-controlled",
+     "Not required"
+    ]
+   },
+   {
+    "key": "protection",
+    "label": "Protection class",
+    "code": "EF000004",
+    "kind": "ETIM",
+    "precision": "Choice",
+    "unit": "",
+    "coverage": 1.0,
+    "samples": [
+     "I",
+     "II",
+     "III"
+    ]
+   },
+   {
+    "key": "length",
+    "label": "Length",
+    "code": "EF001438",
+    "kind": "ETIM",
+    "precision": "Exact",
+    "unit": "mm",
+    "coverage": 0.738,
+    "samples": [
+     "573",
+     "565",
+     "1572",
+     "1578"
+    ]
+   },
+   {
+    "key": "width",
+    "label": "Width",
+    "code": "EF000008",
+    "kind": "ETIM",
+    "precision": "Exact",
+    "unit": "mm",
+    "coverage": 1.0,
+    "samples": [
+     "137",
+     "116",
+     "650",
+     "420"
+    ]
+   },
+   {
+    "key": "height",
+    "label": "Height / depth",
+    "code": "EF001456",
+    "kind": "ETIM",
+    "precision": "Exact",
+    "unit": "mm",
+    "coverage": 1.0,
+    "samples": [
+     "100",
+     "115",
+     "165",
+     "125"
+    ]
+   },
+   {
+    "key": "diameter",
+    "label": "Diameter",
+    "code": "EF000015",
+    "kind": "ETIM",
+    "precision": "Exact",
+    "unit": "mm",
+    "coverage": 0.065,
+    "samples": [
+     "488",
+     "500",
+     "670",
+     "70"
+    ]
+   },
+   {
+    "key": "cutout",
+    "label": "Cut-out",
+    "code": "EF016380",
+    "kind": "ETIM",
+    "precision": "Exact",
+    "unit": "mm",
+    "coverage": 0.0,
+    "samples": []
+   },
+   {
+    "key": "recess",
+    "label": "Recess depth",
+    "code": "EF023518",
+    "kind": "ETIM",
+    "precision": "Exact",
+    "unit": "mm",
+    "coverage": 0.0,
+    "samples": []
+   },
+   {
+    "key": "weight",
+    "label": "Weight",
+    "code": "UDX.EDXF.NETWEIGHT",
+    "kind": "BMEcat",
+    "precision": "Exact",
+    "unit": "kg",
+    "coverage": 1.0,
+    "samples": [
+     "2.8",
+     "9.7",
+     "7",
+     "7.1"
+    ]
+   },
+   {
+    "key": "life",
+    "label": "Lifetime",
+    "code": "text",
+    "kind": "Text",
+    "precision": "Text",
+    "unit": "",
+    "coverage": 0.0,
+    "samples": []
+   },
+   {
+    "key": "price",
+    "label": "List price",
+    "code": "PRICE_AMOUNT",
+    "kind": "BMEcat",
+    "precision": "Exact",
+    "unit": "EUR",
+    "coverage": 0.97,
+    "samples": [
+     "830",
+     "660",
+     "1115",
+     "1300"
+    ]
+   },
+   {
+    "key": "phot",
+    "label": "Photometry",
+    "code": "MD19 \u2192 LDT",
+    "kind": "File",
+    "precision": "Polar curve",
+    "unit": "",
+    "coverage": 0.0,
+    "samples": []
+   },
+   {
+    "key": "image",
+    "label": "Product image",
+    "code": "MD01",
+    "kind": "File",
+    "precision": "Image",
+    "unit": "",
+    "coverage": 1.0,
+    "samples": []
+   }
+  ],
+  "issues": [
+   {
+    "id": "no-cct",
+    "label": "Colour temperature blank",
+    "count": 11,
+    "field": "cct"
+   },
+   {
+    "id": "no-phot",
+    "label": "No photometry file",
+    "count": 2100,
+    "field": "phot"
+   },
+   {
+    "id": "cri-band",
+    "label": "CRI only as a band",
+    "count": 1,
+    "field": "cri"
+   },
+   {
+    "id": "ugr-conflict",
+    "label": "UGR: text and ETIM differ by \u22651",
+    "count": 0,
+    "field": "ugr"
+   },
+   {
+    "id": "beam-conflict",
+    "label": "Beam: photometry outside ETIM band",
+    "count": 0,
+    "field": "beam"
+   },
+   {
+    "id": "oval",
+    "label": "Beam differs by plane (\u22655\u00b0)",
+    "count": 0,
+    "field": "beam",
+    "kind": "info"
+   },
+   {
+    "id": "no-price",
+    "label": "No price",
+    "count": 62,
+    "field": "price"
+   }
+  ],
+  "unmapped": [
+   {
+    "code": "EF000187",
+    "name": "Voltage type",
+    "count": 2100
+   },
+   {
+    "code": "EF005905",
+    "name": "With light source",
+    "count": 2094
+   },
+   {
+    "code": "EF016286",
+    "name": "Exchangeable control gear",
+    "count": 2081
+   },
+   {
+    "code": "EF012090",
+    "name": "EF012090",
+    "count": 2026
+   },
+   {
+    "code": "EF015534",
+    "name": "Max. number of luminaires per miniature circuit breaker B16 (MCB)",
+    "count": 2025
+   },
+   {
+    "code": "EF009350",
+    "name": "Colour of light",
+    "count": 2016
+   },
+   {
+    "code": "EF012170",
+    "name": "Light distributor",
+    "count": 2014
+   },
+   {
+    "code": "EF007556",
+    "name": "With control gear",
+    "count": 1925
+   },
+   {
+    "code": "EF004284",
+    "name": "Cover material",
+    "count": 1645
+   },
+   {
+    "code": "EF016261",
+    "name": "Colour of light adjustable",
+    "count": 1011
+   },
+   {
+    "code": "EF016262",
+    "name": "Luminous flux adjustable",
+    "count": 1011
+   },
+   {
+    "code": "EF016263",
+    "name": "Beam angle adjustable",
+    "count": 1011
+   },
+   {
+    "code": "EF001391",
+    "name": "Number of poles",
+    "count": 911
+   },
+   {
+    "code": "EF011868",
+    "name": "Type of wiring",
+    "count": 887
+   },
+   {
+    "code": "EF000124",
+    "name": "Connection type",
+    "count": 870
+   },
+   {
+    "code": "EF000139",
+    "name": "Surface protection",
+    "count": 864
+   },
+   {
+    "code": "EF000085",
+    "name": "Conductor cross section",
+    "count": 832
+   },
+   {
+    "code": "EF009355",
+    "name": "Remote control",
+    "count": 669
+   },
+   {
+    "code": "EF000036",
+    "name": "Reflector",
+    "count": 560
+   },
+   {
+    "code": "EF006420",
+    "name": "Luminaire with limited surface temperature, sign \"D\u201c according to EN 60598-2-24",
+    "count": 518
+   },
+   {
+    "code": "EF007559",
+    "name": "Suitable for spigot size",
+    "count": 514
+   },
+   {
+    "code": "EF004282",
+    "name": "Light outlet",
+    "count": 496
+   },
+   {
+    "code": "EF011948",
+    "name": "Photobiological safety according to EN 62471",
+    "count": 479
+   },
+   {
+    "code": "EF024150",
+    "name": "Surface protection housing",
+    "count": 451
+   },
+   {
+    "code": "EF000282",
+    "name": "Type of grid",
+    "count": 451
+   },
+   {
+    "code": "EF012091",
+    "name": "Glow-wire test according to IEC 60695-2-11",
+    "count": 451
+   },
+   {
+    "code": "EF025740",
+    "name": "Power factor",
+    "count": 446
+   },
+   {
+    "code": "EF004274",
+    "name": "Suitable for light line configuration",
+    "count": 420
+   },
+   {
+    "code": "EF005500",
+    "name": "With protective cover",
+    "count": 381
+   },
+   {
+    "code": "EF005728",
+    "name": "Suitable for Ex-zone gas",
+    "count": 341
+   },
+   {
+    "code": "EF008404",
+    "name": "Suitable for Ex-zone dust",
+    "count": 341
+   },
+   {
+    "code": "EF015533",
+    "name": "Max. number of luminaires per miniature circuit breaker C16 (MCB)",
+    "count": 305
+   },
+   {
+    "code": "EF002169",
+    "name": "Material",
+    "count": 187
+   },
+   {
+    "code": "EF009352",
+    "name": "Suitable for traverse mounting",
+    "count": 179
+   },
+   {
+    "code": "EF009353",
+    "name": "Suitable for pedestal/floor mounting",
+    "count": 179
+   },
+   {
+    "code": "EF009351",
+    "name": "Adjustability",
+    "count": 179
+   },
+   {
+    "code": "EF000233",
+    "name": "EF000233",
+    "count": 158
+   },
+   {
+    "code": "EF008091",
+    "name": "EF008091",
+    "count": 155
+   },
+   {
+    "code": "EF000441",
+    "name": "Adjustable",
+    "count": 140
+   },
+   {
+    "code": "EF000215",
+    "name": "Type of accessory/spare part",
+    "count": 139
+   }
+  ]
+ },
+ "xal": {
+  "header": {
+   "slug": "xal",
+   "name": "XAL",
+   "supplier": "XAL GmbH",
+   "catalogName": null,
+   "generated": "2026-08-20",
+   "currency": null,
+   "territory": null,
+   "language": "en",
+   "etim": "GLDF 1.0",
+   "format": "GLDF 1.0 (rc.3) \u00b7 one file per variant",
+   "file": "xal.com/aggregated-downloads/gldf.zip \u00b7 1696 of 56,494 files",
+   "fileBytes": 207132821,
+   "source": "Public GLDF archive (12 of 259 families)",
+   "sourceUrl": "https://www.xal.com/en/downloads",
+   "segment": "Architectural"
+  },
+  "counts": {
+   "products": 1696,
+   "luminaires": 1696,
+   "accessories": 0,
+   "families": 13,
+   "models": 34,
+   "etimClasses": 1,
+   "features": 150747,
+   "media": 0,
+   "ldt": 1696,
+   "accessoryLinks": 0,
+   "componentLinks": 0
+  },
+  "classes": [
+   [
+    "GLDF luminaire",
+    1696
+   ]
+  ],
+  "fields": [
+   {
+    "key": "power",
+    "label": "Wattage",
+    "code": "text: system W",
+    "kind": "Text",
+    "precision": "Exact",
+    "unit": "W",
+    "coverage": 1.0,
+    "samples": [
+     "10.4",
+     "15.7",
+     "20.8",
+     "20.9"
+    ]
+   },
+   {
+    "key": "flux",
+    "label": "Lumens",
+    "code": "text \u00b7 RatedLuminousFlux",
+    "kind": "Text",
+    "precision": "Exact",
+    "unit": "lm",
+    "coverage": 1.0,
+    "samples": [
+     "1020",
+     "1000",
+     "1970",
+     "2000"
+    ]
+   },
+   {
+    "key": "efficacy",
+    "label": "Efficacy",
+    "code": "text \u00b7 LuminousEfficacy",
+    "kind": "Text",
+    "precision": "Exact",
+    "unit": "lm/W",
+    "coverage": 1.0,
+    "samples": [
+     "111",
+     "106",
+     "118",
+     "113"
+    ]
+   },
+   {
+    "key": "cct",
+    "label": "Colour temperature",
+    "code": "CorrelatedColorTemperature",
+    "kind": "GLDF",
+    "precision": "Exact",
+    "unit": "K",
+    "coverage": 1.0,
+    "samples": [
+     "3000",
+     "4000",
+     "2700",
+     "3500"
+    ]
+   },
+   {
+    "key": "cri",
+    "label": "CRI",
+    "code": "ColorRenderingIndex",
+    "kind": "GLDF",
+    "precision": "Exact",
+    "unit": "",
+    "coverage": 1.0,
+    "samples": [
+     "90",
+     "80",
+     "95"
+    ]
+   },
+   {
+    "key": "rf",
+    "label": "TM-30 Rf",
+    "code": "text: Rf",
+    "kind": "Text",
+    "precision": "Exact",
+    "unit": "",
+    "coverage": 0.888,
+    "samples": [
+     "90",
+     "91",
+     "92",
+     "89"
+    ]
+   },
+   {
+    "key": "rg",
+    "label": "TM-30 Rg",
+    "code": "text: Rg",
+    "kind": "Text",
+    "precision": "Exact",
+    "unit": "",
+    "coverage": 0.888,
+    "samples": [
+     "99",
+     "96",
+     "101",
+     "97"
+    ]
+   },
+   {
+    "key": "sdcm",
+    "label": "MacAdam",
+    "code": "text: SDCM",
+    "kind": "Text",
+    "precision": "Exact",
+    "unit": "SDCM",
+    "coverage": 1.0,
+    "samples": [
+     "3",
+     "2",
+     "4"
+    ]
+   },
+   {
+    "key": "ugr",
+    "label": "UGR",
+    "code": "text: UGR \u2264",
+    "kind": "Text",
+    "precision": "Limit",
+    "unit": "",
+    "coverage": 0.498,
+    "samples": [
+     "19",
+     "22",
+     "25",
+     "16"
+    ]
+   },
+   {
+    "key": "beam",
+    "label": "Beam angle",
+    "code": "HalfPeakDivergence",
+    "kind": "GLDF",
+    "precision": "Two planes",
+    "unit": "\u00b0",
+    "coverage": 0.988,
+    "samples": [
+     "40 \u00d7 48",
+     "122 \u00d7 112",
+     "104 \u00d7 107",
+     "86 \u00d7 87"
+    ]
+   },
+   {
+    "key": "ip",
+    "label": "IP rating",
+    "code": "IngressProtectionIPCode",
+    "kind": "GLDF",
+    "precision": "Choice",
+    "unit": "",
+    "coverage": 1.0,
+    "samples": [
+     "IP20",
+     "IP40"
+    ]
+   },
+   {
+    "key": "voltage",
+    "label": "Voltage",
+    "code": "VoltageRange",
+    "kind": "GLDF",
+    "precision": "Range",
+    "unit": "V",
+    "coverage": 1.0,
+    "samples": [
+     "220\u2013240"
+    ]
+   },
+   {
+    "key": "current",
+    "label": "Current",
+    "code": "text: mA",
+    "kind": "Text",
+    "precision": "Exact",
+    "unit": "mA",
+    "coverage": 0.434,
+    "samples": [
+     "250",
+     "400",
+     "350",
+     "600"
+    ]
+   },
+   {
+    "key": "cutout",
+    "label": "Cut-out",
+    "code": "text: Cutout",
+    "kind": "Text",
+    "precision": "Exact",
+    "unit": "mm",
+    "coverage": 0.467,
+    "samples": [
+     "70",
+     "73",
+     "74",
+     "92"
+    ]
+   },
+   {
+    "key": "recess",
+    "label": "Recess depth",
+    "code": "text: recessed depth",
+    "kind": "Text",
+    "precision": "Exact",
+    "unit": "mm",
+    "coverage": 0.54,
+    "samples": [
+     "100",
+     "60",
+     "180",
+     "110"
+    ]
+   },
+   {
+    "key": "dimming",
+    "label": "Dimming",
+    "code": "text: Electrical",
+    "kind": "Text",
+    "precision": "Set",
+    "unit": "",
+    "coverage": 1.0,
+    "samples": [
+     "DALI-2",
+     "Switch only"
+    ]
+   },
+   {
+    "key": "finish",
+    "label": "Finish",
+    "code": "text: General",
+    "kind": "Text",
+    "precision": "Choice",
+    "unit": "",
+    "coverage": 0.958,
+    "samples": [
+     "Jet Black",
+     "Traffic White",
+     "Pure White",
+     "Silver"
+    ]
+   },
+   {
+    "key": "trim",
+    "label": "Trim / mounting set",
+    "code": "text: General",
+    "kind": "Text",
+    "precision": "Choice",
+    "unit": "",
+    "coverage": 0.486,
+    "samples": [
+     "Traffic White",
+     "Jet Black",
+     "White Aluminium"
+    ]
+   },
+   {
+    "key": "protection",
+    "label": "Protection class",
+    "code": "ElectricalSafetyClass",
+    "kind": "GLDF",
+    "precision": "Choice",
+    "unit": "",
+    "coverage": 1.0,
+    "samples": [
+     "II",
+     "I"
+    ]
+   },
+   {
+    "key": "length",
+    "label": "Length",
+    "code": "ProductSize/Length",
+    "kind": "GLDF",
+    "precision": "Exact",
+    "unit": "mm",
+    "coverage": 1.0,
+    "samples": [
+     "80",
+     "147",
+     "78",
+     "2008"
+    ]
+   },
+   {
+    "key": "width",
+    "label": "Width",
+    "code": "ProductSize/Width",
+    "kind": "GLDF",
+    "precision": "Exact",
+    "unit": "mm",
+    "coverage": 1.0,
+    "samples": [
+     "0",
+     "40",
+     "43",
+     "80"
+    ]
+   },
+   {
+    "key": "height",
+    "label": "Height / depth",
+    "code": "ProductSize/Height",
+    "kind": "GLDF",
+    "precision": "Exact",
+    "unit": "mm",
+    "coverage": 1.0,
+    "samples": [
+     "48",
+     "65",
+     "105",
+     "13"
+    ]
+   },
+   {
+    "key": "diameter",
+    "label": "Diameter",
+    "code": "ProductSize/Diameter",
+    "kind": "GLDF",
+    "precision": "Exact",
+    "unit": "mm",
+    "coverage": 0.41,
+    "samples": [
+     "80",
+     "78",
+     "98",
+     "73"
+    ]
+   },
+   {
+    "key": "weight",
+    "label": "Weight",
+    "code": "Mechanical/Weight",
+    "kind": "GLDF",
+    "precision": "Exact",
+    "unit": "kg",
+    "coverage": 0.982,
+    "samples": [
+     "0.243",
+     "0.28",
+     "3",
+     "5.3"
+    ]
+   },
+   {
+    "key": "life",
+    "label": "Lifetime",
+    "code": "text: L/h",
+    "kind": "Text",
+    "precision": "Text",
+    "unit": "",
+    "coverage": 1.0,
+    "samples": []
+   },
+   {
+    "key": "price",
+    "label": "List price",
+    "code": "\u2014",
+    "kind": "GLDF",
+    "precision": "Not in GLDF",
+    "unit": "EUR",
+    "coverage": 0.0,
+    "samples": []
+   },
+   {
+    "key": "phot",
+    "label": "Photometry",
+    "code": "embedded LDT",
+    "kind": "File",
+    "precision": "Polar curve",
+    "unit": "",
+    "coverage": 1.0,
+    "samples": []
+   }
+  ],
+  "issues": [
+   {
+    "id": "no-cct",
+    "label": "Colour temperature blank",
+    "count": 0,
+    "field": "cct"
+   },
+   {
+    "id": "no-phot",
+    "label": "No photometry file",
+    "count": 0,
+    "field": "phot"
+   },
+   {
+    "id": "cri-band",
+    "label": "CRI only as a band",
+    "count": 0,
+    "field": "cri"
+   },
+   {
+    "id": "ugr-conflict",
+    "label": "UGR: text and ETIM differ by \u22651",
+    "count": 0,
+    "field": "ugr"
+   },
+   {
+    "id": "beam-conflict",
+    "label": "Beam: photometry outside ETIM band",
+    "count": 0,
+    "field": "beam"
+   },
+   {
+    "id": "oval",
+    "label": "Beam differs by plane (\u22655\u00b0)",
+    "count": 572,
+    "field": "beam",
+    "kind": "info"
+   },
+   {
+    "id": "no-price",
+    "label": "No price",
+    "count": 1696,
+    "field": "price"
+   }
+  ],
+  "unmapped": [
+   {
+    "code": "Locale",
+    "name": "Locale",
+    "count": 59360
+   },
+   {
+    "code": "Application",
+    "name": "Application",
+    "count": 20168
+   },
+   {
+    "code": "File",
+    "name": "File",
+    "count": 6784
+   },
+   {
+    "code": "RatedLuminousFlux",
+    "name": "RatedLuminousFlux",
+    "count": 2124
+   },
+   {
+    "code": "EmitterObjectExternalName",
+    "name": "EmitterObjectExternalName",
+    "count": 2124
+   },
+   {
+    "code": "Lower",
+    "name": "Lower",
+    "count": 1738
+   },
+   {
+    "code": "Upper",
+    "name": "Upper",
+    "count": 1738
+   },
+   {
+    "code": "Manufacturer",
+    "name": "Manufacturer",
+    "count": 1696
+   },
+   {
+    "code": "CreatedWithApplication",
+    "name": "CreatedWithApplication",
+    "count": 1696
+   },
+   {
+    "code": "GldfCreationTimeCode",
+    "name": "GldfCreationTimeCode",
+    "count": 1696
+   },
+   {
+    "code": "UniqueGldfId",
+    "name": "UniqueGldfId",
+    "count": 1696
+   },
+   {
+    "code": "DefaultLanguage",
+    "name": "DefaultLanguage",
+    "count": 1696
+   },
+   {
+    "code": "LicenseKey",
+    "name": "LicenseKey",
+    "count": 1696
+   },
+   {
+    "code": "ReluxMemberId",
+    "name": "ReluxMemberId",
+    "count": 1696
+   },
+   {
+    "code": "Street",
+    "name": "Street",
+    "count": 1696
+   },
+   {
+    "code": "ZIPCode",
+    "name": "ZIPCode",
+    "count": 1696
+   },
+   {
+    "code": "City",
+    "name": "City",
+    "count": 1696
+   },
+   {
+    "code": "Country",
+    "name": "Country",
+    "count": 1696
+   },
+   {
+    "code": "Phone",
+    "name": "Phone",
+    "count": 1696
+   },
+   {
+    "code": "LuminousEfficacy",
+    "name": "LuminousEfficacy",
+    "count": 1696
+   },
+   {
+    "code": "CIE-FluxCode",
+    "name": "CIE-FluxCode",
+    "count": 1696
+   },
+   {
+    "code": "RatedInputPower",
+    "name": "RatedInputPower",
+    "count": 1696
+   },
+   {
+    "code": "Min",
+    "name": "Min",
+    "count": 1696
+   },
+   {
+    "code": "Max",
+    "name": "Max",
+    "count": 1696
+   },
+   {
+    "code": "Type",
+    "name": "Type",
+    "count": 1696
+   },
+   {
+    "code": "Frequency",
+    "name": "Frequency",
+    "count": 1696
+   },
+   {
+    "code": "ColorRenderingIndex",
+    "name": "ColorRenderingIndex",
+    "count": 1696
+   },
+   {
+    "code": "CorrelatedColorTemperature",
+    "name": "CorrelatedColorTemperature",
+    "count": 1696
+   },
+   {
+    "code": "UniqueProductId",
+    "name": "UniqueProductId",
+    "count": 1696
+   },
+   {
+    "code": "Length",
+    "name": "Length",
+    "count": 1696
+   },
+   {
+    "code": "Width",
+    "name": "Width",
+    "count": 1696
+   },
+   {
+    "code": "Height",
+    "name": "Height",
+    "count": 1696
+   },
+   {
+    "code": "ElectricalSafetyClass",
+    "name": "ElectricalSafetyClass",
+    "count": 1696
+   },
+   {
+    "code": "IngressProtectionIPCode",
+    "name": "IngressProtectionIPCode",
+    "count": 1696
+   },
+   {
+    "code": "RatedAmbientTemperature",
+    "name": "RatedAmbientTemperature",
+    "count": 1696
+   },
+   {
+    "code": "DownwardLightOutputRatio",
+    "name": "DownwardLightOutputRatio",
+    "count": 1676
+   },
+   {
+    "code": "Weight",
+    "name": "Weight",
+    "count": 1665
+   },
+   {
+    "code": "LuminaireLuminance",
+    "name": "LuminaireLuminance",
+    "count": 1514
+   },
+   {
+    "code": "C0-C180",
+    "name": "C0-C180",
+    "count": 1336
+   },
+   {
+    "code": "C90-C270",
+    "name": "C90-C270",
+    "count": 1336
+   }
+  ]
+ },
+ "erco": {
+  "header": {
+   "slug": "erco",
+   "catalogName": "ERCO catalogue",
+   "currency": "",
+   "territory": "",
+   "language": "en",
+   "etim": "No ETIM",
+   "fileBytes": 0,
+   "name": "ERCO",
+   "supplier": "ERCO GmbH",
+   "segment": "Architectural",
+   "source": "Kelvin scrape \u00b7 article index (28,244) + full adapter rows (2,753)",
+   "sourceUrl": "https://www.erco.com",
+   "format": "Kelvin catalogue (ERCO product API)",
+   "file": "product-finder-backend.erco.com + agent_catalogue_products",
+   "generated": "2026-08-17"
+  },
+  "counts": {
+   "products": 28244,
+   "luminaires": 28244,
+   "accessories": 0,
+   "families": 44,
+   "models": 44,
+   "etimClasses": 0,
+   "features": 0,
+   "media": 64699,
+   "ldt": 0,
+   "accessoryLinks": 0,
+   "componentLinks": 0
+  },
+  "classes": [
+   [
+    "Downlight / spot",
+    21843
+   ],
+   [
+    "Wallwasher",
+    3102
+   ],
+   [
+    "Linear system",
+    3095
+   ],
+   [
+    "Orientation / step",
+    96
+   ],
+   [
+    "Track",
+    56
+   ],
+   [
+    "Bollard",
+    32
+   ],
+   [
+    "Other",
+    20
+   ]
+  ],
+  "fields": [
+   {
+    "key": "power",
+    "label": "Wattage",
+    "code": "Kelvin adapter",
+    "kind": "Scrape",
+    "precision": "Exact",
+    "unit": "W",
+    "coverage": 0.998,
+    "samples": [
+     "25.7",
+     "5.3",
+     "15.9",
+     "14.4"
+    ]
+   },
+   {
+    "key": "flux",
+    "label": "Lumens",
+    "code": "Kelvin adapter",
+    "kind": "Scrape",
+    "precision": "Exact",
+    "unit": "lm",
+    "coverage": 0.998,
+    "samples": [
+     "300",
+     "1214",
+     "870",
+     "242"
+    ]
+   },
+   {
+    "key": "efficacy",
+    "label": "Efficacy",
+    "code": "Kelvin adapter",
+    "kind": "Scrape",
+    "precision": "Exact",
+    "unit": "lm/W",
+    "coverage": 0.097,
+    "samples": [
+     "82",
+     "87",
+     "88",
+     "84"
+    ]
+   },
+   {
+    "key": "cct",
+    "label": "Colour temperature",
+    "code": "Kelvin adapter",
+    "kind": "Scrape",
+    "precision": "Exact",
+    "unit": "K",
+    "coverage": 0.935,
+    "samples": [
+     "3000.0",
+     "4000.0",
+     "3500.0",
+     "2700.0"
+    ]
+   },
+   {
+    "key": "cri",
+    "label": "CRI",
+    "code": "Kelvin adapter",
+    "kind": "Scrape",
+    "precision": "Exact",
+    "unit": "",
+    "coverage": 0.973,
+    "samples": [
+     "92",
+     "97",
+     "82",
+     "90"
+    ]
+   },
+   {
+    "key": "ugr",
+    "label": "UGR",
+    "code": "Kelvin adapter",
+    "kind": "Scrape",
+    "precision": "Exact",
+    "unit": "",
+    "coverage": 0.214,
+    "samples": [
+     "16.0",
+     "19.0",
+     "17.0",
+     "18.0"
+    ]
+   },
+   {
+    "key": "beam",
+    "label": "Beam angle",
+    "code": "Kelvin adapter",
+    "kind": "Scrape",
+    "precision": "Exact",
+    "unit": "\u00b0",
+    "coverage": 0.811,
+    "samples": [
+     "28.0",
+     "4.0",
+     "14.0",
+     "81.0"
+    ]
+   },
+   {
+    "key": "ip",
+    "label": "IP rating",
+    "code": "Kelvin adapter",
+    "kind": "Scrape",
+    "precision": "Exact",
+    "unit": "",
+    "coverage": 0.097,
+    "samples": [
+     "IP20"
+    ]
+   },
+   {
+    "key": "dimming",
+    "label": "Dimming",
+    "code": "Kelvin adapter",
+    "kind": "Scrape",
+    "precision": "Exact",
+    "unit": "",
+    "coverage": 0.994,
+    "samples": [
+     "DALI",
+     "Casambi",
+     "Switch only",
+     "Phase cut (trailing)"
+    ]
+   },
+   {
+    "key": "finish",
+    "label": "Finish",
+    "code": "Kelvin adapter",
+    "kind": "Scrape",
+    "precision": "Exact",
+    "unit": "",
+    "coverage": 0.994,
+    "samples": [
+     "White",
+     "Black",
+     "Graphite",
+     "Graphit M"
+    ]
+   },
+   {
+    "key": "mounting",
+    "label": "Mounting",
+    "code": "Kelvin adapter",
+    "kind": "Scrape",
+    "precision": "Exact",
+    "unit": "",
+    "coverage": 1.0,
+    "samples": [
+     "Track",
+     "Recessed",
+     "Other",
+     "Surface"
+    ]
+   },
+   {
+    "key": "recess",
+    "label": "Recess depth",
+    "code": "Kelvin adapter",
+    "kind": "Scrape",
+    "precision": "Exact",
+    "unit": "mm",
+    "coverage": 0.0,
+    "samples": []
+   },
+   {
+    "key": "cutout",
+    "label": "Cut-out",
+    "code": "Kelvin adapter",
+    "kind": "Scrape",
+    "precision": "Exact",
+    "unit": "mm",
+    "coverage": 0.013,
+    "samples": [
+     "168.0",
+     "104.0",
+     "206.0",
+     "131.0"
+    ]
+   },
+   {
+    "key": "height",
+    "label": "Height / depth",
+    "code": "Kelvin adapter",
+    "kind": "Scrape",
+    "precision": "Exact",
+    "unit": "mm",
+    "coverage": 0.096,
+    "samples": [
+     "100.0",
+     "241.0",
+     "120.0",
+     "215.0"
+    ]
+   },
+   {
+    "key": "diameter",
+    "label": "Diameter",
+    "code": "Kelvin adapter",
+    "kind": "Scrape",
+    "precision": "Exact",
+    "unit": "mm",
+    "coverage": 0.054,
+    "samples": [
+     "149.0",
+     "114.0",
+     "70.0",
+     "188.0"
+    ]
+   }
+  ],
+  "issues": [
+   {
+    "id": "no-cct",
+    "label": "Colour temperature blank",
+    "count": 1833,
+    "field": "cct"
+   },
+   {
+    "id": "no-beam",
+    "label": "No beam angle",
+    "count": 5327,
+    "field": "beam"
+   },
+   {
+    "id": "no-ip",
+    "label": "No IP rating",
+    "count": 25491,
+    "field": "ip"
+   },
+   {
+    "id": "no-price",
+    "label": "No price",
+    "count": 28244,
+    "field": "price"
+   }
+  ],
+  "unmapped": []
+ },
+ "kreon": {
+  "header": {
+   "slug": "kreon",
+   "catalogName": "Kreon catalogue",
+   "currency": "",
+   "territory": "",
+   "language": "en",
+   "etim": "No ETIM",
+   "fileBytes": 0,
+   "name": "Kreon",
+   "supplier": "Kreon NV",
+   "segment": "Architectural",
+   "source": "Kelvin scrape \u00b7 full adapter rows (4,126)",
+   "sourceUrl": "https://www.kreon.com",
+   "format": "Kelvin catalogue (Kreon product API)",
+   "file": "agent_catalogue_products",
+   "generated": "2026-08-17"
+  },
+  "counts": {
+   "products": 4126,
+   "luminaires": 4126,
+   "accessories": 0,
+   "families": 23,
+   "models": 234,
+   "etimClasses": 0,
+   "features": 0,
+   "media": 18478,
+   "ldt": 0,
+   "accessoryLinks": 0,
+   "componentLinks": 0
+  },
+  "classes": [
+   [
+    "Downlight / spot",
+    3029
+   ],
+   [
+    "Linear system",
+    592
+   ],
+   [
+    "Ceiling / wall",
+    196
+   ],
+   [
+    "Pendant",
+    150
+   ],
+   [
+    "In-ground",
+    72
+   ],
+   [
+    "Floor",
+    44
+   ],
+   [
+    "Other",
+    43
+   ]
+  ],
+  "fields": [
+   {
+    "key": "power",
+    "label": "Wattage",
+    "code": "Kelvin adapter",
+    "kind": "Scrape",
+    "precision": "Exact",
+    "unit": "W",
+    "coverage": 0.688,
+    "samples": [
+     "8.4",
+     "12",
+     "12.7",
+     "13"
+    ]
+   },
+   {
+    "key": "flux",
+    "label": "Lumens",
+    "code": "Kelvin adapter",
+    "kind": "Scrape",
+    "precision": "Exact",
+    "unit": "lm",
+    "coverage": 0.688,
+    "samples": [
+     "508",
+     "547",
+     "563",
+     "153"
+    ]
+   },
+   {
+    "key": "efficacy",
+    "label": "Efficacy",
+    "code": "Kelvin adapter",
+    "kind": "Scrape",
+    "precision": "Exact",
+    "unit": "lm/W",
+    "coverage": 0.553,
+    "samples": [
+     "60",
+     "65",
+     "80",
+     "79"
+    ]
+   },
+   {
+    "key": "cct",
+    "label": "Colour temperature",
+    "code": "Kelvin adapter",
+    "kind": "Scrape",
+    "precision": "Exact",
+    "unit": "K",
+    "coverage": 0.927,
+    "samples": [
+     "3000.0",
+     "2700.0",
+     "4000.0",
+     "3500.0"
+    ]
+   },
+   {
+    "key": "cri",
+    "label": "CRI",
+    "code": "Kelvin adapter",
+    "kind": "Scrape",
+    "precision": "Exact",
+    "unit": "",
+    "coverage": 0.958,
+    "samples": [
+     "90",
+     "95",
+     "80",
+     "98"
+    ]
+   },
+   {
+    "key": "ugr",
+    "label": "UGR",
+    "code": "Kelvin adapter",
+    "kind": "Scrape",
+    "precision": "Exact",
+    "unit": "",
+    "coverage": 0.617,
+    "samples": [
+     "16.0",
+     "17.0",
+     "15.4",
+     "13.0"
+    ]
+   },
+   {
+    "key": "beam",
+    "label": "Beam angle",
+    "code": "Kelvin adapter",
+    "kind": "Scrape",
+    "precision": "Exact",
+    "unit": "\u00b0",
+    "coverage": 0.449,
+    "samples": [
+     "18.0",
+     "33.0",
+     "22.0",
+     "19.0"
+    ]
+   },
+   {
+    "key": "ip",
+    "label": "IP rating",
+    "code": "Kelvin adapter",
+    "kind": "Scrape",
+    "precision": "Exact",
+    "unit": "",
+    "coverage": 0.964,
+    "samples": [
+     "IP40",
+     "IP20",
+     "IP44",
+     "IP67"
+    ]
+   },
+   {
+    "key": "dimming",
+    "label": "Dimming",
+    "code": "Kelvin adapter",
+    "kind": "Scrape",
+    "precision": "Exact",
+    "unit": "",
+    "coverage": 0.469,
+    "samples": [
+     "Switch only",
+     "DALI",
+     "Phase cut (trailing)"
+    ]
+   },
+   {
+    "key": "finish",
+    "label": "Finish",
+    "code": "Kelvin adapter",
+    "kind": "Scrape",
+    "precision": "Exact",
+    "unit": "",
+    "coverage": 0.782,
+    "samples": [
+     "Black",
+     "White",
+     "Gun Black",
+     "Brushed Gold"
+    ]
+   },
+   {
+    "key": "mounting",
+    "label": "Mounting",
+    "code": "Kelvin adapter",
+    "kind": "Scrape",
+    "precision": "Exact",
+    "unit": "",
+    "coverage": 1.0,
+    "samples": [
+     "Recessed",
+     "Track",
+     "Other",
+     "Wall"
+    ]
+   },
+   {
+    "key": "recess",
+    "label": "Recess depth",
+    "code": "Kelvin adapter",
+    "kind": "Scrape",
+    "precision": "Exact",
+    "unit": "mm",
+    "coverage": 0.412,
+    "samples": [
+     "100.0",
+     "115.0",
+     "80.0",
+     "60.0"
+    ]
+   },
+   {
+    "key": "cutout",
+    "label": "Cut-out",
+    "code": "Kelvin adapter",
+    "kind": "Scrape",
+    "precision": "Exact",
+    "unit": "mm",
+    "coverage": 0.266,
+    "samples": [
+     "102.0",
+     "90.0",
+     "68.0",
+     "45.0"
+    ]
+   },
+   {
+    "key": "height",
+    "label": "Height / depth",
+    "code": "Kelvin adapter",
+    "kind": "Scrape",
+    "precision": "Exact",
+    "unit": "mm",
+    "coverage": 0.0,
+    "samples": []
+   },
+   {
+    "key": "diameter",
+    "label": "Diameter",
+    "code": "Kelvin adapter",
+    "kind": "Scrape",
+    "precision": "Exact",
+    "unit": "mm",
+    "coverage": 0.0,
+    "samples": []
+   }
+  ],
+  "issues": [
+   {
+    "id": "no-cct",
+    "label": "Colour temperature blank",
+    "count": 301,
+    "field": "cct"
+   },
+   {
+    "id": "no-beam",
+    "label": "No beam angle",
+    "count": 2272,
+    "field": "beam"
+   },
+   {
+    "id": "no-ip",
+    "label": "No IP rating",
+    "count": 150,
+    "field": "ip"
+   },
+   {
+    "id": "no-price",
+    "label": "No price",
+    "count": 4126,
+    "field": "price"
+   }
+  ],
+  "unmapped": []
+ }
+}

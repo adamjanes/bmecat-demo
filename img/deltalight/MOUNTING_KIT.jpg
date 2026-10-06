@@ -1,0 +1,2881 @@
+
+
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+    <meta charset="utf-8" />
+
+    <title>    Page not found - DELTALIGHT
+</title>
+
+                        <!-- HTML meta -->
+            <meta name="description" content="This page was not found" />
+                                    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <meta name="generator" content="Fratello CMS - iO Belgium" />
+
+    
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/favicon/apple-touch-icon.png?e5a315999cb8e51c67cd2c1e33e396208ce97454">
+<link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon/favicon-32x32.png?e5a315999cb8e51c67cd2c1e33e396208ce97454">
+<link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon/favicon-16x16.png?e5a315999cb8e51c67cd2c1e33e396208ce97454">
+<link rel="manifest" href="/assets/favicon/site.webmanifest?e5a315999cb8e51c67cd2c1e33e396208ce97454">
+<link rel="mask-icon" href="/assets/favicon/safari-pinned-tab.svg?e5a315999cb8e51c67cd2c1e33e396208ce97454" color="#004c97">
+<link rel="shortcut icon" href="/assets/favicon/favicon.ico?e5a315999cb8e51c67cd2c1e33e396208ce97454">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-config" content="/assets/favicon/browserconfig.xml?e5a315999cb8e51c67cd2c1e33e396208ce97454">
+<meta name="theme-color" content="#ffffff">
+
+                
+    <meta property="og:title" content="Page not found" />
+
+    
+    <meta property="og:description" content="This page was not found" />
+
+    <meta property="og:image" content="/assets/deltalight/images/deltalight-og.jpg?e5a315999cb8e51c67cd2c1e33e396208ce97454" />
+        <meta name="og:site_name" content="DELTALIGHT" />
+
+                        <meta name="robots" content="noindex, follow">
+            
+    
+                <style>
+        :root {
+            --color-cms-accent-100: 229,232,235;            --color-cms-accent-300: 206,213,219;            --color-cms-accent-500: 188,198,206;            --color-cms-accent-700: 152,164,174;            --color-cms-accent-900: 106,120,132;            --color-cms-accent-contrast:0,0,0;        }
+    </style>
+    <link charset="utf-8" type="text/css" href="/assets/deltalight/css/main.css?e5a315999cb8e51c67cd2c1e33e396208ce97454" rel="stylesheet" />
+
+            
+
+
+                
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+        
+        
+                <script>
+            dataLayer = [{
+                'allowedCookieGroups': ""
+            }];
+        </script>
+    
+            <!-- Tracking & Analytics -->
+        <script>
+            window.gtmInit = function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+                'https://sgtm.deltalight.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+            };
+            // When no tracking preferences are detected, this is only executed once Cookie Consent Modal preferences are saved
+            window.loadTrackers = () => {
+                // Load Google Tag Manager
+                window.gtmInit(window, document, 'script', 'dataLayer', 'GTM-TGT4555');
+                /* Add other trackers below */
+            };
+            // Automatically load trackers
+            window.loadTrackers();
+        </script>
+
+                                                
+        <div><div data-fratello-id="InitTracking" data-props="{&quot;location&quot;:&quot;frontend&quot;,&quot;role&quot;:&quot;unknown&quot;,&quot;organization&quot;:&quot;&quot;,&quot;login&quot;:&quot;false&quot;,&quot;currencyCode&quot;:&quot;EUR&quot;,&quot;reduxID&quot;:&quot;4042dd92-be06-11f1-b1ac-00505693bd3f_BE&quot;,&quot;hydrate&quot;:true}" data-redux-id="4042dd92-be06-11f1-b1ac-00505693bd3f_BE" class="d-none"></div></div>
+        <!-- End Tracking & Analytics -->
+    
+            <!-- OptanonConsentNoticeStart -->
+        <script src="https://cookie-cdn.cookiepro.com/scripttemplates/otSDKStub.js"  type="text/javascript" charset="UTF-8" data-domain-script="c1df88ea-70b3-4afd-8d26-7cd0500bb520" ></script>
+        <script type="text/javascript">
+            function OptanonWrapper() { }
+        </script>
+        <!-- OptanonConsentNoticeEnd -->
+    
+    <script src='https://formui-usa1.mkt.dynamics.com/eur/FormLoader/FormLoader.bundle.js'></script>
+
+        </head>
+
+<body class="page-body page-error"
+        >
+    <div class="d-none">
+                        <div><div data-fratello-id="FratelloApi" data-props="{&quot;config&quot;:{&quot;site&quot;:&quot;default&quot;,&quot;locale&quot;:&quot;en_BE&quot;},&quot;urls&quot;:{&quot;refreshToken&quot;:&quot;https://deltalight.com/token?_locale=en&quot;},&quot;reduxID&quot;:&quot;404332ec-be06-11f1-8c0c-00505693bd3f_BE&quot;,&quot;hydrate&quot;:true}" data-redux-id="404332ec-be06-11f1-8c0c-00505693bd3f_BE"></div></div>
+        <script>window.addEventListener("load", function() { initializeStore("ApiStore", {"config":{"site":"default","locale":"en_BE"},"urls":{"refreshToken":"https:\/\/deltalight.com\/token?_locale=en"}}); })</script>
+    </div>
+
+    <script>window.addEventListener("load", function() { initializeStore("MessagingStore", []); })</script>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript>
+        <iframe
+            src="https://sgtm.deltalight.com/ns.html?id=GTM-TGT4555"
+            height="0"
+            width="0"
+            style="display:none;visibility:hidden"
+        ></iframe>
+    </noscript>
+    <!-- End Google Tag Manager (noscript) -->
+<svg xmlns='http://www.w3.org/2000/svg' style='display:none;'>
+    <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="arrow-bend-down-left">
+        <path d="M21.6 5.25a9.6 9.6 0 0 1-9.6 9.6H4.448l3.9 3.9-.848.849-4.924-4.925a.6.6 0 0 1 0-.848L7.5 8.9l.848.849-3.9 3.9H12a8.4 8.4 0 0 0 8.4-8.4h1.2Z" fill="currentColor"></path>
+    </symbol>
+    <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="arrow-bend-down-right">
+        <path d="M2.4 5.25a9.6 9.6 0 0 0 9.6 9.6h7.551l-3.9 3.9.849.849 4.924-4.925a.6.6 0 0 0 0-.848L16.5 8.9l-.849.849 3.9 3.9H12a8.4 8.4 0 0 1-8.4-8.4H2.4Z" fill="currentColor"></path>
+    </symbol>
+    </symbol>
+    <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="arrow-down">
+        <path d="M12.63 1v18h-1.25V1h1.25Z" fill="currentColor"></path>
+        <path d="m12 23-4-5h8l-4 5Z" fill="currentColor"></path>
+    </symbol>
+    <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="arrow-fill-up">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M3.125 4.5C3.125 3.74061 3.74061 3.125 4.5 3.125H19.5C20.2594 3.125 20.875 3.74061 20.875 4.5V19.5C20.875 20.2594 20.2594 20.875 19.5 20.875H4.5C3.74061 20.875 3.125 20.2594 3.125 19.5V4.5ZM17 15.2L12 8.53333L7 15.2L17 15.2Z" fill="currentColor"/>
+    </symbol>
+    <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="arrow-fill-down">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M3.125 4.5C3.125 3.74061 3.74061 3.125 4.5 3.125H19.5C20.2594 3.125 20.875 3.74061 20.875 4.5V19.5C20.875 20.2594 20.2594 20.875 19.5 20.875H4.5C3.74061 20.875 3.125 20.2594 3.125 19.5V4.5ZM7 9.5L12 16.1667L17 9.5L7 9.5Z" fill="currentColor"/>
+    </symbol>
+    <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="arrow-left">
+        <path d="M23 12.63H5v-1.25h18v1.25Z" fill="currentColor"></path>
+        <path d="m1 12 5-4v8l-5-4Z" fill="currentColor"></path>
+    </symbol>
+    <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="arrow-right">
+        <path d="M1 11.37h18v1.25H1v-1.25Z" fill="currentColor"></path>
+        <path d="m23 12-5 4V8l5 4Z" fill="currentColor"></path>
+    </symbol>
+    <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="arrow-up">
+        <path d="M11.37 23V5h1.25v18h-1.25Z" fill="currentColor"></path>
+        <path d="m12 1 4 5H8l4-5Z" fill="currentColor"></path>
+    </symbol>
+    <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="bell">
+        <path d="M20.59 16.56c-.56-.98-1.24-2.82-1.24-6.06v-.67c0-4.08-3.28-7.43-7.36-7.46-1.97 0-3.82.77-5.21 2.16a7.313 7.313 0 0 0-2.15 5.21v.75c0 3.24-.67 5.09-1.24 6.06-.12.21-.18.44-.18.68 0 .76.61 1.38 1.37 1.38h3.78v.12c0 2 1.63 3.62 3.62 3.62 1.99 0 3.62-1.63 3.62-3.62v-.12h3.79c.24 0 .47-.07.68-.18.32-.18.55-.48.64-.83.09-.35.05-.73-.14-1.04h.02Zm-6.22 2.19c0 1.31-1.07 2.38-2.38 2.38-1.31 0-2.38-1.07-2.38-2.38v-.12h4.75v.12h.01Zm5.03-1.38H4.6c-.07 0-.13-.06-.11-.19.64-1.11 1.41-3.17 1.41-6.69v-.75c0-1.63.63-3.17 1.79-4.33a6.075 6.075 0 0 1 4.36-1.8c3.34.02 6.06 2.81 6.06 6.21v.67c0 3.52.76 5.58 1.42 6.78l-.12.09-.01.01Z" fill="currentColor"></path>
+    </symbol>
+    <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="bulb">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M7.625 21.125h8.75v1.25h-8.75v-1.25ZM12.625 12.875v6.5h-1.25v-6.5h1.25Z" fill="currentColor"></path>
+        <path fill-rule="evenodd" clip-rule="evenodd" d="m9 9.616 3 3 3-3 .884.884-3.442 3.442a.625.625 0 0 1-.884 0L8.116 10.5 9 9.616Z" fill="currentColor"></path>
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M15.889 4.078a6.875 6.875 0 0 0-4.052-1.203c-3.726.086-6.73 3.189-6.712 6.919a6.831 6.831 0 0 0 2.637 5.369l-.384.493.387-.49a2.912 2.912 0 0 1 1.11 2.267V18a.125.125 0 0 0 .125.125h6a.125.125 0 0 0 .125-.125v-.564a2.893 2.893 0 0 1 1.122-2.282 6.874 6.874 0 0 0-.358-11.076Zm-8.896 12.07a8.08 8.08 0 0 1-3.118-6.35c-.02-4.406 3.521-8.07 7.932-8.173a8.126 8.126 0 0 1 5.21 14.514l-.003.002a1.644 1.644 0 0 0-.639 1.297V18A1.375 1.375 0 0 1 15 19.375H9A1.375 1.375 0 0 1 7.625 18v-.56a1.662 1.662 0 0 0-.632-1.292Z" fill="currentColor"></path>
+    </symbol>
+    <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="calculator">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M6.875 6c0-.345.28-.625.625-.625h9c.345 0 .625.28.625.625v4.5c0 .345-.28.625-.625.625h-9a.625.625 0 0 1-.625-.625V6Zm1.25.625v3.25h7.75v-3.25h-7.75Z" fill="currentColor"></path>
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M18.875 3.75a.125.125 0 0 0-.125-.125H5.25a.125.125 0 0 0-.125.125v16.5c0 .069.056.125.125.125h13.5a.125.125 0 0 0 .125-.125V3.75Zm-.125-1.375c.76 0 1.375.616 1.375 1.375v16.5c0 .76-.616 1.375-1.375 1.375H5.25c-.76 0-1.375-.616-1.375-1.375V3.75c0-.76.616-1.375 1.375-1.375h13.5Z" fill="currentColor"></path>
+        <path d="M8.25 14.813a.937.937 0 1 0 0-1.875.937.937 0 0 0 0 1.874ZM12 14.813a.937.937 0 1 0 0-1.875.937.937 0 0 0 0 1.874ZM15.75 14.813a.937.937 0 1 0 0-1.875.937.937 0 0 0 0 1.874ZM8.25 18.563a.937.937 0 1 0 0-1.875.937.937 0 0 0 0 1.875ZM12 18.563a.937.937 0 1 0 0-1.875.937.937 0 0 0 0 1.875ZM15.75 18.563a.937.937 0 1 0 0-1.875.937.937 0 0 0 0 1.875Z" fill="currentColor"></path>
+    </symbol>
+    <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="calendar">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M4.5 4.375a.125.125 0 0 0-.125.125v15c0 .069.056.125.125.125h15a.125.125 0 0 0 .125-.125v-15a.125.125 0 0 0-.125-.125h-15ZM3.125 4.5c0-.76.616-1.375 1.375-1.375h15c.76 0 1.375.616 1.375 1.375v15c0 .76-.616 1.375-1.375 1.375h-15c-.76 0-1.375-.616-1.375-1.375v-15Z" fill="currentColor"></path>
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M17.125 1.625v4.25h-1.25v-4.25h1.25ZM8.125 1.625v4.25h-1.25v-4.25h1.25ZM3.125 7.625h17.75v1.25H3.125v-1.25Z" fill="currentColor"></path>
+    </symbol>
+    <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="cart">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M2 1.625h2.203a1.375 1.375 0 0 1 1.34 1.133v.001l2.522 13.866H18.25v1.25H7.544a.625.625 0 0 1-.615-.513L4.313 2.978a.125.125 0 0 0-.12-.103H2v-1.25Z" fill="currentColor"></path>
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M8.5 17.875a1.25 1.25 0 1 0 0 2.5 1.25 1.25 0 0 0 0-2.5ZM6 19.125a2.5 2.5 0 1 1 5 0 2.5 2.5 0 0 1-5 0ZM18.25 17.875a1.25 1.25 0 1 0 0 2.5 1.25 1.25 0 0 0 0-2.5Zm-2.5 1.25a2.5 2.5 0 1 1 5 0 2.5 2.5 0 0 1-5 0ZM5.078 5.375H21.25a.625.625 0 0 1 .615.737l-1.143 6.27v.001a2.116 2.116 0 0 1-2.088 1.742h-11.4l-.734-1.25H18.636a.865.865 0 0 0 .855-.713v-.002l1.01-5.535H5.543l-.465-1.25Z" fill="currentColor"></path>
+    </symbol>
+    <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="chat">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M3.75 5.875A.125.125 0 0 0 3.625 6v14.884a.125.125 0 0 0 .204.095v-.001l3.082-2.585a.625.625 0 0 1 .194-.11l.347-.123a.625.625 0 0 1 .207-.035H20.25a.125.125 0 0 0 .125-.125V6a.125.125 0 0 0-.125-.125H3.75Zm-.972-.847c.258-.258.607-.403.972-.403h16.5A1.375 1.375 0 0 1 21.625 6v12a1.375 1.375 0 0 1-1.375 1.375H7.766l-.139.049-2.997 2.514-.003.003a1.376 1.376 0 0 1-2.252-1.049V6c0-.365.145-.714.403-.972Zm5.597 4.847h7.25v1.25h-7.25v-1.25Zm0 3h7.25v1.25h-7.25v-1.25Z" fill="currentColor"></path>
+    </symbol>
+    <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="check-circle">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M12 3.625a8.375 8.375 0 1 0 0 16.75 8.375 8.375 0 0 0 0-16.75ZM2.375 12a9.625 9.625 0 1 1 19.25 0 9.625 9.625 0 0 1-19.25 0Z" fill="currentColor"/>
+        <path fill-rule="evenodd" clip-rule="evenodd" d="m17.009 9.77-5.956 5.682a.625.625 0 0 1-.863 0l-3.199-3.057.864-.904 2.767 2.645 5.524-5.27.863.905Z" fill="currentColor"/>
+    </symbol>
+    <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="checkbox-checked-fill">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M4.5 3.125c-.76 0-1.375.616-1.375 1.375v15c0 .76.616 1.375 1.375 1.375h15c.76 0 1.375-.616 1.375-1.375v-15c0-.76-.616-1.375-1.375-1.375h-15Zm6.553 12.327 5.956-5.681-.863-.905-5.524 5.27-2.767-2.645-.864.904 3.199 3.057c.241.23.622.23.863 0Z" fill="currentColor"></path>
+    </symbol>
+    <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="checkbox-checked">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="m17.009 9.77-5.956 5.682a.625.625 0 0 1-.863 0l-3.199-3.057.864-.904 2.767 2.645 5.524-5.27.863.905Z" fill="currentColor"></path>
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M4.5 4.375a.125.125 0 0 0-.125.125v15c0 .069.056.125.125.125h15a.125.125 0 0 0 .125-.125v-15a.125.125 0 0 0-.125-.125h-15ZM3.125 4.5c0-.76.616-1.375 1.375-1.375h15c.76 0 1.375.616 1.375 1.375v15c0 .76-.616 1.375-1.375 1.375h-15c-.76 0-1.375-.616-1.375-1.375v-15Z" fill="currentColor"></path>
+    </symbol>
+    <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="checkbox-indetermined-fill">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M4.5 3.125c-.76 0-1.375.616-1.375 1.375v15c0 .76.616 1.375 1.375 1.375h15c.76 0 1.375-.616 1.375-1.375v-15c0-.76-.616-1.375-1.375-1.375h-15Zm12 8.25h-9v1.25h9v-1.25Z" fill="currentColor"></path>
+    </symbol>
+    <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="checkbox-indetermined">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M4.5 4.375a.125.125 0 0 0-.125.125v15c0 .069.056.125.125.125h15a.125.125 0 0 0 .125-.125v-15a.125.125 0 0 0-.125-.125h-15ZM3.125 4.5c0-.76.616-1.375 1.375-1.375h15c.76 0 1.375.616 1.375 1.375v15c0 .76-.616 1.375-1.375 1.375h-15c-.76 0-1.375-.616-1.375-1.375v-15Z" fill="currentColor"></path>
+        <path d="M7.5 11.375h9v1.25h-9v-1.25Z" fill="currentColor"></path>
+    </symbol>
+    <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="checkbox">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M4.5 4.375a.125.125 0 0 0-.125.125v15c0 .069.056.125.125.125h15a.125.125 0 0 0 .125-.125v-15a.125.125 0 0 0-.125-.125h-15ZM3.125 4.5c0-.76.616-1.375 1.375-1.375h15c.76 0 1.375.616 1.375 1.375v15c0 .76-.616 1.375-1.375 1.375h-15c-.76 0-1.375-.616-1.375-1.375v-15Z" fill="currentColor"></path>
+    </symbol>
+    <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="chevron-down">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="m4.5 9.116 7.5 7.5 7.5-7.5.884.884-7.942 7.942a.625.625 0 0 1-.884 0L3.616 10l.884-.884Z" fill="currentColor"></path>
+    </symbol>
+    <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="chevron-left">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="m15.884 4.5-7.5 7.5 7.5 7.5-.884.884-7.942-7.942a.625.625 0 0 1 0-.884L15 3.616l.884.884Z" fill="currentColor"></path>
+    </symbol>
+    <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="chevron-right">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="m10.116 19.5 7.5-7.5-7.5-7.5.884-.884 7.942 7.942a.625.625 0 0 1 0 .884L11 20.384l-.884-.884Z" fill="currentColor"></path>
+    </symbol>
+    <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="chevron-up">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="m19.5 14.884-7.5-7.5-7.5 7.5L3.616 14l7.942-7.942a.625.625 0 0 1 .884 0L20.384 14l-.884.884Z" fill="currentColor"></path>
+    </symbol>
+    <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="clock">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M12 3.625a8.375 8.375 0 1 0 0 16.75 8.375 8.375 0 0 0 0-16.75ZM2.375 12a9.625 9.625 0 1 1 19.25 0 9.625 9.625 0 0 1-19.25 0Z" fill="currentColor"></path>
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M12.625 6.125v5.25h5.25v1.25H12a.625.625 0 0 1-.625-.625V6.125h1.25Z" fill="currentColor"></path>
+    </symbol>
+    <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="close">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M19.634 5.25 5.25 19.634l-.884-.884L18.75 4.366l.884.884Z" fill="currentColor"></path>
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M5.25 4.366 19.634 18.75l-.884.884L4.366 5.25l.884-.884Z" fill="currentColor"></path>
+    </symbol>
+    <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="configurator">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M19.4497 3.07507V14.2548H18.1997L18.1997 3.07507L19.4497 3.07507Z" fill="currentColor"/>
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M19.4497 17.8281V20.8251H18.1997V17.8281H19.4497Z" fill="currentColor"/>
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M12.65 3.07507L12.65 7.90625H11.4L11.4 3.07507L12.65 3.07507Z" fill="currentColor"/>
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M12.65 11.8438V20.8251H11.4V11.8438H12.65Z" fill="currentColor"/>
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M5.44971 3.07507L5.44971 14.0469H4.19971L4.19971 3.07507L5.44971 3.07507Z" fill="currentColor"/>
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M5.44971 17.6094L5.44971 20.8251H4.19971V17.6094H5.44971Z" fill="currentColor"/>
+        <path d="M13.4004 9.85938C13.4004 9.08618 12.7732 8.45898 12 8.45898C11.2268 8.45898 10.5996 9.08618 10.5996 9.85938C10.5996 10.6326 11.2268 11.2598 12 11.2598V12.3594C10.6193 12.3594 9.5 11.2401 9.5 9.85938C9.5 8.47866 10.6193 7.35938 12 7.35938C13.3807 7.35938 14.5 8.47866 14.5 9.85938C14.5 11.2401 13.3807 12.3594 12 12.3594V11.2598C12.7732 11.2598 13.4004 10.6326 13.4004 9.85938Z" fill="currentColor"/>
+        <path d="M20.4004 15.8594C20.4004 15.0862 19.7732 14.459 19 14.459C18.2268 14.459 17.5996 15.0862 17.5996 15.8594C17.5996 16.6326 18.2268 17.2598 19 17.2598V18.3594C17.6193 18.3594 16.5 17.2401 16.5 15.8594C16.5 14.4787 17.6193 13.3594 19 13.3594C20.3807 13.3594 21.5 14.4787 21.5 15.8594C21.5 17.2401 20.3807 18.3594 19 18.3594V17.2598C19.7732 17.2598 20.4004 16.6326 20.4004 15.8594Z" fill="currentColor"/>
+        <path d="M6.40039 15.8594C6.40039 15.0862 5.7732 14.459 5 14.459C4.2268 14.459 3.59961 15.0862 3.59961 15.8594C3.59961 16.6326 4.2268 17.2598 5 17.2598V18.3594C3.61929 18.3594 2.5 17.2401 2.5 15.8594C2.5 14.4787 3.61929 13.3594 5 13.3594C6.38071 13.3594 7.5 14.4787 7.5 15.8594C7.5 17.2401 6.38071 18.3594 5 18.3594V17.2598C5.7732 17.2598 6.40039 16.6326 6.40039 15.8594Z" fill="currentColor"/>
+    </symbol>
+    <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="copy-file">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M7.625 3.75c0-.345.28-.625.625-.625h12c.345 0 .625.28.625.625v12c0 .345-.28.625-.625.625h-5.125v-1.25h4.5V4.375H8.875v4.5h-1.25V3.75Z" fill="currentColor"></path>
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M3.125 8.25c0-.345.28-.625.625-.625h12c.345 0 .625.28.625.625v12c0 .345-.28.625-.625.625h-12a.625.625 0 0 1-.625-.625v-12Zm1.25.625v10.75h10.75V8.875H4.375Z" fill="currentColor"></path>
+    </symbol>
+    <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="delete">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M3.281 4.844H21.72v1.25H3.28v-1.25ZM10.781 9.531v7.5h-1.25v-7.5h1.25ZM15.469 9.531v7.5h-1.25v-7.5h1.25Z" fill="currentColor"></path>
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M6.094 4.844v15.468a.156.156 0 0 0 .156.157h12.5a.156.156 0 0 0 .156-.157V4.845h1.25v15.468a1.406 1.406 0 0 1-1.406 1.407H6.25a1.406 1.406 0 0 1-1.406-1.407V4.845h1.25Z" fill="currentColor"></path>
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M8.61 2.36c.41-.41.966-.641 1.546-.641h4.688a2.187 2.187 0 0 1 2.187 2.187v2.188h-1.25V3.906a.937.937 0 0 0-.937-.937h-4.688a.937.937 0 0 0-.937.937v2.188h-1.25V3.906c0-.58.23-1.136.64-1.547Z" fill="currentColor"></path>
+    </symbol>
+    <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="dots-vertical">
+        <path d="M12 13.125a1.125 1.125 0 1 0 0-2.25 1.125 1.125 0 0 0 0 2.25ZM12 7.125a1.125 1.125 0 1 0 0-2.25 1.125 1.125 0 0 0 0 2.25ZM12 19.125a1.125 1.125 0 1 0 0-2.25 1.125 1.125 0 0 0 0 2.25Z" fill="currentColor"></path>
+    </symbol>
+    <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="download">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M8.063 9.429 12 13.366l3.938-3.937.883.883-4.38 4.38a.625.625 0 0 1-.883 0l-4.38-4.38.885-.883Z" fill="currentColor"></path>
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M12.625 3.125v10.75h-1.25V3.125h1.25Z" fill="currentColor"></path>
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M4.375 13.625V19.5a.125.125 0 0 0 .125.125h15a.125.125 0 0 0 .125-.125v-5.875h1.25V19.5a1.375 1.375 0 0 1-1.375 1.375h-15A1.375 1.375 0 0 1 3.125 19.5v-5.875h1.25Z" fill="currentColor"></path>
+    </symbol>
+    <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="email">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M2.375 5.25c0-.345.28-.625.625-.625h18c.345 0 .625.28.625.625V18a1.375 1.375 0 0 1-1.375 1.375H3.75A1.375 1.375 0 0 1 2.375 18V5.25Zm1.25.625V18a.125.125 0 0 0 .125.125h16.5a.125.125 0 0 0 .125-.125V5.875H3.625Z" fill="currentColor"></path>
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M2.54 4.828a.625.625 0 0 1 .882-.039L12 12.652l8.578-7.863a.625.625 0 1 1 .844.922l-9 8.25a.625.625 0 0 1-.844 0l-9-8.25a.625.625 0 0 1-.039-.883Z" fill="currentColor"></path>
+    </symbol>
+    <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="file-add">
+        <path d="M12.6 11.4v2.25h2.25v1.2H12.6v2.25h-1.2v-2.25H9.15v-1.2h2.25V11.4h1.2Z" fill="currentColor"></path>
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M20.1 20.25v-12a.598.598 0 0 0-.177-.425l-5.249-5.25-.005-.005a.598.598 0 0 0-.42-.17h-9A1.35 1.35 0 0 0 3.9 3.75v16.5a1.35 1.35 0 0 0 1.35 1.35h13.5a1.35 1.35 0 0 0 1.35-1.35ZM5.25 3.6a.15.15 0 0 0-.15.15v16.5a.15.15 0 0 0 .15.15h13.5a.15.15 0 0 0 .15-.15V8.85h-4.65a.6.6 0 0 1-.6-.6V3.6h-8.4ZM18.05 7.65 14.85 4.449V7.65h3.201Z" fill="currentColor"></path>
+    </symbol>
+    <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="file-download">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M5.25 3.625a.125.125 0 0 0-.125.125v16.5a.125.125 0 0 0 .125.125h13.5a.125.125 0 0 0 .125-.125V8.509l-4.884-4.884H5.25Zm-.972-.847c.258-.258.607-.403.972-.403h9c.166 0 .325.066.442.183l5.25 5.25a.625.625 0 0 1 .183.442v12a1.375 1.375 0 0 1-1.375 1.375H5.25a1.375 1.375 0 0 1-1.375-1.375V3.75c0-.365.145-.714.403-.972Z" fill="currentColor"></path>
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M14.875 3.375v4.25h4.25l1 1.25H14.25a.625.625 0 0 1-.625-.625V2.375l1.25 1ZM12.625 9.625v7.25h-1.25v-7.25h1.25Z" fill="currentColor"></path>
+        <path d="m12 18 3.464-3H8.536L12 18Z" fill="currentColor"></path>
+    </symbol>
+    <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="file">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M5.25 3.625a.125.125 0 0 0-.125.125v16.5a.125.125 0 0 0 .125.125h13.5a.125.125 0 0 0 .125-.125V8.509l-4.884-4.884H5.25Zm-.972-.847c.258-.258.607-.403.972-.403h9c.166 0 .325.066.442.183l5.25 5.25a.625.625 0 0 1 .183.442v12a1.375 1.375 0 0 1-1.375 1.375H5.25a1.375 1.375 0 0 1-1.375-1.375V3.75c0-.365.145-.714.403-.972Z" fill="currentColor"></path>
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M14.875 3.375v4.25h4.469l.781 1.25H14.25a.625.625 0 0 1-.625-.625V2.375l1.25 1Z" fill="currentColor"></path>
+    </symbol>
+    <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="folder">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M4.75 5.875A.125.125 0 0 0 4.625 6v14.125h-1.25V6A1.375 1.375 0 0 1 4.75 4.625h5c.295.001.583.097.82.273l.001.002 2.605 1.948c.023.017.05.027.079.027h6.495a1.375 1.375 0 0 1 1.375 1.375v2.875h-1.25V8.25a.125.125 0 0 0-.125-.125h-6.499a1.384 1.384 0 0 1-.82-.273l-.002-.002-2.605-1.948a.136.136 0 0 0-.079-.027H4.75Z" fill="currentColor"></path>
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M7.72 11.125a.375.375 0 0 0-.355.256l-2.498 7.494H19.78a.375.375 0 0 0 .356-.256l2.333-7a.375.375 0 0 0-.355-.494H7.72Zm-1.54-.139a1.625 1.625 0 0 1 1.54-1.111h14.393a1.625 1.625 0 0 1 1.541 2.139l-2.333 7a1.625 1.625 0 0 1-1.542 1.111H4.008V17.5l2.171-6.514Z" fill="currentColor"></path>
+    </symbol>
+    <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="forbidden-circle">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M12 3.625a8.375 8.375 0 1 0 0 16.75 8.375 8.375 0 0 0 0-16.75ZM2.375 12a9.625 9.625 0 1 1 19.25 0 9.625 9.625 0 0 1-19.25 0Z" fill="currentColor"></path>
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M5.634 4.75 19.25 18.366l-.884.884L4.75 5.634l.884-.884Z" fill="currentColor"></path>
+    </symbol>
+    <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="gear">
+        <path d="M12 17.12c-2.83 0-5.12-2.3-5.12-5.12 0-2.82 2.3-5.12 5.12-5.12 2.82 0 5.13 2.3 5.13 5.12 0 2.82-2.3 5.12-5.13 5.12Zm0-9c-2.14 0-3.88 1.74-3.88 3.88 0 2.14 1.74 3.87 3.88 3.87 2.14 0 3.88-1.74 3.88-3.87A3.89 3.89 0 0 0 12 8.12Z" fill="currentColor"></path>
+        <path d="M9.45 22.04c-.05 0-.11 0-.16-.02A9.99 9.99 0 0 1 6.83 21a.63.63 0 0 1-.31-.45l-.33-2.35-.39-.39-2.35-.33a.61.61 0 0 1-.45-.31c-.44-.77-.79-1.6-1.02-2.46a.648.648 0 0 1 .1-.54l1.42-1.9v-.56L2.08 9.82a.609.609 0 0 1-.1-.54c.23-.86.57-1.69 1.02-2.46.1-.17.26-.28.45-.31l2.35-.33.39-.39.33-2.35a.61.61 0 0 1 .31-.45c.77-.44 1.6-.79 2.46-1.02.19-.05.38-.01.54.1l1.89 1.42h.58l1.89-1.42c.15-.12.35-.15.54-.1.86.23 1.69.57 2.46 1.02.17.1.28.26.31.45l.33 2.34c.13.13.27.26.39.39l2.34.33c.19.03.36.14.45.31.44.77.79 1.6 1.02 2.46.05.19.01.38-.1.54l-1.42 1.9v.56l1.42 1.89c.12.15.15.35.1.54a9.99 9.99 0 0 1-1.02 2.46.63.63 0 0 1-.45.31l-2.35.34c-.11.11-.25.26-.39.39l-.33 2.35a.61.61 0 0 1-.31.45c-.77.44-1.6.79-2.46 1.02-.18.05-.38.01-.54-.1l-1.89-1.42h-.58l-1.89 1.42c-.11.08-.24.12-.38.12h.01Zm-1.73-1.98c.51.27 1.05.5 1.6.67l1.82-1.37c.12-.09.28-.14.43-.12.28.02.56.02.84 0 .15-.01.31.03.43.12l1.82 1.37c.56-.17 1.09-.39 1.6-.67l.32-2.25c.02-.14.09-.27.2-.37.22-.21.65-.65.65-.65.1-.1.22-.17.36-.19l2.25-.32c.27-.51.5-1.05.67-1.6l-1.37-1.82a.604.604 0 0 1-.12-.43c.03-.29 0-.87 0-.87 0-.15.04-.29.12-.4l1.37-1.82c-.17-.55-.39-1.09-.67-1.61l-2.25-.32a.619.619 0 0 1-.37-.2c-.2-.22-.41-.43-.64-.64a.676.676 0 0 1-.2-.37l-.32-2.25c-.51-.27-1.05-.5-1.6-.67l-1.82 1.37c-.12.09-.28.13-.43.12-.28-.02-.57-.02-.85 0a.64.64 0 0 1-.43-.12L9.31 3.28c-.56.17-1.09.39-1.61.67L7.38 6.2c-.02.14-.09.27-.19.37-.22.21-.44.43-.65.65-.1.1-.23.17-.37.19l-2.25.32c-.27.51-.5 1.05-.67 1.6l1.37 1.82c.09.12.14.28.12.43-.03.29 0 .87 0 .87 0 .14-.04.29-.12.4l-1.37 1.82c.17.55.39 1.09.67 1.6l2.25.32c.14.02.27.09.36.19.21.22.43.44.65.65.1.1.17.23.19.37l.32 2.25.03.01Z" fill="currentColor"></path>
+    </symbol>
+    <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 16" id="grid">
+        <path d="M5.55224 0H1.25373C0.921221 0 0.60233 0.137209 0.367209 0.381442C0.132089 0.625676 0 0.956927 0 1.30233V5.76744C0 5.93847 0.0324286 6.10781 0.0954345 6.26582C0.15844 6.42383 0.25079 6.56739 0.367209 6.68832C0.483629 6.80926 0.62184 6.90519 0.773949 6.97063C0.926059 7.03608 1.08909 7.06977 1.25373 7.06977H5.55224C5.71688 7.06977 5.87991 7.03608 6.03202 6.97063C6.18413 6.90519 6.32234 6.80926 6.43876 6.68832C6.55518 6.56739 6.64753 6.42383 6.71054 6.26582C6.77354 6.10781 6.80597 5.93847 6.80597 5.76744V1.30233C6.80597 1.1313 6.77354 0.961953 6.71054 0.803948C6.64753 0.645942 6.55518 0.502374 6.43876 0.381442C6.32234 0.26051 6.18413 0.164581 6.03202 0.0991334C5.87991 0.0336854 5.71688 0 5.55224 0ZM14.1493 0H9.85075C9.51824 0 9.19934 0.137209 8.96422 0.381442C8.7291 0.625676 8.59701 0.956927 8.59701 1.30233V5.76744C8.59701 5.93847 8.62944 6.10781 8.69245 6.26582C8.75546 6.42383 8.8478 6.56739 8.96422 6.68832C9.08064 6.80926 9.21885 6.90519 9.37096 6.97063C9.52307 7.03608 9.6861 7.06977 9.85075 7.06977H14.1493C14.3139 7.06977 14.4769 7.03608 14.629 6.97063C14.7811 6.90519 14.9194 6.80926 15.0358 6.68832C15.1522 6.56739 15.2445 6.42383 15.3075 6.26582C15.3706 6.10781 15.403 5.93847 15.403 5.76744V1.30233C15.403 0.956927 15.2709 0.625676 15.0358 0.381442C14.8007 0.137209 14.4818 0 14.1493 0ZM5.55224 8.93023H1.25373C0.921221 8.93023 0.60233 9.06744 0.367209 9.31168C0.132089 9.55591 0 9.88716 0 10.2326V14.6977C0 15.0431 0.132089 15.3743 0.367209 15.6186C0.60233 15.8628 0.921221 16 1.25373 16H5.55224C5.71688 16 5.87991 15.9663 6.03202 15.9009C6.18413 15.8354 6.32234 15.7395 6.43876 15.6186C6.55518 15.4976 6.64753 15.3541 6.71054 15.1961C6.77354 15.038 6.80597 14.8687 6.80597 14.6977V10.2326C6.80597 10.0615 6.77354 9.89218 6.71054 9.73418C6.64753 9.57617 6.55518 9.43261 6.43876 9.31168C6.32234 9.19074 6.18413 9.09482 6.03202 9.02937C5.87991 8.96392 5.71688 8.93023 5.55224 8.93023ZM14.1493 8.93023H9.85075C9.51824 8.93023 9.19934 9.06744 8.96422 9.31168C8.7291 9.55591 8.59701 9.88716 8.59701 10.2326V14.6977C8.59701 15.0431 8.7291 15.3743 8.96422 15.6186C9.19934 15.8628 9.51824 16 9.85075 16H14.1493C14.4818 16 14.8007 15.8628 15.0358 15.6186C15.2709 15.3743 15.403 15.0431 15.403 14.6977V10.2326C15.403 9.88716 15.2709 9.55591 15.0358 9.31168C14.8007 9.06744 14.4818 8.93023 14.1493 8.93023Z" fill="currentColor"/>
+        <path d="M18.4478 0H22.7463C23.0788 0 23.3977 0.137209 23.6328 0.381442C23.8679 0.625676 24 0.956927 24 1.30233V5.76744C24 5.93847 23.9676 6.10781 23.9046 6.26582C23.8416 6.42383 23.7492 6.56739 23.6328 6.68832C23.5164 6.80926 23.3782 6.90518 23.2261 6.97063C23.0739 7.03608 22.9109 7.06977 22.7463 7.06977H18.4478C18.2831 7.06977 18.1201 7.03608 17.968 6.97063C17.8159 6.90518 17.6777 6.80926 17.5612 6.68832C17.4448 6.56739 17.3525 6.42383 17.2895 6.26582C17.2265 6.10781 17.194 5.93847 17.194 5.76744V1.30233C17.194 0.956927 17.3261 0.625676 17.5612 0.381442C17.7964 0.137209 18.1152 0 18.4478 0Z" fill="currentColor"/>
+        <path d="M18.4478 8.93023H22.7463C23.0788 8.93023 23.3977 9.06744 23.6328 9.31168C23.8679 9.55591 24 9.88716 24 10.2326V14.6977C24 15.0431 23.8679 15.3743 23.6328 15.6186C23.3977 15.8628 23.0788 16 22.7463 16H18.4478C18.1152 16 17.7964 15.8628 17.5612 15.6186C17.3261 15.3743 17.194 15.0431 17.194 14.6977V10.2326C17.194 9.88716 17.3261 9.55591 17.5612 9.31168C17.7964 9.06744 18.1152 8.93023 18.4478 8.93023Z" fill="currentColor"/>
+    </symbol>
+    <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="heart">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M14.838 3.513a5.5 5.5 0 0 1 6.13 1.441c2.014 2.24 1.67 5.682-.397 7.759l-7.595 7.595-.442-.442.44.444a1.385 1.385 0 0 1-1.948 0l-.002-.002-7.79-7.791a5.502 5.502 0 0 1 .22-7.985c2.24-2.014 5.682-1.67 7.759.397l.003.003.784.79.982-.987.001-.002a5.5 5.5 0 0 1 1.855-1.22Zm-2.743 15.909 7.59-7.59c0-.001 0 0 0 0 1.664-1.674 1.864-4.363.354-6.042l-.001-.001a4.25 4.25 0 0 0-6.17-.173l-.001.001-1.424 1.433a.625.625 0 0 1-.886 0L10.33 5.815l-.001-.001C8.657 4.15 5.97 3.95 4.29 5.462h-.001a4.25 4.25 0 0 0-.172 6.171l7.789 7.789c.025.024.059.038.094.038s.07-.014.095-.038Z" fill="currentColor"></path>
+    </symbol>
+    <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="hide">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="m4.542 2.867 15.84 17.425-.924.84L3.617 3.709l.925-.84Z" fill="currentColor"></path>
+        <path fill-rule="evenodd" clip-rule="evenodd" d="m10.36 9.267-.462.42A3.125 3.125 0 0 0 12 15.126h.002a3.087 3.087 0 0 0 2.098-.81l.46-.423.845.922-.461.422a4.338 4.338 0 0 1-2.945 1.139h-.002L12 15.75v.625h-.001a4.375 4.375 0 0 1-2.941-7.612l.462-.42.84.924Z" fill="currentColor"></path>
+        <path fill-rule="evenodd" clip-rule="evenodd" d="m7.777 6.707-.558.282C5.415 7.9 4.124 9.22 3.28 10.32A12.332 12.332 0 0 0 2.197 12c.09.172.228.422.418.723.38.603.96 1.407 1.764 2.211 1.604 1.604 4.079 3.192 7.62 3.192h.006a10.428 10.428 0 0 0 4.776-1.114l.558-.282.563 1.117-.558.28a11.678 11.678 0 0 1-5.347 1.249c-3.956 0-6.73-1.787-8.502-3.558a14.065 14.065 0 0 1-1.938-2.43 11.868 11.868 0 0 1-.585-1.04 4.856 4.856 0 0 1-.03-.065l-.01-.02-.002-.005v-.002s-.001-.001.57-.255a85.782 85.782 0 0 1-.571-.254v-.002l.002-.003.005-.011.017-.037a9.925 9.925 0 0 1 .315-.6c.223-.392.56-.932 1.02-1.533.92-1.2 2.347-2.666 4.368-3.687l.558-.281.563 1.115ZM1.5 12l-.571-.254a.626.626 0 0 0 0 .508l.57-.254ZM9.956 4.793a12.24 12.24 0 0 1 2.045-.168c3.957 0 6.732 1.787 8.503 3.558a14.068 14.068 0 0 1 1.939 2.43 11.869 11.869 0 0 1 .584 1.04l.031.065.009.02.003.005v.002s.001.001-.57.255l-.571-.254v.002l-.007.012a6.488 6.488 0 0 1-.12.24c-.09-.171-.227-.42-.417-.722a12.82 12.82 0 0 0-1.765-2.211C18.017 7.463 15.543 5.875 12 5.875h-.001a10.99 10.99 0 0 0-1.837.15l-.616.104-.206-1.233.616-.103ZM22.5 12l.571.254a.624.624 0 0 0 0-.508L22.5 12Zm-.697 0a11.066 11.066 0 0 1-.531.899c-.46.701-1.16 1.62-2.132 2.488l-.466.417.833.932.466-.417a13.92 13.92 0 0 0 2.345-2.736 12.344 12.344 0 0 0 .701-1.22c.016-.032.029-.058.037-.077l.01-.022.003-.006.001-.003.001-.001L22.5 12l-.571.254-.005-.011-.023-.048a6.572 6.572 0 0 0-.098-.195Z" fill="currentColor"></path>
+        <path fill-rule="evenodd" clip-rule="evenodd" d="m12.205 7.585.614.117a4.366 4.366 0 0 1 3.534 3.884l.058.622-1.244.116-.058-.622a3.116 3.116 0 0 0-2.522-2.772l-.614-.117.232-1.228Z" fill="currentColor"></path>
+    </symbol>
+    <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="image">
+        <path d="M15.75 9.375a1.125 1.125 0 1 1-2.25 0 1.125 1.125 0 0 1 2.25 0Z" fill="currentColor"></path>
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M2.4 5.25v13.5c0 .746.604 1.35 1.35 1.35h16.5a1.35 1.35 0 0 0 1.35-1.35V5.25a1.35 1.35 0 0 0-1.35-1.35H3.75A1.35 1.35 0 0 0 2.4 5.25Zm1.35-.15a.15.15 0 0 0-.15.15v9.052l3.69-3.69a1.35 1.35 0 0 1 1.92 0l4.183 4.183a.15.15 0 0 0 .214 0l.003-.004 1.93-1.93a1.35 1.35 0 0 1 1.92 0l.002.002 2.938 2.939V5.25a.15.15 0 0 0-.15-.15H3.75Zm4.39 6.359-4.54 4.54v2.751c0 .083.067.15.15.15h16.5a.15.15 0 0 0 .15-.15v-1.251l-3.793-3.794a.152.152 0 0 0-.165-.033.15.15 0 0 0-.049.033l-.003.004-1.93 1.93a1.35 1.35 0 0 1-1.92 0l-4.183-4.184a.151.151 0 0 0-.165-.033.15.15 0 0 0-.049.033l-.003.004Z" fill="currentColor"></path>
+    </symbol>
+    <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="indent">
+        <path d="m18.5 16-5 4v-8l5 4Z" fill="currentColor"></path>
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M6.4 9v5A2.6 2.6 0 0 0 9 16.6h5.5v-1.2H9A1.4 1.4 0 0 1 7.6 14V9H6.4Z" fill="currentColor"></path>
+    </symbol>
+    <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="info-circle">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M12 3.625a8.375 8.375 0 1 0 0 16.75 8.375 8.375 0 0 0 0-16.75ZM2.375 12a9.625 9.625 0 1 1 19.25 0 9.625 9.625 0 0 1-19.25 0Z" fill="currentColor"></path>
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M10.625 10.625H12c.345 0 .625.28.625.625v4.625h.75v1.25H12a.625.625 0 0 1-.625-.625v-4.625h-.75v-1.25Z" fill="currentColor"></path>
+        <path d="M11.813 8.813a.937.937 0 1 0 0-1.875.937.937 0 0 0 0 1.875Z" fill="currentColor"></path>
+    </symbol>
+    <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="language">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M12 3.625a8.375 8.375 0 1 0 0 16.75 8.375 8.375 0 0 0 0-16.75ZM2.375 12a9.625 9.625 0 1 1 19.25 0 9.625 9.625 0 0 1-19.25 0Z" fill="currentColor"></path>
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M3.89 8.375h16.22l1 1.25H2.89l1-1.25ZM2.89 14.375h18.22l-1 1.25H3.89l-1-1.25Z" fill="currentColor"></path>
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M9.923 6.054C9.285 7.544 8.875 9.646 8.875 12c0 2.354.41 4.456 1.048 5.946.32.745.684 1.31 1.056 1.677.37.366.715.508 1.021.508.306 0 .65-.142 1.02-.508.373-.368.738-.931 1.057-1.677.638-1.49 1.048-3.592 1.048-5.946 0-2.354-.41-4.456-1.048-5.946-.32-.746-.684-1.31-1.056-1.677-.37-.366-.715-.508-1.021-.508-.306 0-.65.142-1.02.508-.373.368-.738.931-1.057 1.677Zm.178-2.567c.527-.52 1.17-.868 1.899-.868.73 0 1.372.348 1.899.868.524.518.968 1.237 1.327 2.075.72 1.68 1.149 3.956 1.149 6.438 0 2.482-.43 4.758-1.149 6.438-.359.838-.803 1.557-1.327 2.075-.527.52-1.17.868-1.899.868-.73 0-1.372-.348-1.899-.868-.524-.518-.968-1.237-1.327-2.075-.72-1.68-1.149-3.956-1.149-6.438 0-2.482.43-4.758 1.149-6.438.359-.838.803-1.557 1.327-2.075Z" fill="currentColor"></path>
+    </symbol>
+    <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="link">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M6.875 11.375h10.25v1.25H6.875v-1.25Z" fill="currentColor"></path>
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M6 8.125a3.875 3.875 0 0 0 0 7.75h4.375v1.25H6a5.125 5.125 0 0 1 0-10.25h4.375v1.25H6ZM13.625 6.875H18a5.125 5.125 0 0 1 0 10.25h-4.375v-1.25H18a3.875 3.875 0 0 0 0-7.75h-4.375v-1.25Z" fill="currentColor"></path>
+    </symbol>
+    <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 16" id="list">
+        <path d="M22.2128 6.22568H1.78723C1.31323 6.22568 0.85864 6.36342 0.523469 6.60861C0.188297 6.85379 0 7.18633 0 7.53307V8.28016C0 8.6269 0.188297 8.95944 0.523469 9.20462C0.85864 9.44981 1.31323 9.58755 1.78723 9.58755H22.2128C22.6868 9.58755 23.1414 9.44981 23.4765 9.20462C23.8117 8.95944 24 8.6269 24 8.28016V7.53307C24 7.18633 23.8117 6.85379 23.4765 6.60861C23.1414 6.36342 22.6868 6.22568 22.2128 6.22568ZM22.2128 0H1.78723C1.31323 0 0.85864 0.137743 0.523469 0.382926C0.188297 0.62811 0 0.960651 0 1.30739V2.05447C0 2.22616 0.046228 2.39617 0.136045 2.55479C0.225862 2.71341 0.357509 2.85754 0.523469 2.97894C0.689429 3.10034 0.886452 3.19665 1.10329 3.26235C1.32013 3.32805 1.55253 3.36187 1.78723 3.36187H22.2128C22.4475 3.36187 22.6799 3.32805 22.8967 3.26235C23.1136 3.19665 23.3106 3.10034 23.4765 2.97894C23.6425 2.85754 23.7741 2.71341 23.864 2.55479C23.9538 2.39617 24 2.22616 24 2.05447V1.30739C24 0.960651 23.8117 0.62811 23.4765 0.382926C23.1414 0.137743 22.6868 0 22.2128 0Z" fill="currentColor"/>
+        <path d="M22.2128 12.6381H1.78723C1.31323 12.6381 0.85864 12.7759 0.523469 13.0211C0.188297 13.2662 0 13.5988 0 13.9455V14.6926C0 14.8643 0.046228 15.0343 0.136045 15.1929C0.225862 15.3515 0.357509 15.4957 0.523469 15.6171C0.689429 15.7385 0.886452 15.8348 1.10329 15.9005C1.32013 15.9662 1.55253 16 1.78723 16H22.2128C22.4475 16 22.6799 15.9662 22.8967 15.9005C23.1136 15.8348 23.3106 15.7385 23.4765 15.6171C23.6425 15.4957 23.7741 15.3515 23.864 15.1929C23.9538 15.0343 24 14.8643 24 14.6926V13.9455C24 13.5988 23.8117 13.2662 23.4765 13.0211C23.1414 12.7759 22.6868 12.6381 22.2128 12.6381Z" fill="currentColor"/>
+    </symbol>
+    <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="lock">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M4.5 8.875A.125.125 0 0 0 4.375 9v10.5c0 .069.056.125.125.125h15a.125.125 0 0 0 .125-.125V9a.125.125 0 0 0-.125-.125h-15ZM3.125 9c0-.76.616-1.375 1.375-1.375h15c.76 0 1.375.616 1.375 1.375v10.5c0 .76-.616 1.375-1.375 1.375h-15c-.76 0-1.375-.616-1.375-1.375V9Z" fill="currentColor"></path>
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M12 2.125a2.75 2.75 0 0 0-2.75 2.75v4H8v-4a4 4 0 0 1 8 0v4h-1.25v-4A2.75 2.75 0 0 0 12 2.125Z" fill="currentColor"></path>
+    </symbol>
+    <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="map-pin">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M12 7.375a2.375 2.375 0 1 0 0 4.75 2.375 2.375 0 0 0 0-4.75ZM8.375 9.75a3.625 3.625 0 1 1 7.25 0 3.625 3.625 0 0 1-7.25 0Z" fill="currentColor"></path>
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M12 2.875A6.875 6.875 0 0 0 5.125 9.75c0 3.15 1.757 6.006 3.597 8.121a23.774 23.774 0 0 0 3.278 3.1 23.775 23.775 0 0 0 3.278-3.1c1.84-2.115 3.597-4.971 3.597-8.121A6.875 6.875 0 0 0 12 2.875Zm0 18.875-.359.512-.002-.002-.005-.004-.019-.013-.068-.049a21.793 21.793 0 0 1-1.124-.894 25.024 25.024 0 0 1-2.645-2.609c-1.91-2.197-3.903-5.341-3.903-8.941a8.125 8.125 0 1 1 16.25 0c0 3.6-1.993 6.744-3.903 8.941a25.02 25.02 0 0 1-3.52 3.317c-.107.081-.19.143-.25.186l-.067.05-.019.012-.005.004-.002.001L12 21.75Zm0 0 .358.512a.625.625 0 0 1-.717 0L12 21.75Z" fill="currentColor"></path>
+    </symbol>
+    <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="menu">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M3.125 11.375h17.75v1.25H3.125v-1.25ZM3.125 5.375h17.75v1.25H3.125v-1.25ZM3.125 17.375h17.75v1.25H3.125v-1.25Z" fill="currentColor"></path>
+    </symbol>
+    <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="minus">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M22.171 12.625H1.829v-1.25h20.342v1.25Z" fill="currentColor"></path>
+    </symbol>
+    <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="note">
+        <path d="M8.4 7.4h7.2v1.2H8.4V7.4ZM8.4 10.4h7.2v1.2H8.4v-1.2ZM11.6 13.4H8.4v1.2h3.2v-1.2Z" fill="currentColor"></path>
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M3.15 3.15h17.7v12.192l-5.508 5.508H3.15V3.15Zm1.2 1.2v15.3H14V14h5.65V4.35H4.35ZM19.295 15.2H15.2v4.095l4.095-4.095Z" fill="currentColor"></path>
+    </symbol>
+    <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="outdent">
+        <path d="m6 16 5 4v-8l-5 4Z" fill="currentColor"></path>
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M18.1 9v5a2.6 2.6 0 0 1-2.6 2.6H10v-1.2h5.5a1.4 1.4 0 0 0 1.4-1.4V9h1.2Z" fill="currentColor"></path>
+    </symbol>
+    <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="phone">
+        <path d="M14.78 4.35c2.37.64 4.23 2.5 4.86 4.86.08.28.33.46.6.46.05 0 .11 0 .16-.02.33-.09.53-.43.44-.77-.75-2.79-2.95-5-5.75-5.75a.633.633 0 0 0-.77.44c-.09.33.11.68.44.77l.02.01ZM14.01 7.25c1.34.35 2.39 1.41 2.74 2.74.08.28.33.46.6.46.05 0 .11 0 .16-.02.33-.09.53-.43.44-.76a5.123 5.123 0 0 0-3.63-3.63.618.618 0 0 0-.76.44c-.09.33.11.68.44.76l.01.01ZM20.76 14.97l-4.38-1.88c-.43-.19-.93-.15-1.31.12l-2.35 1.57s-.08.03-.12.01c-1.46-.7-2.66-1.9-3.36-3.35a.128.128 0 0 1 0-.12l1.57-2.39c.25-.39.29-.87.1-1.29L9.03 3.25c-.24-.57-.82-.91-1.43-.83A5.133 5.133 0 0 0 3.13 7.5c0 7.37 6 13.37 13.37 13.37 2.57 0 4.76-1.92 5.08-4.47.08-.61-.26-1.2-.82-1.43Zm-4.26 4.66c-6.69 0-12.12-5.44-12.12-12.12 0-1.94 1.45-3.6 3.38-3.84h.01s.09.03.11.08l1.89 4.4s.01.08 0 .11L8.2 10.64c-.26.4-.29.91-.09 1.34a8.48 8.48 0 0 0 3.95 3.94c.44.21.96.17 1.35-.1l2.35-1.57s.07-.03.11 0l4.39 1.89s.08.07.07.12a3.881 3.881 0 0 1-3.84 3.38l.01-.01Z" fill="currentColor"></path>
+    </symbol>
+    <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="plus-square">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M4.5 4.375a.125.125 0 0 0-.125.125v15c0 .069.056.125.125.125h15a.125.125 0 0 0 .125-.125v-15a.125.125 0 0 0-.125-.125h-15ZM3.125 4.5c0-.76.616-1.375 1.375-1.375h15c.76 0 1.375.616 1.375 1.375v15c0 .76-.616 1.375-1.375 1.375h-15c-.76 0-1.375-.616-1.375-1.375v-15Z" fill="currentColor"></path>
+        <path d="M7.5 11.375h9v1.25h-9v-1.25Z" fill="currentColor"></path>
+        <path d="M12.625 7.5v9h-1.25v-9h1.25Z" fill="currentColor"></path>
+    </symbol>
+    <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="plus-fill-square">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M4.5 3.125c-.76 0-1.375.616-1.375 1.375v15c0 .76.616 1.375 1.375 1.375h15c.76 0 1.375-.616 1.375-1.375v-15c0-.76-.616-1.375-1.375-1.375h-15Zm8.125 8.25V7.5h-1.25v3.875H7.5v1.25h3.875V16.5h1.25v-3.875H16.5v-1.25h-3.875Z" fill="currentColor"></path>
+    </symbol>
+    <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="plus">
+        <path d="M12.5984 11.9004V3.65039H11.3984V11.9004H3.14844V13.1004H11.3984V21.3504H12.5984V13.1004H20.8484V11.9004H12.5984Z" fill="currentColor"/>
+    </symbol>
+    <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="push-pin">
+        <path d="M6 3h12v1.25H6V3Z" fill="currentColor"></path>
+        <path d="M9.25 3.5v9H8v-9h1.25ZM16 3.5v9h-1.25v-9H16Z" fill="currentColor"></path>
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M16.5 13.25h-9a2.25 2.25 0 0 0-2.25 2.25v1.25h13.5V15.5a2.25 2.25 0 0 0-2.25-2.25ZM7.5 12A3.5 3.5 0 0 0 4 15.5V18h16v-2.5a3.5 3.5 0 0 0-3.5-3.5h-9Z" fill="currentColor"></path>
+        <path d="M11.375 17.5h1.25V22h-1.25v-4.5Z" fill="currentColor"></path>
+    </symbol>
+    <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="push-pin-solid">
+        <path d="M18 3H6v1.25h2V12h-.5A3.5 3.5 0 0 0 4 15.5V18h7.375v4h1.25v-4H20v-2.5a3.5 3.5 0 0 0-3.5-3.5H13v-1h3V4.25h2V3Z" fill="currentColor"/>
+    </symbol>
+    <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="radiobutton">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M12 3.6a8.4 8.4 0 1 0 0 16.8 8.4 8.4 0 0 0 0-16.8ZM2.4 12a9.6 9.6 0 1 1 19.2 0 9.6 9.6 0 0 1-19.2 0Z" fill="currentColor"></path>
+    </symbol>
+    <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="question-circle">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M12 3.625a8.375 8.375 0 1 0 0 16.75 8.375 8.375 0 0 0 0-16.75ZM2.375 12a9.625 9.625 0 1 1 19.25 0 9.625 9.625 0 0 1-19.25 0Z" fill="currentColor"></path>
+        <path d="M12 17.813a.937.937 0 1 0 0-1.875.937.937 0 0 0 0 1.874Z" fill="currentColor"></path>
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M10.756 7.122a3.25 3.25 0 1 1 1.869 6.192v.811h-1.25V12.75a.624.624 0 0 1 .625-.625 2 2 0 1 0-2-2v.625H8.75v-.625a3.25 3.25 0 0 1 2.006-3.003Z" fill="currentColor"></path>
+    </symbol>
+    <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="radiobutton-fill">
+        <path d="M17.25 12a5.25 5.25 0 1 1-10.5 0 5.25 5.25 0 0 1 10.5 0Z" fill="currentColor"></path>
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M12 2.4a9.6 9.6 0 1 0 0 19.2 9.6 9.6 0 0 0 0-19.2ZM3.6 12a8.4 8.4 0 1 1 16.8 0 8.4 8.4 0 0 1-16.8 0Z" fill="currentColor"></path>
+    </symbol>
+    <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="refresh">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M12 4.376A7.616 7.616 0 0 0 6.611 6.61l-.441.443-.885-.884.442-.442a8.866 8.866 0 0 1 12.546 0l3.11 2.888-.883.885-3.11-2.89A7.616 7.616 0 0 0 12 4.376ZM3.883 14.615l2.728 2.775a7.614 7.614 0 0 0 10.778 0l.442-.443.884.884-.441.442a8.864 8.864 0 0 1-12.547 0L3 15.5l.883-.885Z" fill="currentColor"></path>
+        <path d="m21.68 10.345-5.377-1.067 4.812-4.385.565 5.452ZM3.056 13.37l5.102 2.004-5.513 3.461.411-5.466Z" fill="currentColor"></path>
+    </symbol>
+    <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="rename">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M12 2.4a.6.6 0 0 1 .53.32l4.719 8.912a.597.597 0 0 1 .097.184l1.934 3.653a.6.6 0 0 1-1.06.562L16.404 12.6H7.597L5.78 16.03a.6.6 0 0 1-1.06-.56l6.75-12.75A.6.6 0 0 1 12 2.4Zm-3.768 9h7.536L12 4.282 8.232 11.4Z" fill="currentColor"></path>
+        <path d="M3.15 21.25a.6.6 0 0 1 .6-.6h16.5a.6.6 0 0 1 0 1.2H3.75a.6.6 0 0 1-.6-.6Z" fill="currentColor"></path>
+    </symbol>
+    <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="search">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M10.875 3.625a7.25 7.25 0 1 0 0 14.5 7.25 7.25 0 0 0 0-14.5Zm-8.5 7.25a8.5 8.5 0 1 1 17 0 8.5 8.5 0 0 1-17 0Z" fill="currentColor"></path>
+        <path fill-rule="evenodd" clip-rule="evenodd" d="m16.444 15.56 5.44 5.44-.884.884-5.44-5.44.884-.884Z" fill="currentColor"></path>
+    </symbol>
+    <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="tiangle-left">
+        <path d="m9 13 6.667-5v10L9 13Z" fill="currentColor"></path>
+    </symbol>
+    <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="show">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M3.495 8.183C5.267 6.412 8.042 4.625 12 4.625c3.958 0 6.733 1.787 8.504 3.558a14.061 14.061 0 0 1 1.939 2.43 11.835 11.835 0 0 1 .584 1.04l.031.065.009.02.003.005v.002s.001.001-.57.255l.57.254v.003l-.003.006-.009.019a4.892 4.892 0 0 1-.148.298c-.104.198-.258.476-.467.808a14.059 14.059 0 0 1-1.939 2.429c-1.77 1.771-4.546 3.558-8.504 3.558-3.958 0-6.733-1.787-8.505-3.558a14.061 14.061 0 0 1-1.938-2.43 11.846 11.846 0 0 1-.585-1.04 4.866 4.866 0 0 1-.03-.065l-.01-.02-.002-.005v-.002s-.001-.001.57-.255l-.571-.254.001-.003.003-.006.008-.019a4.866 4.866 0 0 1 .149-.298c.103-.198.258-.476.467-.808a14.064 14.064 0 0 1 1.938-2.429ZM1.5 12l-.571-.254a.626.626 0 0 0 0 .508l.57-.254Zm.697 0c.09.172.228.42.418.722.38.603.96 1.407 1.764 2.211 1.604 1.604 4.079 3.192 7.62 3.192 3.543 0 6.018-1.588 7.621-3.192a12.812 12.812 0 0 0 1.765-2.211c.19-.301.328-.55.418-.722-.09-.171-.229-.42-.418-.722a12.81 12.81 0 0 0-1.765-2.211C18.017 7.463 15.542 5.875 12 5.875S5.983 7.463 4.38 9.067a12.816 12.816 0 0 0-1.765 2.211c-.19.301-.328.55-.418.722ZM22.5 12l.57.254a.626.626 0 0 0 .001-.508L22.5 12Z" fill="currentColor"></path>
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M12 8.875a3.125 3.125 0 1 0 0 6.25 3.125 3.125 0 0 0 0-6.25ZM7.625 12a4.375 4.375 0 1 1 8.75 0 4.375 4.375 0 0 1-8.75 0Z" fill="currentColor"></path>
+    </symbol>
+    <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="sliders">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M3.125 15.5H14.5v1.25H3.125V15.5ZM17 15.5h3.875v1.25H17V15.5ZM3.125 7.25H8.5V8.5H3.125V7.25ZM11 7.25h9.875V8.5H11V7.25Z" fill="currentColor"></path>
+        <path d="M12 7.9a2 2 0 1 1-4 0 2 2 0 0 1 4 0ZM18 16a2 2 0 1 1-4 0 2 2 0 0 1 4 0Z" fill="currentColor"></path>
+    </symbol>
+    <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="tag">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M11.383 1.815a1.375 1.375 0 0 1 1.237.378l9.785 9.785a1.364 1.364 0 0 1 0 1.947l-8.48 8.48a1.365 1.365 0 0 1-1.947 0l-9.785-9.784a1.375 1.375 0 0 1-.378-1.238v-.002l1.51-7.566a.625.625 0 0 1 .49-.49l7.566-1.51.122.613-.12-.613Zm.24 1.227L4.47 4.469 3.04 11.623a.128.128 0 0 0 .035.113l9.793 9.793a.117.117 0 0 0 .127.026.115.115 0 0 0 .038-.026l.005-.005 8.49-8.49a.117.117 0 0 0 .026-.127.117.117 0 0 0-.026-.038l-.005-.005-9.788-9.788a.128.128 0 0 0-.052-.031.128.128 0 0 0-.06-.003Z" fill="currentColor"></path>
+        <path d="M7.875 8.813a.938.938 0 1 0 0-1.875.938.938 0 0 0 0 1.875Z" fill="currentColor"></path>
+    </symbol>
+    <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="user">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M12 3.625a5.375 5.375 0 1 0 0 10.75 5.375 5.375 0 0 0 0-10.75ZM5.375 9a6.625 6.625 0 1 1 13.25 0 6.625 6.625 0 0 1-13.25 0Z" fill="currentColor"></path>
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M12 15.625a9.874 9.874 0 0 0-8.552 4.937l-.313.542-1.082-.625.312-.541a11.125 11.125 0 0 1 19.27 0l.313.54-1.083.626-.312-.542A9.875 9.875 0 0 0 12 15.625Z" fill="currentColor"></path>
+    </symbol>
+    <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="triangle-right">
+        <path d="M15.667 12 9 17V7l6.667 5Z" fill="currentColor"></path>
+    </symbol>
+    <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="warning">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M12.625 9.125v5h-1.25v-5h1.25Z" fill="currentColor"></path>
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M10.939 2.66a2.115 2.115 0 0 1 2.896.778l.001.002 8.249 14.247a2.127 2.127 0 0 1-1.833 3.188H3.748a2.125 2.125 0 0 1-1.833-3.188L10.164 3.44v-.002c.186-.323.453-.591.775-.778Zm-.233 1.09.541.313-8.25 14.25a.876.876 0 0 0 .754 1.312H20.25a.875.875 0 0 0 .754-1.312L12.75 4.06a.866.866 0 0 0-1.502 0l-.543-.31Z" fill="currentColor"></path>
+        <path d="M12 17.813a.937.937 0 1 0 0-1.875.937.937 0 0 0 0 1.874Z" fill="currentColor"></path>
+    </symbol>
+    <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="warning-circle">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M12.625 6.125v8h-1.25v-8h1.25Z" fill="currentColor"/>
+        <path d="M12 17.813a.937.937 0 1 0 0-1.875.937.937 0 0 0 0 1.874Z" fill="currentColor"/>
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M12 3.625a8.375 8.375 0 1 0 0 16.75 8.375 8.375 0 0 0 0-16.75ZM2.375 12a9.625 9.625 0 1 1 19.25 0 9.625 9.625 0 0 1-19.25 0Z" fill="currentColor"/>
+    </symbol>
+    <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="triangle-down">
+        <path d="M12 15.667 7 9h10l-5 6.667Z" fill="currentColor"></path>
+    </symbol>
+    <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="triangle-up">
+        <path d="m12 9 5 6.667H7L12 9Z" fill="currentColor"></path>
+    </symbol>
+    <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="wrench">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M16.182 3.754a5.366 5.366 0 0 0-5.886 7.84.625.625 0 0 1-.138.776l-6.075 5.243a1.629 1.629 0 0 0 2.304 2.304l5.243-6.075.036-.033a.658.658 0 0 1 .74-.105 5.366 5.366 0 0 0 7.84-5.886l-3.21 3.217a.625.625 0 0 1-.566.171l-2.653-.534a.625.625 0 0 1-.49-.49l-.534-2.652a.625.625 0 0 1 .172-.566l3.217-3.21Zm-3.925 11.274-4.94 5.724a2.879 2.879 0 1 1-4.069-4.069l5.724-4.94a6.616 6.616 0 0 1 8.618-8.84.625.625 0 0 1 .195 1.018l-3.7 3.69.386 1.918 1.917.386 3.691-3.7a.625.625 0 0 1 1.017.195 6.616 6.616 0 0 1-8.839 8.618Z" fill="currentColor"></path>
+    </symbol>
+        <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" id="twitter">
+        <path fill="var(--icon-background, #000)" d="M0 0h32v32H0z"/>
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M24.744 8.833a3.69 3.69 0 0 1-1.448 1.957 9.503 9.503 0 0 0 1.941-.375 6.972 6.972 0 0 1-1.7 1.608c-.013.253-.065.742-.101 1.089-.022.205-.038.36-.038.386a11.83 11.83 0 0 1-4.612 8.28c-5.556 3.803-11.868.274-11.868.274a8.007 8.007 0 0 0 5.218-1.609 3.995 3.995 0 0 1-3.502-2.638l1.512-.065c-2.07-.73-2.96-2.542-2.837-3.807l1.513.412.048-.09a7.352 7.352 0 0 1-.767-.762 3.754 3.754 0 0 1-.67-3.336c.106-.342.271-.663.488-.949.04.044.125.154.221.279.152.195.332.428.417.51a9.284 9.284 0 0 0 2.681 1.978 11.326 11.326 0 0 0 4.173 1.234h.252v-.665a3.68 3.68 0 0 1 1.206-3.009 3.754 3.754 0 0 1 3.368-.976 3.577 3.577 0 0 1 1.92.97c.226.204.457.117.667.037a3.24 3.24 0 0 1 .1-.036c.464-.152.92-.336 1.386-.524l.432-.173Z" fill="currentColor"></path>
+    </symbol>
+    <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" id="facebook">
+        <path fill="var(--icon-background, #000)" d="M0 0h32v32H0z" />
+        <path d="M20.802 9.39H18.48c-.869 0-1.008 1.068-1.008 1.068v2.493h3.33l-.354 3.046h-2.976v9.53h-3.63v-9.53h-2.543v-3.046h2.542v-2.493c0-3.862 3.277-3.99 4.612-3.99h2.35V9.39Z" fill="currentColor"></path>
+    </symbol>
+    <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" id="instagram">
+        <path fill="var(--icon-background, #000)" d="M0 0h32v32H0z"/>
+        <path d="M6.966 12.463a6.216 6.216 0 0 1 .88-3.368 4.757 4.757 0 0 1 2.558-1.946 9.948 9.948 0 0 1 3.217-.36h6.275a5.867 5.867 0 0 1 3.293.923 4.576 4.576 0 0 1 2.032 3.121c.133.781.2 1.572.199 2.365 0 2.247 0 4.5-.049 6.747a5.47 5.47 0 0 1-.756 2.799 4.687 4.687 0 0 1-2.681 2.08 10.382 10.382 0 0 1-3.218.355H12.56a6.183 6.183 0 0 1-3.073-.724 4.654 4.654 0 0 1-2.231-2.778 9.75 9.75 0 0 1-.343-2.52c.032-.14.021-4.967.053-6.694Zm1.791 8.045a3.142 3.142 0 0 0 1.218 2.247 4 4 0 0 0 2.445.756c2.761.13 5.528.1 8.286-.091a3.27 3.27 0 0 0 1.69-.644 3.453 3.453 0 0 0 1.313-2.858c.054-2.07.043-4.14.032-6.21a20.48 20.48 0 0 0-.118-2.226 3.154 3.154 0 0 0-1.03-2.07 3.614 3.614 0 0 0-2.402-.869c-2.247-.043-4.5-.075-6.746-.059a8.184 8.184 0 0 0-2.467.268 3.04 3.04 0 0 0-2.22 2.773c-.124 1.603-.108 7.958 0 8.972v.01Z" fill="currentColor"/>
+        <path d="M16.212 11.267a4.742 4.742 0 1 1-.087 9.483 4.742 4.742 0 0 1 .087-9.483Zm3.051 4.773a3.068 3.068 0 1 0-6.134-.085 3.068 3.068 0 0 0 6.134.085ZM21.13 12.179a1.073 1.073 0 0 1-1.127-1.072 1.132 1.132 0 1 1 2.263 0 1.073 1.073 0 0 1-1.136 1.072Z" fill="currentColor"/>
+    </symbol>
+    <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" id="youtube">
+        <path fill="var(--icon-background, #000)" d="M0 0h32v32H0z"/>
+        <path d="M23.146 8.516H9.374a3.968 3.968 0 0 0-3.968 3.969v7.03a3.969 3.969 0 0 0 3.968 3.969h13.772a3.963 3.963 0 0 0 3.963-3.969v-7.004a3.962 3.962 0 0 0-3.963-3.995Zm-8.95 10.152v-5.486l5.432 2.745-5.433 2.74Z" fill="currentColor"/>
+    </symbol>
+    <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" id="linkedin">
+        <path fill="var(--icon-background, #000)" d="M0 0h32v32H0z"/>
+        <path d="M10.935 8.05c-2.285-1.743-4.87.842-3.132 3.131 2.29 1.738 4.875-.847 3.132-3.131ZM11.3 13.182H7.444v11.74H11.3v-11.74ZM20.47 12.903a4.049 4.049 0 0 0-3.26 1.609v-1.336h-3.856v11.74h3.855V18.04a1.827 1.827 0 0 1 1.91-1.861c.788 0 1.785.38 1.785 2.542v6.199h3.856v-8.27s-.171-3.748-4.29-3.748Z" fill="currentColor"/>
+    </symbol>
+    <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" id="vimeo">
+        <path fill="var(--icon-background, #000)" d="M0 0h32v32H0z"/>
+        <path d="M21.896 8.56h.617c.18.01.36.038.536.08a2.145 2.145 0 0 1 1.61 1.351c.172.436.266.899.278 1.367v.612c-.002.29-.035.58-.097.863-.108.506-.266 1-.471 1.475a15.68 15.68 0 0 1-1.229 2.29 33.337 33.337 0 0 1-3.094 4.108 15.359 15.359 0 0 1-1.732 1.71c-.432.367-.9.687-1.4.955a3.994 3.994 0 0 1-1.394.461h-.424l-.22-.037a1.893 1.893 0 0 1-.788-.38 3.52 3.52 0 0 1-.654-.73 7.163 7.163 0 0 1-.66-1.234 4.795 4.795 0 0 1-.198-.536c-.445-1.609-.885-3.218-1.325-4.826a16.097 16.097 0 0 0-.482-1.572 5.734 5.734 0 0 0-.478-1.003 1.938 1.938 0 0 0-.375-.455.857.857 0 0 0-.284-.172.423.423 0 0 0-.344 0l-.241.129-.912.66-.075.047-.836-1.072.07-.06c.723-.643 1.442-1.28 2.144-1.93.435-.386.87-.761 1.341-1.104.31-.23.64-.431.987-.601.342-.17.725-.239 1.105-.198.473.039.912.262 1.222.622.216.251.386.538.505.847.177.46.3.938.37 1.426.064.413.134.826.198 1.245a51.17 51.17 0 0 0 .499 2.697c.088.439.2.872.338 1.298.09.312.213.613.364.9.07.139.16.265.268.376a.456.456 0 0 0 .622.075 1.84 1.84 0 0 0 .285-.22c.174-.161.33-.34.466-.536.512-.673.963-1.391 1.346-2.145.163-.304.294-.624.392-.954.112-.363.14-.746.08-1.121a.945.945 0 0 0-.793-.826 2.311 2.311 0 0 0-.816 0c-.282.04-.557.115-.82.225h-.054v-.075c.097-.306.21-.606.338-.906a6.263 6.263 0 0 1 1.008-1.647 4.241 4.241 0 0 1 2.918-1.475l.29-.005Z" fill="currentColor"/>
+    </symbol>
+    <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" id="pinterest">
+        <path fill="var(--icon-background, #000)" d="M0 0h32v32H0z"/>
+        <path d="M14.629 5.719A8.905 8.905 0 0 1 20.68 6.77a7.342 7.342 0 0 1 3.378 7.685c-.388 2.18-1.275 4.064-3.145 5.358a5.366 5.366 0 0 1-4.114.973 3.538 3.538 0 0 1-2.171-1.32c-.458 1.695-.796 3.377-1.6 4.96-.02.043-.04.086-.065.127a16.825 16.825 0 0 1-1.668 2.286l-.05-1.797a10.06 10.06 0 0 1 .068-1.828c.28-1.687.64-3.36.979-5.029.088-.481.203-.957.342-1.426.23-.729.246-1.508.046-2.245a3.41 3.41 0 0 1 .617-3.2c.335-.391.782-.67 1.28-.8 1.18-.242 2.071.695 1.865 1.961-.164 1.015-.489 2.007-.745 3.008-.06.238-.128.458-.206.704-.553 1.696.76 2.981 2.62 2.487a3.475 3.475 0 0 0 2.126-1.673 7.09 7.09 0 0 0 .855-5.44c-.55-2.263-2.346-3.607-4.86-3.735-3.593-.187-6.277 2.533-5.92 6.076a5.7 5.7 0 0 0 .704 2.057 1.451 1.451 0 0 1 .16 1.102c-.26 1.147-1.239.864-1.403.731-1.308-1.038-1.733-2.363-1.829-3.973-.274-4.219 2.478-7.501 6.684-8.1Z" fill="currentColor"/>
+    </symbol>
+    <symbol width="25" height="24" viewBox="0 0 25 24" id="sort">
+        <path d="M12.5996 18.125L8.28711 13.875L16.9121 13.875L12.5996 18.125Z" fill="var(--icon-top, #8E979F)"/>
+        <path d="M12.5996 5.875L16.9121 10.125L8.28711 10.125L12.5996 5.875Z" fill="var(--icon-bottom, #8E979F)"/>
+    </symbol>
+</svg>
+<div class="skip-links">
+    <a href="#main-content" title="skip_content" class="sr-only sr-only-focusable">skip_content</a>
+    <a href="#lang" title="Skip language choice" class="sr-only sr-only-focusable">Skip language choice</a>
+</div>
+
+
+
+
+
+
+    
+
+
+
+            <div class="site-logo" itemscope itemtype="http://schema.org/Organization">
+            <a itemprop="url" title="DELTALIGHT" href="https://deltalight.com/en/">
+                    <svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 240 32"><path d="M16.6 4.6c-2-1-4.2-1.5-6.7-1.5H2.4v25.2h7.7c2.5 0 4.8-.5 6.7-1.5 2-1 3.5-2.5 4.6-4.4 1.1-1.9 1.6-4.1 1.6-6.7 0-2.6-.6-4.9-1.7-6.8-1.2-1.9-2.8-3.3-4.7-4.3zm2.6 16.9c-.9 1.6-2.1 2.8-3.8 3.6-1.6.8-3.5 1.2-5.7 1.2h-5V5.1h5c2.1 0 4 .4 5.7 1.2 1.6.8 2.9 2 3.8 3.6.9 1.6 1.4 3.5 1.4 5.8-.1 2.3-.5 4.2-1.4 5.8zM28.3 28.3h16.5v-2.7H31.4v-8.9h12.2v-2.6H31.4V5.8h13.4V3.1H28.3zM54.8 3.1h-3.4v25.2h15.7v-3.1H54.8zM66.9 6.1h8.4v22.2h3.5V6.1h8.5v-3H66.9zM99 3.1 88.9 28.3h4.3l2.4-6.5h11.7l2.5 6.5h4.5L103.9 3.1H99zm2.4 3.4 4.7 12.1h-9.2l4.5-12.1zM123.1 3.1h-2.4v25.2h14.6v-2.1h-12.2zM142.4 3.1h2.3v25.2h-2.3zM164.3 17.2h8.7v7.1c-.9.7-2.1 1.3-3.6 1.8s-3.1.7-4.7.7c-2 0-3.7-.4-5.3-1.3-1.6-.9-2.8-2.1-3.7-3.8-.9-1.7-1.3-3.7-1.3-6s.4-4.3 1.3-6c.9-1.7 2-3 3.5-3.9 1.5-.9 3.1-1.3 4.9-1.3 2.3 0 4.2.5 5.7 1.6s2.4 2.6 2.9 4.6h2.4c-.3-1.6-.9-3.1-1.8-4.3-.9-1.2-2.2-2.2-3.7-2.9-1.5-.7-3.3-1-5.3-1-2.3 0-4.4.5-6.3 1.6-1.9 1.1-3.3 2.6-4.4 4.6-1.1 2-1.6 4.3-1.6 6.9 0 2.6.5 5 1.6 6.9 1.1 2 2.6 3.5 4.5 4.6 1.9 1.1 4.2 1.6 6.7 1.6 1.9 0 3.8-.3 5.7-.9 1.9-.6 3.5-1.4 4.6-2.4V15.3h-10.8v1.9zM200.8 14.6h-14.7V3.1h-1.6v25.2h1.6V16h14.7v12.3h1.6V3.1h-1.6zM208.7 3.1v.7h8.8v24.5h.7V3.8h8.8v-.7z" fill="#fff" /></svg>
+
+            </a>
+        </div>
+        
+    
+
+                                                                                                                                                                                                                                                                                                                                                        
+
+
+<header class="header-primary" id="js-header-primary">
+    <nav class="nav-primary">
+        <ul class="nav-list nav-list--main">
+            <li>
+                <a href="#nav-inspiration" aria-expanded="false" aria-controls="nav-inspiration" class="nav-item nav-item--main nav-item--inspiration" data-toggle="nav-panel" data-panel="nav-inspiration">
+                    <span>Inspiration</span>
+                </a>
+
+                                    
+
+    <div class="nav-panel nav-panel--inspiration" id="nav-inspiration">
+        <a href="#nav-inspiration" class="btn btn--icon nav-panel-close" data-trigger="nav-panel-close" id="focus-trap-nav-inspiration">
+            <span class="d-block d-lg-none">
+                <svg class="icon">
+ 	                <use xlink:href="#chevron-left"></use>
+                </svg>
+            </span>
+            <span class="d-none d-lg-block">
+                <svg class="icon">
+                    <use xlink:href="#close"></use>
+                </svg>
+                <span class="sr-only">main_navigation.close</span>
+            </span>
+            <span class="d-lg-none">
+                back
+            </span>
+        </a>
+
+        <div class="nav-panel-navigation nav-panel-navigation--primary">
+                                                <h3 class="h2 nav-panel-title">Inspiration</h3>
+                                            <ul>
+                                            <li class="nav-item nav-level-1">
+                                            <h4 class="nav-title">Projects</h4>
+                    
+                                                        <ul class="nav-nested">
+                                            <li class="nav-item nav-level-2">
+                                            <a
+                            data-assert-nav-item
+                            href="/en/projects?perPage=6&amp;filters[category][0]=residentieel"
+                            class="nav-link nav-link--main"
+                            data-ga-interaction="navigation"
+                            data-ga-name="Residential"
+                            data-ga-click-url="/en/projects?perPage=6&amp;filters[category][0]=residentieel"
+                            data-ga-type="primary"
+                            data-ga-login="false"
+                        >
+                            Residential
+                                                    </a>
+                    
+                                    </li>
+                                            <li class="nav-item nav-level-2">
+                                            <a
+                            data-assert-nav-item
+                            href="/en/projects?perPage=6&amp;filters[category][0]=kantoren"
+                            class="nav-link nav-link--main"
+                            data-ga-interaction="navigation"
+                            data-ga-name="Office"
+                            data-ga-click-url="/en/projects?perPage=6&amp;filters[category][0]=kantoren"
+                            data-ga-type="primary"
+                            data-ga-login="false"
+                        >
+                            Office
+                                                    </a>
+                    
+                                    </li>
+                                            <li class="nav-item nav-level-2">
+                                            <a
+                            data-assert-nav-item
+                            href="/en/projects?perPage=6&amp;filters[tag][0]=buiten"
+                            class="nav-link nav-link--main"
+                            data-ga-interaction="navigation"
+                            data-ga-name="Landscape"
+                            data-ga-click-url="/en/projects?perPage=6&amp;filters[tag][0]=buiten"
+                            data-ga-type="primary"
+                            data-ga-login="false"
+                        >
+                            Landscape
+                                                    </a>
+                    
+                                    </li>
+                                            <li class="nav-item nav-level-2">
+                                            <a
+                            data-assert-nav-item
+                            href="/en/projects?perPage=6&amp;filters[category][0]=hospitality"
+                            class="nav-link nav-link--main"
+                            data-ga-interaction="navigation"
+                            data-ga-name="Hospitality"
+                            data-ga-click-url="/en/projects?perPage=6&amp;filters[category][0]=hospitality"
+                            data-ga-type="primary"
+                            data-ga-login="false"
+                        >
+                            Hospitality
+                                                    </a>
+                    
+                                    </li>
+                                            <li class="nav-item nav-level-2">
+                                            <a
+                            data-assert-nav-item
+                            href="/en/projects?perPage=6&amp;filters[category][0]=winkels"
+                            class="nav-link nav-link--main"
+                            data-ga-interaction="navigation"
+                            data-ga-name="Retail"
+                            data-ga-click-url="/en/projects?perPage=6&amp;filters[category][0]=winkels"
+                            data-ga-type="primary"
+                            data-ga-login="false"
+                        >
+                            Retail
+                                                    </a>
+                    
+                                    </li>
+                                            <li class="nav-item nav-level-2">
+                                            <a
+                            data-assert-nav-item
+                            href="/en/projects?perPage=6&amp;filters[category][0]=publiek%20gebouw"
+                            class="nav-link nav-link--main"
+                            data-ga-interaction="navigation"
+                            data-ga-name="Heritage/Public spaces"
+                            data-ga-click-url="/en/projects?perPage=6&amp;filters[category][0]=publiek%20gebouw"
+                            data-ga-type="primary"
+                            data-ga-login="false"
+                        >
+                            Heritage/Public spaces
+                                                    </a>
+                    
+                                    </li>
+                                            <li class="nav-item nav-level-2">
+                                            <a
+                            data-assert-nav-item
+                            href="/en/projects?perPage=6&amp;filters[category][0]=beurzen%20%26%20evenementen"
+                            class="nav-link nav-link--main"
+                            data-ga-interaction="navigation"
+                            data-ga-name="Exhibitions/Events"
+                            data-ga-click-url="/en/projects?perPage=6&amp;filters[category][0]=beurzen%20%26%20evenementen"
+                            data-ga-type="primary"
+                            data-ga-login="false"
+                        >
+                            Exhibitions/Events
+                                                    </a>
+                    
+                                    </li>
+                                            <li class="nav-item nav-level-2 nav-item--view-all">
+                                            <a
+                            data-assert-nav-item
+                            href="/en/projects"
+                            class="nav-link nav-link--main"
+                            data-ga-interaction="navigation"
+                            data-ga-name="All projects"
+                            data-ga-click-url="/en/projects"
+                            data-ga-type="primary"
+                            data-ga-login="false"
+                        >
+                            All projects
+                                                            <svg class="icon">
+                                    <use xlink:href="#arrow-right" />
+                                </svg>
+                                                    </a>
+                    
+                                    </li>
+                    </ul>
+    
+                                    </li>
+                                            <li class="nav-item nav-level-1">
+                                            <h4 class="nav-title">Lighting Topics</h4>
+                    
+                                                        <ul class="nav-nested">
+                                            <li class="nav-item nav-level-2">
+                                            <a
+                            data-assert-nav-item
+                            href="/en/lighting/indirect-lighting"
+                            class="nav-link nav-link--main"
+                            data-ga-interaction="navigation"
+                            data-ga-name="Indirect lighting"
+                            data-ga-click-url="/en/lighting/indirect-lighting"
+                            data-ga-type="primary"
+                            data-ga-login="false"
+                        >
+                            Indirect lighting
+                                                    </a>
+                    
+                                    </li>
+                                            <li class="nav-item nav-level-2">
+                                            <a
+                            data-assert-nav-item
+                            href="/en/lighting/outdoor-lighting"
+                            class="nav-link nav-link--main"
+                            data-ga-interaction="navigation"
+                            data-ga-name="Outdoor lighting"
+                            data-ga-click-url="/en/lighting/outdoor-lighting"
+                            data-ga-type="primary"
+                            data-ga-login="false"
+                        >
+                            Outdoor lighting
+                                                    </a>
+                    
+                                    </li>
+                                            <li class="nav-item nav-level-2">
+                                            <a
+                            data-assert-nav-item
+                            href="https://deltalight.com/en/lighting/light-is-what-makes-a-house-a-home"
+                            class="nav-link nav-link--main"
+                            data-ga-interaction="navigation"
+                            data-ga-name="Light is what makes a house a home"
+                            data-ga-click-url="https://deltalight.com/en/lighting/light-is-what-makes-a-house-a-home"
+                            data-ga-type="primary"
+                            data-ga-login="false"
+                        >
+                            Light is what makes a house a home
+                                                    </a>
+                    
+                                    </li>
+                                            <li class="nav-item nav-level-2">
+                                            <a
+                            data-assert-nav-item
+                            href="https://deltalight.com/en/lighting/stretch-ceilings"
+                            class="nav-link nav-link--main"
+                            data-ga-interaction="navigation"
+                            data-ga-name="Stretch ceilings"
+                            data-ga-click-url="https://deltalight.com/en/lighting/stretch-ceilings"
+                            data-ga-type="primary"
+                            data-ga-login="false"
+                        >
+                            Stretch ceilings
+                                                    </a>
+                    
+                                    </li>
+                                            <li class="nav-item nav-level-2">
+                                            <a
+                            data-assert-nav-item
+                            href="https://deltalight.com/en/lighting/home-office-lighting"
+                            class="nav-link nav-link--main"
+                            data-ga-interaction="navigation"
+                            data-ga-name="3 tips for comfortable home office lighting"
+                            data-ga-click-url="https://deltalight.com/en/lighting/home-office-lighting"
+                            data-ga-type="primary"
+                            data-ga-login="false"
+                        >
+                            3 tips for comfortable home office lighting
+                                                    </a>
+                    
+                                    </li>
+                                            <li class="nav-item nav-level-2">
+                                            <a
+                            data-assert-nav-item
+                            href="https://deltalight.com/en/lighting/comfortable-office-lighting"
+                            class="nav-link nav-link--main"
+                            data-ga-interaction="navigation"
+                            data-ga-name="Comfortable Office Lighting"
+                            data-ga-click-url="https://deltalight.com/en/lighting/comfortable-office-lighting"
+                            data-ga-type="primary"
+                            data-ga-login="false"
+                        >
+                            Comfortable Office Lighting
+                                                    </a>
+                    
+                                    </li>
+                                            <li class="nav-item nav-level-2 nav-item--view-all">
+                                            <a
+                            data-assert-nav-item
+                            href="/en/lighting"
+                            class="nav-link nav-link--main"
+                            data-ga-interaction="navigation"
+                            data-ga-name="View all"
+                            data-ga-click-url="/en/lighting"
+                            data-ga-type="primary"
+                            data-ga-login="false"
+                        >
+                            View all
+                                                            <svg class="icon">
+                                    <use xlink:href="#arrow-right" />
+                                </svg>
+                                                    </a>
+                    
+                                    </li>
+                    </ul>
+    
+                                    </li>
+                                            <li class="nav-item nav-level-1">
+                                            <h4 class="nav-title">More inspiration</h4>
+                    
+                                                        <ul class="nav-nested">
+                                            <li class="nav-item nav-level-2">
+                                            <a
+                            data-assert-nav-item
+                            href="/en/more-inspiration/news"
+                            class="nav-link nav-link--main"
+                            data-ga-interaction="navigation"
+                            data-ga-name="News"
+                            data-ga-click-url="/en/more-inspiration/news"
+                            data-ga-type="primary"
+                            data-ga-login="false"
+                        >
+                            News
+                                                    </a>
+                    
+                                    </li>
+                                            <li class="nav-item nav-level-2">
+                                            <a
+                            data-assert-nav-item
+                            href="/en/more-inspiration/events"
+                            class="nav-link nav-link--main"
+                            data-ga-interaction="navigation"
+                            data-ga-name="Events"
+                            data-ga-click-url="/en/more-inspiration/events"
+                            data-ga-type="primary"
+                            data-ga-login="false"
+                        >
+                            Events
+                                                    </a>
+                    
+                                    </li>
+                                            <li class="nav-item nav-level-2">
+                                            <a
+                            data-assert-nav-item
+                            href="/en/more-inspiration/relate"
+                            class="nav-link nav-link--main"
+                            data-ga-interaction="navigation"
+                            data-ga-name="Relate"
+                            data-ga-click-url="/en/more-inspiration/relate"
+                            data-ga-type="primary"
+                            data-ga-login="false"
+                        >
+                            Relate
+                                                    </a>
+                    
+                                    </li>
+                    </ul>
+    
+                                    </li>
+                    </ul>
+    
+                    </div>
+
+                    <div class="nav-panel-ctas">
+                        <div class="widget widget-cta widget-cta--navigation">
+        <h4 class="widget-cta-title">Finishes</h4>                    <div class="widget-cta-description">
+                <p>Discover all our finishes, carefully laid out for you to explore.</p>
+
+            </div>
+                            <a
+                href="/en/finishes"
+                class="link link--arrow link--sm"
+                                                data-ga-interaction="call-to-action"
+                data-ga-name="Discover more"
+                data-ga-type="cta-image"
+                data-ga-category="navigation"
+                data-ga-location="en"
+                data-ga-click-url="/en/finishes"
+                data-ga-component="widget"
+                data-ga-login="false"
+            >
+                <span class="link-text">Discover more</span>
+                <svg class="icon">
+                    <use xlink:href="#arrow-right"></use>
+                </svg>
+            </a>
+                    </div>
+
+
+            </div>
+                <input type="checkbox" class="sr-only" onfocus="document.getElementById('focus-trap-nav-inspiration').focus()" />
+    </div>
+                            </li>
+            <li>
+                <a href="#nav-products" aria-expanded="false" aria-controls="nav-products" class="nav-item nav-item--main nav-item--products" data-toggle="nav-panel" data-panel="nav-products">
+                    <span>Products</span>
+                </a>
+
+                                    
+
+    <div class="nav-panel nav-panel--products nav-panel--products-v2" id="nav-products">
+        <a href="#nav-products" class="btn btn--icon nav-panel-close" data-trigger="nav-panel-close" id="focus-trap-nav-products">
+            <span class="d-block d-lg-none">
+                <svg class="icon">
+ 	                <use xlink:href="#chevron-left"></use>
+                </svg>
+            </span>
+            <span class="d-none d-lg-block">
+                <svg class="icon">
+                    <use xlink:href="#close"></use>
+                </svg>
+                <span class="sr-only">main_navigation.close</span>
+            </span>
+            <span class="d-lg-none">
+                back
+            </span>
+        </a>
+
+        <div class="nav-panel-navigation nav-panel-navigation--products">
+                                                                    <h3 class="h2 nav-panel-title nav-panel-title--products">Products</h3>
+                    <div class="nav-item--view-all">
+                        <a
+                            href="/en/products"
+                            class="nav-link"
+                            data-ga-interaction="navigation"
+                            data-ga-name="Discover the families"
+                            data-ga-click-url="/en/products"
+                            data-ga-type="products"
+                            data-ga-login="false"
+                        >
+                            Discover the families
+                            <svg class="icon">
+                                <use xlink:href="#arrow-right" />
+                            </svg>
+                        </a>
+                    </div>
+                                            <div class="nav-panel__products">
+                                                <div className="nav-column">
+                                <div class="nav-item nav-level-1">
+                    <h3 class="h4">
+                <a
+                    data-assert-nav-item
+                    href="/en/product-browser?filters[type]=7b631414-2f76-11ed-9745-00505693b57f&amp;filters[location]=7a8f0b24-2f76-11ed-9132-00505693b57f"
+                    class="nav-title"
+                    data-ga-interaction="navigation"
+                    data-ga-name="Indoor lighting fixtures"
+                    data-ga-click-url="/en/product-browser?filters[type]=7b631414-2f76-11ed-9745-00505693b57f&amp;filters[location]=7a8f0b24-2f76-11ed-9132-00505693b57f"
+                    data-ga-type="products"
+                    data-ga-login="false"
+                >
+                    Indoor lighting fixtures
+                                    </a>
+            </h3>
+
+            <div class="nav-item--view-all">
+                <a
+                    href="/en/product-browser?filters[type]=7b631414-2f76-11ed-9745-00505693b57f&amp;filters[location]=7a8f0b24-2f76-11ed-9132-00505693b57f"
+                    class="nav-link"
+                    data-ga-interaction="navigation"
+                    data-ga-name="Indoor lighting fixtures"
+                    data-ga-click-url="/en/product-browser?filters[type]=7b631414-2f76-11ed-9745-00505693b57f&amp;filters[location]=7a8f0b24-2f76-11ed-9132-00505693b57f"
+                    data-ga-type="products"
+                    data-ga-login="false"
+                >
+                    View all
+                    <svg class="icon">
+                        <use xlink:href="#arrow-right" />
+                    </svg>
+                </a>
+            </div>
+        
+                                <ul class="nav-nested">
+                                            <li class="nav-item nav-level-2">
+                                            <a
+                            data-assert-nav-item
+                            href="/en/product-browser?filters[location]=7a8f0b24-2f76-11ed-9132-00505693b57f&amp;filters[fixation]=14b860c6-4974-11ed-9bc1-00505693bd3f&amp;filters[installation]=14b89d16-4974-11ed-94fc-00505693bd3f&amp;filters[type]=7b631414-2f76-11ed-9745-00505693b57f&amp;sorting=newest"
+                            class="nav-link nav-link--main"
+                            data-ga-interaction="navigation"
+                            data-ga-name="Ceiling recessed"
+                            data-ga-click-url="/en/product-browser?filters[location]=7a8f0b24-2f76-11ed-9132-00505693b57f&amp;filters[fixation]=14b860c6-4974-11ed-9bc1-00505693bd3f&amp;filters[installation]=14b89d16-4974-11ed-94fc-00505693bd3f&amp;filters[type]=7b631414-2f76-11ed-9745-00505693b57f&amp;sorting=newest"
+                            data-ga-type="products"
+                            data-ga-login="false"
+                        >
+                            Ceiling recessed
+                                                    </a>
+                    
+                                    </li>
+                                            <li class="nav-item nav-level-2">
+                                            <a
+                            data-assert-nav-item
+                            href="/en/product-browser?filters[location]=7a8f0b24-2f76-11ed-9132-00505693b57f&amp;filters[fixation]=14b860c6-4974-11ed-9bc1-00505693bd3f&amp;filters[installation]=794825c4-4248-11f0-b298-00505693bd3f&amp;filters[type]=7b631414-2f76-11ed-9745-00505693b57f&amp;sorting=newest"
+                            class="nav-link nav-link--main"
+                            data-ga-interaction="navigation"
+                            data-ga-name="Ceiling semi-recessed"
+                            data-ga-click-url="/en/product-browser?filters[location]=7a8f0b24-2f76-11ed-9132-00505693b57f&amp;filters[fixation]=14b860c6-4974-11ed-9bc1-00505693bd3f&amp;filters[installation]=794825c4-4248-11f0-b298-00505693bd3f&amp;filters[type]=7b631414-2f76-11ed-9745-00505693b57f&amp;sorting=newest"
+                            data-ga-type="products"
+                            data-ga-login="false"
+                        >
+                            Ceiling semi-recessed
+                                                    </a>
+                    
+                                    </li>
+                                            <li class="nav-item nav-level-2">
+                                            <a
+                            data-assert-nav-item
+                            href="/en/product-browser?filters[location]=7a8f0b24-2f76-11ed-9132-00505693b57f&amp;filters[fixation]=14b860c6-4974-11ed-9bc1-00505693bd3f&amp;filters[installation]=14b8c2e6-4974-11ed-9eb0-00505693bd3f&amp;filters[type]=7b631414-2f76-11ed-9745-00505693b57f&amp;sorting=newest"
+                            class="nav-link nav-link--main"
+                            data-ga-interaction="navigation"
+                            data-ga-name="Ceiling surface mounted"
+                            data-ga-click-url="/en/product-browser?filters[location]=7a8f0b24-2f76-11ed-9132-00505693b57f&amp;filters[fixation]=14b860c6-4974-11ed-9bc1-00505693bd3f&amp;filters[installation]=14b8c2e6-4974-11ed-9eb0-00505693bd3f&amp;filters[type]=7b631414-2f76-11ed-9745-00505693b57f&amp;sorting=newest"
+                            data-ga-type="products"
+                            data-ga-login="false"
+                        >
+                            Ceiling surface mounted
+                                                    </a>
+                    
+                                    </li>
+                                            <li class="nav-item nav-level-2">
+                                            <a
+                            data-assert-nav-item
+                            href="/en/product-browser?filters[location]=7a8f0b24-2f76-11ed-9132-00505693b57f&amp;filters[fixation]=14b860c6-4974-11ed-9bc1-00505693bd3f&amp;filters[installation]=14b8d812-4974-11ed-99e8-00505693bd3f&amp;filters[type]=7b631414-2f76-11ed-9745-00505693b57f&amp;sorting=newest"
+                            class="nav-link nav-link--main"
+                            data-ga-interaction="navigation"
+                            data-ga-name="Ceiling suspended"
+                            data-ga-click-url="/en/product-browser?filters[location]=7a8f0b24-2f76-11ed-9132-00505693b57f&amp;filters[fixation]=14b860c6-4974-11ed-9bc1-00505693bd3f&amp;filters[installation]=14b8d812-4974-11ed-99e8-00505693bd3f&amp;filters[type]=7b631414-2f76-11ed-9745-00505693b57f&amp;sorting=newest"
+                            data-ga-type="products"
+                            data-ga-login="false"
+                        >
+                            Ceiling suspended
+                                                    </a>
+                    
+                                    </li>
+                                            <li class="nav-item nav-level-2">
+                                            <a
+                            data-assert-nav-item
+                            href="/en/product-browser?filters[location]=7a8f0b24-2f76-11ed-9132-00505693b57f&amp;filters[fixation]=14b88984-4974-11ed-aeda-00505693bd3f&amp;filters[installation]=14b89d16-4974-11ed-94fc-00505693bd3f&amp;filters[type]=7b631414-2f76-11ed-9745-00505693b57f&amp;sorting=newest"
+                            class="nav-link nav-link--main"
+                            data-ga-interaction="navigation"
+                            data-ga-name="Wall recessed"
+                            data-ga-click-url="/en/product-browser?filters[location]=7a8f0b24-2f76-11ed-9132-00505693b57f&amp;filters[fixation]=14b88984-4974-11ed-aeda-00505693bd3f&amp;filters[installation]=14b89d16-4974-11ed-94fc-00505693bd3f&amp;filters[type]=7b631414-2f76-11ed-9745-00505693b57f&amp;sorting=newest"
+                            data-ga-type="products"
+                            data-ga-login="false"
+                        >
+                            Wall recessed
+                                                    </a>
+                    
+                                    </li>
+                                            <li class="nav-item nav-level-2">
+                                            <a
+                            data-assert-nav-item
+                            href="/en/product-browser?filters[location]=7a8f0b24-2f76-11ed-9132-00505693b57f&amp;filters[fixation]=14b88984-4974-11ed-aeda-00505693bd3f&amp;filters[installation]=14b8c2e6-4974-11ed-9eb0-00505693bd3f&amp;filters[type]=7b631414-2f76-11ed-9745-00505693b57f&amp;sorting=newest"
+                            class="nav-link nav-link--main"
+                            data-ga-interaction="navigation"
+                            data-ga-name="Wall surface mounted"
+                            data-ga-click-url="/en/product-browser?filters[location]=7a8f0b24-2f76-11ed-9132-00505693b57f&amp;filters[fixation]=14b88984-4974-11ed-aeda-00505693bd3f&amp;filters[installation]=14b8c2e6-4974-11ed-9eb0-00505693bd3f&amp;filters[type]=7b631414-2f76-11ed-9745-00505693b57f&amp;sorting=newest"
+                            data-ga-type="products"
+                            data-ga-login="false"
+                        >
+                            Wall surface mounted
+                                                    </a>
+                    
+                                    </li>
+                                            <li class="nav-item nav-level-2">
+                                            <a
+                            data-assert-nav-item
+                            href="/en/product-browser?filters[location]=7a8f0b24-2f76-11ed-9132-00505693b57f&amp;filters[fixation]=14b87476-4974-11ed-a418-00505693bd3f&amp;filters[type]=7b631414-2f76-11ed-9745-00505693b57f&amp;filters[installation]=14b8b06c-4974-11ed-ba5f-00505693bd3f&amp;sorting=newest"
+                            class="nav-link nav-link--main"
+                            data-ga-interaction="navigation"
+                            data-ga-name="Floor / stand-alone"
+                            data-ga-click-url="/en/product-browser?filters[location]=7a8f0b24-2f76-11ed-9132-00505693b57f&amp;filters[fixation]=14b87476-4974-11ed-a418-00505693bd3f&amp;filters[type]=7b631414-2f76-11ed-9745-00505693b57f&amp;filters[installation]=14b8b06c-4974-11ed-ba5f-00505693bd3f&amp;sorting=newest"
+                            data-ga-type="products"
+                            data-ga-login="false"
+                        >
+                            Floor / stand-alone
+                                                    </a>
+                    
+                                    </li>
+                                            <li class="nav-item nav-level-2">
+                                            <a
+                            data-assert-nav-item
+                            href="/en/product-browser?filters[location]=7a8f0b24-2f76-11ed-9132-00505693b57f&amp;filters[fixation]=477f705c-1af8-11ee-b56c-00505693bd3f&amp;filters[type]=7b631414-2f76-11ed-9745-00505693b57f&amp;sorting=newest"
+                            class="nav-link nav-link--main"
+                            data-ga-interaction="navigation"
+                            data-ga-name="Table lamps"
+                            data-ga-click-url="/en/product-browser?filters[location]=7a8f0b24-2f76-11ed-9132-00505693b57f&amp;filters[fixation]=477f705c-1af8-11ee-b56c-00505693bd3f&amp;filters[type]=7b631414-2f76-11ed-9745-00505693b57f&amp;sorting=newest"
+                            data-ga-type="products"
+                            data-ga-login="false"
+                        >
+                            Table lamps
+                                                    </a>
+                    
+                                    </li>
+                    </ul>
+    
+            </div>
+
+                    </div>
+                                                                <div className="nav-column">
+                                <div class="nav-item nav-level-1">
+                    <h3 class="h4">
+                <a
+                    data-assert-nav-item
+                    href="/en/product-browser?filters[location]=7ab8a74a-2f76-11ed-9b4a-00505693b57f&amp;sorting=newest"
+                    class="nav-title"
+                    data-ga-interaction="navigation"
+                    data-ga-name="Outdoor lighting fixtures"
+                    data-ga-click-url="/en/product-browser?filters[location]=7ab8a74a-2f76-11ed-9b4a-00505693b57f&amp;sorting=newest"
+                    data-ga-type="products"
+                    data-ga-login="false"
+                >
+                    Outdoor lighting fixtures
+                                    </a>
+            </h3>
+
+            <div class="nav-item--view-all">
+                <a
+                    href="/en/product-browser?filters[location]=7ab8a74a-2f76-11ed-9b4a-00505693b57f&amp;sorting=newest"
+                    class="nav-link"
+                    data-ga-interaction="navigation"
+                    data-ga-name="Outdoor lighting fixtures"
+                    data-ga-click-url="/en/product-browser?filters[location]=7ab8a74a-2f76-11ed-9b4a-00505693b57f&amp;sorting=newest"
+                    data-ga-type="products"
+                    data-ga-login="false"
+                >
+                    View all
+                    <svg class="icon">
+                        <use xlink:href="#arrow-right" />
+                    </svg>
+                </a>
+            </div>
+        
+                                <ul class="nav-nested">
+                                            <li class="nav-item nav-level-2">
+                                            <a
+                            data-assert-nav-item
+                            href="/en/product-browser?filters[location]=7ab8a74a-2f76-11ed-9b4a-00505693b57f&amp;filters[fixation]=14b860c6-4974-11ed-9bc1-00505693bd3f&amp;filters[installation]=14b89d16-4974-11ed-94fc-00505693bd3f&amp;filters[type]=7b631414-2f76-11ed-9745-00505693b57f&amp;sorting=newest"
+                            class="nav-link nav-link--main"
+                            data-ga-interaction="navigation"
+                            data-ga-name="Ceiling recessed"
+                            data-ga-click-url="/en/product-browser?filters[location]=7ab8a74a-2f76-11ed-9b4a-00505693b57f&amp;filters[fixation]=14b860c6-4974-11ed-9bc1-00505693bd3f&amp;filters[installation]=14b89d16-4974-11ed-94fc-00505693bd3f&amp;filters[type]=7b631414-2f76-11ed-9745-00505693b57f&amp;sorting=newest"
+                            data-ga-type="products"
+                            data-ga-login="false"
+                        >
+                            Ceiling recessed
+                                                    </a>
+                    
+                                    </li>
+                                            <li class="nav-item nav-level-2">
+                                            <a
+                            data-assert-nav-item
+                            href="/en/product-browser?filters[location]=7ab8a74a-2f76-11ed-9b4a-00505693b57f&amp;filters[fixation]=14b860c6-4974-11ed-9bc1-00505693bd3f&amp;filters[installation]=14b8c2e6-4974-11ed-9eb0-00505693bd3f&amp;filters[type]=7b631414-2f76-11ed-9745-00505693b57f&amp;sorting=newest"
+                            class="nav-link nav-link--main"
+                            data-ga-interaction="navigation"
+                            data-ga-name="Ceiling surface mounted"
+                            data-ga-click-url="/en/product-browser?filters[location]=7ab8a74a-2f76-11ed-9b4a-00505693b57f&amp;filters[fixation]=14b860c6-4974-11ed-9bc1-00505693bd3f&amp;filters[installation]=14b8c2e6-4974-11ed-9eb0-00505693bd3f&amp;filters[type]=7b631414-2f76-11ed-9745-00505693b57f&amp;sorting=newest"
+                            data-ga-type="products"
+                            data-ga-login="false"
+                        >
+                            Ceiling surface mounted
+                                                    </a>
+                    
+                                    </li>
+                                            <li class="nav-item nav-level-2">
+                                            <a
+                            data-assert-nav-item
+                            href="/en/product-browser?filters[location]=7ab8a74a-2f76-11ed-9b4a-00505693b57f&amp;filters[fixation]=14b88984-4974-11ed-aeda-00505693bd3f&amp;filters[installation]=14b89d16-4974-11ed-94fc-00505693bd3f&amp;filters[type]=7b631414-2f76-11ed-9745-00505693b57f&amp;sorting=newest"
+                            class="nav-link nav-link--main"
+                            data-ga-interaction="navigation"
+                            data-ga-name="Wall recessed"
+                            data-ga-click-url="/en/product-browser?filters[location]=7ab8a74a-2f76-11ed-9b4a-00505693b57f&amp;filters[fixation]=14b88984-4974-11ed-aeda-00505693bd3f&amp;filters[installation]=14b89d16-4974-11ed-94fc-00505693bd3f&amp;filters[type]=7b631414-2f76-11ed-9745-00505693b57f&amp;sorting=newest"
+                            data-ga-type="products"
+                            data-ga-login="false"
+                        >
+                            Wall recessed
+                                                    </a>
+                    
+                                    </li>
+                                            <li class="nav-item nav-level-2">
+                                            <a
+                            data-assert-nav-item
+                            href="/en/product-browser?filters[location]=7ab8a74a-2f76-11ed-9b4a-00505693b57f&amp;filters[fixation]=14b88984-4974-11ed-aeda-00505693bd3f&amp;filters[installation]=14b8c2e6-4974-11ed-9eb0-00505693bd3f&amp;filters[type]=7b631414-2f76-11ed-9745-00505693b57f&amp;sorting=newest"
+                            class="nav-link nav-link--main"
+                            data-ga-interaction="navigation"
+                            data-ga-name="Wall surface mounted"
+                            data-ga-click-url="/en/product-browser?filters[location]=7ab8a74a-2f76-11ed-9b4a-00505693b57f&amp;filters[fixation]=14b88984-4974-11ed-aeda-00505693bd3f&amp;filters[installation]=14b8c2e6-4974-11ed-9eb0-00505693bd3f&amp;filters[type]=7b631414-2f76-11ed-9745-00505693b57f&amp;sorting=newest"
+                            data-ga-type="products"
+                            data-ga-login="false"
+                        >
+                            Wall surface mounted
+                                                    </a>
+                    
+                                    </li>
+                                            <li class="nav-item nav-level-2">
+                                            <a
+                            data-assert-nav-item
+                            href="/en/product-browser?filters[location]=7ab8a74a-2f76-11ed-9b4a-00505693b57f&amp;filters[fixation]=14b87476-4974-11ed-a418-00505693bd3f&amp;filters[installation]=14b89d16-4974-11ed-94fc-00505693bd3f&amp;filters[type]=7b631414-2f76-11ed-9745-00505693b57f&amp;sorting=newest"
+                            class="nav-link nav-link--main"
+                            data-ga-interaction="navigation"
+                            data-ga-name="Floor recessed"
+                            data-ga-click-url="/en/product-browser?filters[location]=7ab8a74a-2f76-11ed-9b4a-00505693b57f&amp;filters[fixation]=14b87476-4974-11ed-a418-00505693bd3f&amp;filters[installation]=14b89d16-4974-11ed-94fc-00505693bd3f&amp;filters[type]=7b631414-2f76-11ed-9745-00505693b57f&amp;sorting=newest"
+                            data-ga-type="products"
+                            data-ga-login="false"
+                        >
+                            Floor recessed
+                                                    </a>
+                    
+                                    </li>
+                                            <li class="nav-item nav-level-2">
+                                            <a
+                            data-assert-nav-item
+                            href="/en/product-browser?filters[location]=7ab8a74a-2f76-11ed-9b4a-00505693b57f&amp;filters[fixation]=14b87476-4974-11ed-a418-00505693bd3f&amp;filters[installation]=14b8c2e6-4974-11ed-9eb0-00505693bd3f&amp;filters[type]=7b631414-2f76-11ed-9745-00505693b57f&amp;sorting=newest"
+                            class="nav-link nav-link--main"
+                            data-ga-interaction="navigation"
+                            data-ga-name="Floor surface mounted / bollards"
+                            data-ga-click-url="/en/product-browser?filters[location]=7ab8a74a-2f76-11ed-9b4a-00505693b57f&amp;filters[fixation]=14b87476-4974-11ed-a418-00505693bd3f&amp;filters[installation]=14b8c2e6-4974-11ed-9eb0-00505693bd3f&amp;filters[type]=7b631414-2f76-11ed-9745-00505693b57f&amp;sorting=newest"
+                            data-ga-type="products"
+                            data-ga-login="false"
+                        >
+                            Floor surface mounted / bollards
+                                                    </a>
+                    
+                                    </li>
+                                            <li class="nav-item nav-level-2">
+                                            <a
+                            data-assert-nav-item
+                            href="/en/product-browser?filters[location]=7ab8a74a-2f76-11ed-9b4a-00505693b57f&amp;filters[fixation]=47570ae0-1af8-11ee-b6b9-00505693bd3f&amp;filters[installation]=47b48e2c-1af8-11ee-9555-00505693bd3f&amp;filters[type]=7b631414-2f76-11ed-9745-00505693b57f&amp;sorting=newest"
+                            class="nav-link nav-link--main"
+                            data-ga-interaction="navigation"
+                            data-ga-name="Pole lighting fixtures"
+                            data-ga-click-url="/en/product-browser?filters[location]=7ab8a74a-2f76-11ed-9b4a-00505693b57f&amp;filters[fixation]=47570ae0-1af8-11ee-b6b9-00505693bd3f&amp;filters[installation]=47b48e2c-1af8-11ee-9555-00505693bd3f&amp;filters[type]=7b631414-2f76-11ed-9745-00505693b57f&amp;sorting=newest"
+                            data-ga-type="products"
+                            data-ga-login="false"
+                        >
+                            Pole lighting fixtures
+                                                    </a>
+                    
+                                    </li>
+                                            <li class="nav-item nav-level-2">
+                                            <a
+                            data-assert-nav-item
+                            href="/en/product-browser?filters[location]=7ab8a74a-2f76-11ed-9b4a-00505693b57f&amp;filters[type]=db33b9be-182e-11ef-b770-00505693b57f&amp;sorting=newest"
+                            class="nav-link nav-link--main"
+                            data-ga-interaction="navigation"
+                            data-ga-name="Poles"
+                            data-ga-click-url="/en/product-browser?filters[location]=7ab8a74a-2f76-11ed-9b4a-00505693b57f&amp;filters[type]=db33b9be-182e-11ef-b770-00505693b57f&amp;sorting=newest"
+                            data-ga-type="products"
+                            data-ga-login="false"
+                        >
+                            Poles
+                                                    </a>
+                    
+                                    </li>
+                    </ul>
+    
+            </div>
+
+                    </div>
+                                                                                                                
+            <div class="nav-column nav-column--rest">
+                                                                                                                                            <div class="nav-item nav-level-1">
+                    <h3 class="h4">
+                <a
+                    data-assert-nav-item
+                    href="/en/product-browser?filters[location]=7a8f0b24-2f76-11ed-9132-00505693b57f&amp;filters[productgroup]=8a13c448-3e21-11ef-aacc-00505693b57f&amp;sorting=newest"
+                    class="nav-title"
+                    data-ga-interaction="navigation"
+                    data-ga-name="Tracks"
+                    data-ga-click-url="/en/product-browser?filters[location]=7a8f0b24-2f76-11ed-9132-00505693b57f&amp;filters[productgroup]=8a13c448-3e21-11ef-aacc-00505693b57f&amp;sorting=newest"
+                    data-ga-type="products"
+                    data-ga-login="false"
+                >
+                    Tracks
+                                    </a>
+            </h3>
+
+            <div class="nav-item--view-all">
+                <a
+                    href="/en/product-browser?filters[location]=7a8f0b24-2f76-11ed-9132-00505693b57f&amp;filters[productgroup]=8a13c448-3e21-11ef-aacc-00505693b57f&amp;sorting=newest"
+                    class="nav-link"
+                    data-ga-interaction="navigation"
+                    data-ga-name="Tracks"
+                    data-ga-click-url="/en/product-browser?filters[location]=7a8f0b24-2f76-11ed-9132-00505693b57f&amp;filters[productgroup]=8a13c448-3e21-11ef-aacc-00505693b57f&amp;sorting=newest"
+                    data-ga-type="products"
+                    data-ga-login="false"
+                >
+                    View all
+                    <svg class="icon">
+                        <use xlink:href="#arrow-right" />
+                    </svg>
+                </a>
+            </div>
+        
+                                <ul class="nav-nested">
+                                            <li class="nav-item nav-level-2">
+                                            <a
+                            data-assert-nav-item
+                            href="/en/product-browser?filters[location]=7a8f0b24-2f76-11ed-9132-00505693b57f&amp;filters[productgroup]=8a13c448-3e21-11ef-aacc-00505693b57f&amp;filters[type]=7b76a196-2f76-11ed-adc1-00505693b57f&amp;sorting=newest"
+                            class="nav-link nav-link--main"
+                            data-ga-interaction="navigation"
+                            data-ga-name="Track systems"
+                            data-ga-click-url="/en/product-browser?filters[location]=7a8f0b24-2f76-11ed-9132-00505693b57f&amp;filters[productgroup]=8a13c448-3e21-11ef-aacc-00505693b57f&amp;filters[type]=7b76a196-2f76-11ed-adc1-00505693b57f&amp;sorting=newest"
+                            data-ga-type="products"
+                            data-ga-login="false"
+                        >
+                            Track systems
+                                                    </a>
+                    
+                                    </li>
+                                            <li class="nav-item nav-level-2">
+                                            <a
+                            data-assert-nav-item
+                            href="/en/product-browser?filters[location]=7a8f0b24-2f76-11ed-9132-00505693b57f&amp;filters[productgroup]=8a13c448-3e21-11ef-aacc-00505693b57f&amp;filters[type]=7b631414-2f76-11ed-9745-00505693b57f&amp;sorting=newest"
+                            class="nav-link nav-link--main"
+                            data-ga-interaction="navigation"
+                            data-ga-name="Fixtures for track"
+                            data-ga-click-url="/en/product-browser?filters[location]=7a8f0b24-2f76-11ed-9132-00505693b57f&amp;filters[productgroup]=8a13c448-3e21-11ef-aacc-00505693b57f&amp;filters[type]=7b631414-2f76-11ed-9745-00505693b57f&amp;sorting=newest"
+                            data-ga-type="products"
+                            data-ga-login="false"
+                        >
+                            Fixtures for track
+                                                    </a>
+                    
+                                    </li>
+                    </ul>
+    
+            </div>
+
+                                                                                        <div class="nav-item nav-level-1">
+                    <h3 class="h4">
+                <a
+                    data-assert-nav-item
+                    href="/en/product-browser?filters[productgroup]=a51a3524-3e21-11ef-a708-00505693b57f&amp;filters[location]=7a8f0b24-2f76-11ed-9132-00505693b57f&amp;sorting=newest"
+                    class="nav-title"
+                    data-ga-interaction="navigation"
+                    data-ga-name="Low voltage systems"
+                    data-ga-click-url="/en/product-browser?filters[productgroup]=a51a3524-3e21-11ef-a708-00505693b57f&amp;filters[location]=7a8f0b24-2f76-11ed-9132-00505693b57f&amp;sorting=newest"
+                    data-ga-type="products"
+                    data-ga-login="false"
+                >
+                    Low voltage systems
+                                    </a>
+            </h3>
+
+            <div class="nav-item--view-all">
+                <a
+                    href="/en/product-browser?filters[productgroup]=a51a3524-3e21-11ef-a708-00505693b57f&amp;filters[location]=7a8f0b24-2f76-11ed-9132-00505693b57f&amp;sorting=newest"
+                    class="nav-link"
+                    data-ga-interaction="navigation"
+                    data-ga-name="Low voltage systems"
+                    data-ga-click-url="/en/product-browser?filters[productgroup]=a51a3524-3e21-11ef-a708-00505693b57f&amp;filters[location]=7a8f0b24-2f76-11ed-9132-00505693b57f&amp;sorting=newest"
+                    data-ga-type="products"
+                    data-ga-login="false"
+                >
+                    View all
+                    <svg class="icon">
+                        <use xlink:href="#arrow-right" />
+                    </svg>
+                </a>
+            </div>
+        
+                                <ul class="nav-nested">
+                                            <li class="nav-item nav-level-2">
+                                            <a
+                            data-assert-nav-item
+                            href="/en/product-browser?filters[location]=7a8f0b24-2f76-11ed-9132-00505693b57f&amp;filters[productgroup]=a51a3524-3e21-11ef-a708-00505693b57f&amp;filters[type]=7b8e8ebe-2f76-11ed-8334-00505693b57f&amp;sorting=newest"
+                            class="nav-link nav-link--main"
+                            data-ga-interaction="navigation"
+                            data-ga-name="Low voltage systems"
+                            data-ga-click-url="/en/product-browser?filters[location]=7a8f0b24-2f76-11ed-9132-00505693b57f&amp;filters[productgroup]=a51a3524-3e21-11ef-a708-00505693b57f&amp;filters[type]=7b8e8ebe-2f76-11ed-8334-00505693b57f&amp;sorting=newest"
+                            data-ga-type="products"
+                            data-ga-login="false"
+                        >
+                            Low voltage systems
+                                                    </a>
+                    
+                                    </li>
+                                            <li class="nav-item nav-level-2">
+                                            <a
+                            data-assert-nav-item
+                            href="/en/product-browser?filters[location]=7a8f0b24-2f76-11ed-9132-00505693b57f&amp;filters[productgroup]=a51a3524-3e21-11ef-a708-00505693b57f&amp;filters[fixation]=b6855e14-5e4e-11ee-b700-00505693bd3f&amp;filters[installation]=b816bc3c-5e4e-11ee-9100-00505693bd3f&amp;filters[type]=7b631414-2f76-11ed-9745-00505693b57f&amp;sorting=newest"
+                            class="nav-link nav-link--main"
+                            data-ga-interaction="navigation"
+                            data-ga-name="Fixtures for low voltage systems"
+                            data-ga-click-url="/en/product-browser?filters[location]=7a8f0b24-2f76-11ed-9132-00505693b57f&amp;filters[productgroup]=a51a3524-3e21-11ef-a708-00505693b57f&amp;filters[fixation]=b6855e14-5e4e-11ee-b700-00505693bd3f&amp;filters[installation]=b816bc3c-5e4e-11ee-9100-00505693bd3f&amp;filters[type]=7b631414-2f76-11ed-9745-00505693b57f&amp;sorting=newest"
+                            data-ga-type="products"
+                            data-ga-login="false"
+                        >
+                            Fixtures for low voltage systems
+                                                    </a>
+                    
+                                    </li>
+                    </ul>
+    
+            </div>
+
+                                                                                        <div class="nav-item nav-level-1">
+                    <h3 class="h4">
+                <a
+                    data-assert-nav-item
+                    href="/en/product-browser?filters[type]=7ba56e9a-2f76-11ed-812b-00505693b57f&amp;sorting=newest"
+                    class="nav-title"
+                    data-ga-interaction="navigation"
+                    data-ga-name="Made-to-measure profiles"
+                    data-ga-click-url="/en/product-browser?filters[type]=7ba56e9a-2f76-11ed-812b-00505693b57f&amp;sorting=newest"
+                    data-ga-type="products"
+                    data-ga-login="false"
+                >
+                    Made-to-measure profiles
+                                    </a>
+            </h3>
+
+            <div class="nav-item--view-all">
+                <a
+                    href="/en/product-browser?filters[type]=7ba56e9a-2f76-11ed-812b-00505693b57f&amp;sorting=newest"
+                    class="nav-link"
+                    data-ga-interaction="navigation"
+                    data-ga-name="Made-to-measure profiles"
+                    data-ga-click-url="/en/product-browser?filters[type]=7ba56e9a-2f76-11ed-812b-00505693b57f&amp;sorting=newest"
+                    data-ga-type="products"
+                    data-ga-login="false"
+                >
+                    View all
+                    <svg class="icon">
+                        <use xlink:href="#arrow-right" />
+                    </svg>
+                </a>
+            </div>
+        
+                                <ul class="nav-nested">
+                                            <li class="nav-item nav-level-2">
+                                            <a
+                            data-assert-nav-item
+                            href="/en/product-browser?filters[type]=7ba56e9a-2f76-11ed-812b-00505693b57f&amp;filters[location]=7a8f0b24-2f76-11ed-9132-00505693b57f&amp;sorting=newest"
+                            class="nav-link nav-link--main"
+                            data-ga-interaction="navigation"
+                            data-ga-name="Indoor use"
+                            data-ga-click-url="/en/product-browser?filters[type]=7ba56e9a-2f76-11ed-812b-00505693b57f&amp;filters[location]=7a8f0b24-2f76-11ed-9132-00505693b57f&amp;sorting=newest"
+                            data-ga-type="products"
+                            data-ga-login="false"
+                        >
+                            Indoor use
+                                                    </a>
+                    
+                                    </li>
+                                            <li class="nav-item nav-level-2">
+                                            <a
+                            data-assert-nav-item
+                            href="/en/product-browser?filters[type]=7ba56e9a-2f76-11ed-812b-00505693b57f&amp;filters[location]=7ab8a74a-2f76-11ed-9b4a-00505693b57f&amp;sorting=newest"
+                            class="nav-link nav-link--main"
+                            data-ga-interaction="navigation"
+                            data-ga-name="Outdoor use"
+                            data-ga-click-url="/en/product-browser?filters[type]=7ba56e9a-2f76-11ed-812b-00505693b57f&amp;filters[location]=7ab8a74a-2f76-11ed-9b4a-00505693b57f&amp;sorting=newest"
+                            data-ga-type="products"
+                            data-ga-login="false"
+                        >
+                            Outdoor use
+                                                    </a>
+                    
+                                    </li>
+                    </ul>
+    
+            </div>
+
+                                                </div>
+        </div>
+    
+                    </div>
+
+                    <div class="nav-panel-ctas">
+                    <div class="widget widget-cta widget-cta-darkest widget-cta--productfinder widget-cta--navigation has--description">
+    <h4 class="widget-cta-title">In the spotlight</h4>            <div class="widget-cta-description">
+            <p>Discover Spy II&nbsp;</p>
+
+        </div>
+                <a
+            href="/en/in-the-spotlight/spy-ii"
+            class="link link--arrow link--sm link--icon"
+                                    data-ga-interaction="call-to-action"
+            data-ga-name="Find out more"
+            data-ga-type="cta-image"
+            data-ga-category="navigation"
+            data-ga-location="en"
+            data-ga-click-url="/en/in-the-spotlight/spy-ii"
+            data-ga-component="widget"
+            data-ga-login="false"
+        >
+            <span class="link-text">Find out more</span>
+            <svg class="icon">
+                <use xlink:href="#arrow-right"></use>
+            </svg>
+        </a>
+        </div>
+
+        <div class="widget widget-cta widget-cta--navigation">
+        <h4 class="widget-cta-title">New to the range</h4>                    <div class="widget-cta-description">
+                <p>Get to know new products, extensions and concepts for outdoor, office and residential.</p>
+
+            </div>
+                            <a
+                href="/en/new-to-the-range"
+                class="link link--arrow link--sm"
+                                                data-ga-interaction="call-to-action"
+                data-ga-name="Discover the novelties"
+                data-ga-type="cta-image"
+                data-ga-category="navigation"
+                data-ga-location="en"
+                data-ga-click-url="/en/new-to-the-range"
+                data-ga-component="widget"
+                data-ga-login="false"
+            >
+                <span class="link-text">Discover the novelties</span>
+                <svg class="icon">
+                    <use xlink:href="#arrow-right"></use>
+                </svg>
+            </a>
+                    </div>
+
+
+            </div>
+                <input type="checkbox" class="sr-only" onfocus="document.getElementById('focus-trap-nav-products').focus()" />
+    </div>
+                            </li>
+            <li>
+                <a href="#nav-technicalResources" aria-expanded="false" aria-controls="nav-technicalResources" class="nav-item nav-item--main nav-item--content" data-toggle="nav-panel" data-panel="nav-technicalResources">
+                    <span>Technical<br/>resources</span>
+                </a>
+                                    
+
+    <div class="nav-panel nav-panel--full" id="nav-technicalResources">
+        <a href="#nav-technicalResources" class="btn btn--icon nav-panel-close" data-trigger="nav-panel-close" id="focus-trap-nav-technicalResources">
+            <span class="d-block d-lg-none">
+                <svg class="icon">
+ 	                <use xlink:href="#chevron-left"></use>
+                </svg>
+            </span>
+            <span class="d-none d-lg-block">
+                <svg class="icon">
+                    <use xlink:href="#close"></use>
+                </svg>
+                <span class="sr-only">main_navigation.close</span>
+            </span>
+            <span class="d-lg-none">
+                back
+            </span>
+        </a>
+
+        <div class="nav-panel-navigation nav-panel-navigation--primary">
+                                                <h3 class="h2 nav-panel-title">Technical resources</h3>
+                                            <ul>
+                                            <li class="nav-item nav-level-1">
+                                            <h4 class="nav-title">Download center</h4>
+                    
+                                                        <ul class="nav-nested">
+                                            <li class="nav-item nav-level-2">
+                                            <a
+                            data-assert-nav-item
+                            href="/en/download/planning-files"
+                            class="nav-link nav-link--main"
+                            data-ga-interaction="navigation"
+                            data-ga-name="Planning files"
+                            data-ga-click-url="/en/download/planning-files"
+                            data-ga-type="primary"
+                            data-ga-login="false"
+                        >
+                            Planning files
+                                                    </a>
+                    
+                                    </li>
+                                            <li class="nav-item nav-level-2">
+                                            <a
+                            data-assert-nav-item
+                            href="/en/download/publications"
+                            class="nav-link nav-link--main"
+                            data-ga-interaction="navigation"
+                            data-ga-name="Publications"
+                            data-ga-click-url="/en/download/publications"
+                            data-ga-type="primary"
+                            data-ga-login="false"
+                        >
+                            Publications
+                                                    </a>
+                    
+                                    </li>
+                                            <li class="nav-item nav-level-2">
+                                            <a
+                            data-assert-nav-item
+                            href="/en/download/technical-documents"
+                            class="nav-link nav-link--main"
+                            data-ga-interaction="navigation"
+                            data-ga-name="Technical documents"
+                            data-ga-click-url="/en/download/technical-documents"
+                            data-ga-type="primary"
+                            data-ga-login="false"
+                        >
+                            Technical documents
+                                                    </a>
+                    
+                                    </li>
+                    </ul>
+    
+                                    </li>
+                                            <li class="nav-item nav-level-1">
+                                            <h4 class="nav-title">Technical topics</h4>
+                    
+                                                        <ul class="nav-nested">
+                                            <li class="nav-item nav-level-2">
+                                            <a
+                            data-assert-nav-item
+                            href="/en/technical/dimming-systems"
+                            class="nav-link nav-link--main"
+                            data-ga-interaction="navigation"
+                            data-ga-name="Dimming systems"
+                            data-ga-click-url="/en/technical/dimming-systems"
+                            data-ga-type="primary"
+                            data-ga-login="false"
+                        >
+                            Dimming systems
+                                                    </a>
+                    
+                                    </li>
+                                            <li class="nav-item nav-level-2">
+                                            <a
+                            data-assert-nav-item
+                            href="/en/technical/optics-and-light-control"
+                            class="nav-link nav-link--main"
+                            data-ga-interaction="navigation"
+                            data-ga-name="Optics and light control"
+                            data-ga-click-url="/en/technical/optics-and-light-control"
+                            data-ga-type="primary"
+                            data-ga-login="false"
+                        >
+                            Optics and light control
+                                                    </a>
+                    
+                                    </li>
+                                            <li class="nav-item nav-level-2">
+                                            <a
+                            data-assert-nav-item
+                            href="/en/technical/led-technology"
+                            class="nav-link nav-link--main"
+                            data-ga-interaction="navigation"
+                            data-ga-name="LED technology"
+                            data-ga-click-url="/en/technical/led-technology"
+                            data-ga-type="primary"
+                            data-ga-login="false"
+                        >
+                            LED technology
+                                                    </a>
+                    
+                                    </li>
+                                            <li class="nav-item nav-level-2">
+                                            <a
+                            data-assert-nav-item
+                            href="/en/technical/acoustics-and-lighting"
+                            class="nav-link nav-link--main"
+                            data-ga-interaction="navigation"
+                            data-ga-name="Acoustics and lighting"
+                            data-ga-click-url="/en/technical/acoustics-and-lighting"
+                            data-ga-type="primary"
+                            data-ga-login="false"
+                        >
+                            Acoustics and lighting
+                                                    </a>
+                    
+                                    </li>
+                                            <li class="nav-item nav-level-2">
+                                            <a
+                            data-assert-nav-item
+                            href="/en/technical/sensors-and-connectivity"
+                            class="nav-link nav-link--main"
+                            data-ga-interaction="navigation"
+                            data-ga-name="Sensors and connectivity"
+                            data-ga-click-url="/en/technical/sensors-and-connectivity"
+                            data-ga-type="primary"
+                            data-ga-login="false"
+                        >
+                            Sensors and connectivity
+                                                    </a>
+                    
+                                    </li>
+                                            <li class="nav-item nav-level-2">
+                                            <a
+                            data-assert-nav-item
+                            href="/en/technical/videos"
+                            class="nav-link nav-link--main"
+                            data-ga-interaction="navigation"
+                            data-ga-name="Installation videos"
+                            data-ga-click-url="/en/technical/videos"
+                            data-ga-type="primary"
+                            data-ga-login="false"
+                        >
+                            Installation videos
+                                                    </a>
+                    
+                                    </li>
+                    </ul>
+    
+                                    </li>
+                                            <li class="nav-item nav-level-1">
+                                            <h4 class="nav-title">Lighting tools</h4>
+                    
+                                                        <ul class="nav-nested">
+                                            <li class="nav-item nav-level-2">
+                                            <a
+                            data-assert-nav-item
+                            href="/en/lighting-tools/my-delta-light"
+                            class="nav-link nav-link--main"
+                            data-ga-interaction="navigation"
+                            data-ga-name="My Deltalight"
+                            data-ga-click-url="/en/lighting-tools/my-delta-light"
+                            data-ga-type="primary"
+                            data-ga-login="false"
+                        >
+                            My Deltalight
+                                                    </a>
+                    
+                                    </li>
+                                            <li class="nav-item nav-level-2">
+                                            <a
+                            data-assert-nav-item
+                            href="/en/lighting-tools/profile-configurator"
+                            class="nav-link nav-link--main"
+                            data-ga-interaction="navigation"
+                            data-ga-name="Omniliner Profile Configurator"
+                            data-ga-click-url="/en/lighting-tools/profile-configurator"
+                            data-ga-type="primary"
+                            data-ga-login="false"
+                        >
+                            Omniliner Profile Configurator
+                                                    </a>
+                    
+                                    </li>
+                                            <li class="nav-item nav-level-2">
+                                            <a
+                            data-assert-nav-item
+                            href="/en/lighting-tools/spy-ii-39-configurator"
+                            class="nav-link nav-link--main"
+                            data-ga-interaction="navigation"
+                            data-ga-name="SPY II 39 Configurator"
+                            data-ga-click-url="/en/lighting-tools/spy-ii-39-configurator"
+                            data-ga-type="primary"
+                            data-ga-login="false"
+                        >
+                            SPY II 39 Configurator
+                                                    </a>
+                    
+                                    </li>
+                    </ul>
+    
+                                    </li>
+                    </ul>
+    
+                    </div>
+
+                <input type="checkbox" class="sr-only" onfocus="document.getElementById('focus-trap-nav-technicalResources').focus()" />
+    </div>
+                            </li>
+            <li>
+                <a href="#nav-weAreDeltaLight" aria-expanded="false" aria-controls="nav-weAreDeltaLight" class="nav-item nav-item--main nav-item--content" data-toggle="nav-panel" data-panel="nav-weAreDeltaLight">
+                    <span>About<br/>Deltalight</span>
+                </a>
+                                    
+
+    <div class="nav-panel nav-panel--full" id="nav-weAreDeltaLight">
+        <a href="#nav-weAreDeltaLight" class="btn btn--icon nav-panel-close" data-trigger="nav-panel-close" id="focus-trap-nav-weAreDeltaLight">
+            <span class="d-block d-lg-none">
+                <svg class="icon">
+ 	                <use xlink:href="#chevron-left"></use>
+                </svg>
+            </span>
+            <span class="d-none d-lg-block">
+                <svg class="icon">
+                    <use xlink:href="#close"></use>
+                </svg>
+                <span class="sr-only">main_navigation.close</span>
+            </span>
+            <span class="d-lg-none">
+                back
+            </span>
+        </a>
+
+        <div class="nav-panel-navigation nav-panel-navigation--primary">
+                                                <h3 class="h2 nav-panel-title">About Deltalight</h3>
+                                            <ul>
+                                            <li class="nav-item nav-level-1">
+                                            <h4 class="nav-title">About Deltalight</h4>
+                    
+                                                        <ul class="nav-nested">
+                                            <li class="nav-item nav-level-2">
+                                            <a
+                            data-assert-nav-item
+                            href="/en/about-deltalight/our-brand"
+                            class="nav-link nav-link--main"
+                            data-ga-interaction="navigation"
+                            data-ga-name="Our brand"
+                            data-ga-click-url="/en/about-deltalight/our-brand"
+                            data-ga-type="primary"
+                            data-ga-login="false"
+                        >
+                            Our brand
+                                                    </a>
+                    
+                                    </li>
+                                            <li class="nav-item nav-level-2">
+                                            <a
+                            data-assert-nav-item
+                            href="/en/about-deltalight/our-history"
+                            class="nav-link nav-link--main"
+                            data-ga-interaction="navigation"
+                            data-ga-name="Our history"
+                            data-ga-click-url="/en/about-deltalight/our-history"
+                            data-ga-type="primary"
+                            data-ga-login="false"
+                        >
+                            Our history
+                                                    </a>
+                    
+                                    </li>
+                                            <li class="nav-item nav-level-2">
+                                            <a
+                            data-assert-nav-item
+                            href="/en/about-deltalight/sustainability"
+                            class="nav-link nav-link--main"
+                            data-ga-interaction="navigation"
+                            data-ga-name="Sustainability"
+                            data-ga-click-url="/en/about-deltalight/sustainability"
+                            data-ga-type="primary"
+                            data-ga-login="false"
+                        >
+                            Sustainability
+                                                    </a>
+                    
+                                    </li>
+                                            <li class="nav-item nav-level-2">
+                                            <a
+                            data-assert-nav-item
+                            href="/en/about-deltalight/locator"
+                            class="nav-link nav-link--main"
+                            data-ga-interaction="navigation"
+                            data-ga-name="Deltalight locator"
+                            data-ga-click-url="/en/about-deltalight/locator"
+                            data-ga-type="primary"
+                            data-ga-login="false"
+                        >
+                            Deltalight locator
+                                                    </a>
+                    
+                                    </li>
+                                            <li class="nav-item nav-level-2">
+                                            <a
+                            data-assert-nav-item
+                            href="/en/about-deltalight/contact"
+                            class="nav-link nav-link--main"
+                            data-ga-interaction="navigation"
+                            data-ga-name="Contact"
+                            data-ga-click-url="/en/about-deltalight/contact"
+                            data-ga-type="primary"
+                            data-ga-login="false"
+                        >
+                            Contact
+                                                    </a>
+                    
+                                    </li>
+                                            <li class="nav-item nav-level-2">
+                                            <a
+                            data-assert-nav-item
+                            href="/en/about-deltalight/request-a-catalogue"
+                            class="nav-link nav-link--main"
+                            data-ga-interaction="navigation"
+                            data-ga-name="Request a catalogue"
+                            data-ga-click-url="/en/about-deltalight/request-a-catalogue"
+                            data-ga-type="primary"
+                            data-ga-login="false"
+                        >
+                            Request a catalogue
+                                                    </a>
+                    
+                                    </li>
+                    </ul>
+    
+                                    </li>
+                                            <li class="nav-item nav-level-1">
+                                            <h4 class="nav-title">Our expertise</h4>
+                    
+                                                        <ul class="nav-nested">
+                                            <li class="nav-item nav-level-2">
+                                            <a
+                            data-assert-nav-item
+                            href="/en/our-expertise/research-and-development"
+                            class="nav-link nav-link--main"
+                            data-ga-interaction="navigation"
+                            data-ga-name="Research and development"
+                            data-ga-click-url="/en/our-expertise/research-and-development"
+                            data-ga-type="primary"
+                            data-ga-login="false"
+                        >
+                            Research and development
+                                                    </a>
+                    
+                                    </li>
+                                            <li class="nav-item nav-level-2">
+                                            <a
+                            data-assert-nav-item
+                            href="/en/our-expertise/design"
+                            class="nav-link nav-link--main"
+                            data-ga-interaction="navigation"
+                            data-ga-name="Design"
+                            data-ga-click-url="/en/our-expertise/design"
+                            data-ga-type="primary"
+                            data-ga-login="false"
+                        >
+                            Design
+                                                    </a>
+                    
+                                    </li>
+                                            <li class="nav-item nav-level-2">
+                                            <a
+                            data-assert-nav-item
+                            href="/en/our-expertise/supporting-your-projects"
+                            class="nav-link nav-link--main"
+                            data-ga-interaction="navigation"
+                            data-ga-name="Supporting your projects"
+                            data-ga-click-url="/en/our-expertise/supporting-your-projects"
+                            data-ga-type="primary"
+                            data-ga-login="false"
+                        >
+                            Supporting your projects
+                                                    </a>
+                    
+                                    </li>
+                                            <li class="nav-item nav-level-2">
+                                            <a
+                            data-assert-nav-item
+                            href="/en/our-expertise/technology-led"
+                            class="nav-link nav-link--main"
+                            data-ga-interaction="navigation"
+                            data-ga-name="Technology &amp; LED"
+                            data-ga-click-url="/en/our-expertise/technology-led"
+                            data-ga-type="primary"
+                            data-ga-login="false"
+                        >
+                            Technology &amp; LED
+                                                    </a>
+                    
+                                    </li>
+                                            <li class="nav-item nav-level-2">
+                                            <a
+                            data-assert-nav-item
+                            href="/en/our-expertise/certified-testing-facilities"
+                            class="nav-link nav-link--main"
+                            data-ga-interaction="navigation"
+                            data-ga-name="Certified testing facilities"
+                            data-ga-click-url="/en/our-expertise/certified-testing-facilities"
+                            data-ga-type="primary"
+                            data-ga-login="false"
+                        >
+                            Certified testing facilities
+                                                    </a>
+                    
+                                    </li>
+                                            <li class="nav-item nav-level-2">
+                                            <a
+                            data-assert-nav-item
+                            href="/en/our-expertise/high-quality-manufacturing"
+                            class="nav-link nav-link--main"
+                            data-ga-interaction="navigation"
+                            data-ga-name="High quality manufacturing"
+                            data-ga-click-url="/en/our-expertise/high-quality-manufacturing"
+                            data-ga-type="primary"
+                            data-ga-login="false"
+                        >
+                            High quality manufacturing
+                                                    </a>
+                    
+                                    </li>
+                                            <li class="nav-item nav-level-2">
+                                            <a
+                            data-assert-nav-item
+                            href="/en/our-expertise/logistics"
+                            class="nav-link nav-link--main"
+                            data-ga-interaction="navigation"
+                            data-ga-name="Logistics"
+                            data-ga-click-url="/en/our-expertise/logistics"
+                            data-ga-type="primary"
+                            data-ga-login="false"
+                        >
+                            Logistics
+                                                    </a>
+                    
+                                    </li>
+                                            <li class="nav-item nav-level-2">
+                                            <a
+                            data-assert-nav-item
+                            href="/en/our-expertise/iso-certificates"
+                            class="nav-link nav-link--main"
+                            data-ga-interaction="navigation"
+                            data-ga-name="ISO Certificates"
+                            data-ga-click-url="/en/our-expertise/iso-certificates"
+                            data-ga-type="primary"
+                            data-ga-login="false"
+                        >
+                            ISO Certificates
+                                                    </a>
+                    
+                                    </li>
+                    </ul>
+    
+                                    </li>
+                                            <li class="nav-item nav-level-1">
+                                            <h4 class="nav-title">Working at Deltalight</h4>
+                    
+                                                        <ul class="nav-nested">
+                                            <li class="nav-item nav-level-2">
+                                            <a
+                            data-assert-nav-item
+                            href="/en/working-at-delta-light/our-culture"
+                            class="nav-link nav-link--main"
+                            data-ga-interaction="navigation"
+                            data-ga-name="Our culture"
+                            data-ga-click-url="/en/working-at-delta-light/our-culture"
+                            data-ga-type="primary"
+                            data-ga-login="false"
+                        >
+                            Our culture
+                                                    </a>
+                    
+                                    </li>
+                                            <li class="nav-item nav-level-2">
+                                            <a
+                            data-assert-nav-item
+                            href="/en/working-at-delta-light/job-vacancies"
+                            class="nav-link nav-link--main"
+                            data-ga-interaction="navigation"
+                            data-ga-name="Job vacancies"
+                            data-ga-click-url="/en/working-at-delta-light/job-vacancies"
+                            data-ga-type="primary"
+                            data-ga-login="false"
+                        >
+                            Job vacancies
+                                                    </a>
+                    
+                                    </li>
+                                            <li class="nav-item nav-level-2">
+                                            <a
+                            data-assert-nav-item
+                            href="/en/working-at-delta-light/careers-and-employment"
+                            class="nav-link nav-link--main"
+                            data-ga-interaction="navigation"
+                            data-ga-name="Your career"
+                            data-ga-click-url="/en/working-at-delta-light/careers-and-employment"
+                            data-ga-type="primary"
+                            data-ga-login="false"
+                        >
+                            Your career
+                                                    </a>
+                    
+                                    </li>
+                                            <li class="nav-item nav-level-2">
+                                            <a
+                            data-assert-nav-item
+                            href="/en/working-at-delta-light/our-people"
+                            class="nav-link nav-link--main"
+                            data-ga-interaction="navigation"
+                            data-ga-name="Our people"
+                            data-ga-click-url="/en/working-at-delta-light/our-people"
+                            data-ga-type="primary"
+                            data-ga-login="false"
+                        >
+                            Our people
+                                                    </a>
+                    
+                                    </li>
+                    </ul>
+    
+                                    </li>
+                    </ul>
+    
+                    </div>
+
+                <input type="checkbox" class="sr-only" onfocus="document.getElementById('focus-trap-nav-weAreDeltaLight').focus()" />
+    </div>
+                            </li>
+        </ul>
+        <ul class="nav-list nav-list--actions">
+            <li class="d-lg-none">
+                <button href="#" class="nav-item btn btn--icon" data-trigger="nav-panel-close" id="js-close-main-menu">
+                    <svg class="icon">
+                        <use xlink:href="#close"></use>
+                    </svg>
+                    <span class="sr-only">Close menu</span>
+                </button>
+            </li>
+            <li>
+                <a
+                    href="#nav-language"
+                    class="nav-item nav-item--language"
+                    data-toggle="nav-panel"
+                >
+                    <span class="language-toggle d-none d-xl-grid">
+                        <span class="language-toggle__region">
+                                                            International
+                                                    </span>
+                        <span class="language-toggle__language">
+                                                            <span class="">EN </span>
+                                                    </span>
+                    </span>
+                    <svg class="icon">
+                        <use xlink:href="#language"></use>
+                    </svg>
+                    <span class="sr-only">Change language/region</span>
+                </a>
+
+                
+<div class="nav-panel nav-panel--languages nav-panel--full" id="nav-language">
+    <a href="#nav-language" class="btn btn--icon nav-panel-close" data-trigger="nav-panel-close" id="focus-trap-nav-language">
+        <span class="d-block d-lg-none">
+            <svg class="icon">
+                <use xlink:href="#chevron-left"></use>
+            </svg>
+        </span>
+        <span class="d-none d-lg-block">
+            <svg class="icon">
+                <use xlink:href="#close"></use>
+            </svg>
+            <span class="sr-only">main_navigation.close</span>
+        </span>
+        <span class="d-lg-none">
+            back
+        </span>
+    </a>
+
+    <div class="nav-panel-navigation nav-panel-navigation--language">
+                <div class="">
+            <h2>International</h2>
+            <ul class="nav-list nav-list--international">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+    
+            <li class="nav-item">
+                                        
+                        
+            <a
+                href="/de"
+                class="nav-link"
+                hreflang="DE-de"
+                data-locale="de_DE"
+                data-track="click"
+                data-type="location-select.change-location"
+                data-label="Deutsch"
+                data-action="change-location"
+                data-category="international"
+            >
+                Deutsch
+            </a>
+
+                    </li>
+            <li class="nav-item">
+                                        
+                        
+            <a
+                href="/en"
+                class="nav-link"
+                hreflang="BE-en"
+                data-locale="en_BE"
+                data-track="click"
+                data-type="location-select.change-location"
+                data-label="English (Other)"
+                data-action="change-location"
+                data-category="international"
+            >
+                English (Other)
+            </a>
+
+                            <svg class="icon">
+                    <use xlink:href="#arrow-right"></use>
+                </svg>
+                    </li>
+            <li class="nav-item">
+                                        
+                        
+            <a
+                href="/en-gb"
+                class="nav-link"
+                hreflang="GB-en"
+                data-locale="en_GB"
+                data-track="click"
+                data-type="location-select.change-location"
+                data-label="English (GB)"
+                data-action="change-location"
+                data-category="international"
+            >
+                English (GB)
+            </a>
+
+                    </li>
+            <li class="nav-item">
+                                        
+                        
+            <a
+                href="/es-es"
+                class="nav-link"
+                hreflang="ES-es"
+                data-locale="es_ES"
+                data-track="click"
+                data-type="location-select.change-location"
+                data-label="Español"
+                data-action="change-location"
+                data-category="international"
+            >
+                Español
+            </a>
+
+                    </li>
+            <li class="nav-item">
+                                        
+                        
+            <a
+                href="/fr-be"
+                class="nav-link"
+                hreflang="BE-fr"
+                data-locale="fr_BE"
+                data-track="click"
+                data-type="location-select.change-location"
+                data-label="Français (Belgique)"
+                data-action="change-location"
+                data-category="international"
+            >
+                Français (Belgique)
+            </a>
+
+                    </li>
+            <li class="nav-item">
+                                        
+                        
+            <a
+                href="/fr-fr"
+                class="nav-link"
+                hreflang="FR-fr"
+                data-locale="fr_FR"
+                data-track="click"
+                data-type="location-select.change-location"
+                data-label="Français (France)"
+                data-action="change-location"
+                data-category="international"
+            >
+                Français (France)
+            </a>
+
+                    </li>
+            <li class="nav-item">
+                                        
+                        
+            <a
+                href="/it"
+                class="nav-link"
+                hreflang="IT-it"
+                data-locale="it_IT"
+                data-track="click"
+                data-type="location-select.change-location"
+                data-label="Italiano"
+                data-action="change-location"
+                data-category="international"
+            >
+                Italiano
+            </a>
+
+                    </li>
+            <li class="nav-item">
+                                        
+                        
+            <a
+                href="/nl-be"
+                class="nav-link"
+                hreflang="BE-nl"
+                data-locale="nl_BE"
+                data-track="click"
+                data-type="location-select.change-location"
+                data-label="Nederlands (België)"
+                data-action="change-location"
+                data-category="international"
+            >
+                Nederlands (België)
+            </a>
+
+                    </li>
+            <li class="nav-item">
+                                        
+                        
+            <a
+                href="/nl-nl"
+                class="nav-link"
+                hreflang="NL-nl"
+                data-locale="nl_NL"
+                data-track="click"
+                data-type="location-select.change-location"
+                data-label="Nederlands (Nederland)"
+                data-action="change-location"
+                data-category="international"
+            >
+                Nederlands (Nederland)
+            </a>
+
+                    </li>
+            <li class="nav-item">
+                                        
+                        
+            <a
+                href="/pl"
+                class="nav-link"
+                hreflang="PL-pl"
+                data-locale="pl_PL"
+                data-track="click"
+                data-type="location-select.change-location"
+                data-label="Polski"
+                data-action="change-location"
+                data-category="international"
+            >
+                Polski
+            </a>
+
+                    </li>
+            <li class="nav-item">
+                                        
+                        
+            <a
+                href="/ru"
+                class="nav-link"
+                hreflang="RU-ru"
+                data-locale="ru_RU"
+                data-track="click"
+                data-type="location-select.change-location"
+                data-label="русский"
+                data-action="change-location"
+                data-category="international"
+            >
+                русский
+            </a>
+
+                    </li>
+    
+            </ul>
+        </div>
+
+        <div>
+            <h2>USA/Canada</h2>
+            <ul class="nav-list nav-list--north-america">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+    
+            <li class="nav-item">
+                                        
+                        
+            <a
+                href="/en-us"
+                class="nav-link"
+                hreflang="US-en"
+                data-locale="en_US"
+                data-track="click"
+                data-type="location-select.change-location"
+                data-label="English"
+                data-action="change-location"
+                data-category="us-ca"
+            >
+                English
+            </a>
+
+                    </li>
+            <li class="nav-item">
+                                        
+                        
+            <a
+                href="/es-us"
+                class="nav-link"
+                hreflang="US-es"
+                data-locale="es_US"
+                data-track="click"
+                data-type="location-select.change-location"
+                data-label="Español"
+                data-action="change-location"
+                data-category="us-ca"
+            >
+                Español
+            </a>
+
+                    </li>
+            <li class="nav-item">
+                                        
+                        
+            <a
+                href="/fr-ca"
+                class="nav-link"
+                hreflang="CA-fr"
+                data-locale="fr_CA"
+                data-track="click"
+                data-type="location-select.change-location"
+                data-label="Français"
+                data-action="change-location"
+                data-category="us-ca"
+            >
+                Français
+            </a>
+
+                    </li>
+    
+            </ul>
+        </div>
+    </div>
+</div>
+            </li>
+            <li>
+                <a href="#nav-panel-search" aria-expanded="false" class="nav-item" data-toggle="nav-panel">
+                    <svg class="icon">
+                        <use xlink:href="#search"></use>
+                    </svg>
+                    <span class="sr-only">Search</span>
+                </a>
+                
+<div class="nav-panel nav-panel--search" id="nav-panel-search">
+    <input type="checkbox" class="sr-only" onfocus="document.getElementById('focus-trap-nav-panel-search').focus()" />
+    <a href="#nav-panel-search" class="btn btn--icon nav-panel-close" data-trigger="nav-panel-close"
+       id="focus-trap-nav-panel-search">
+        <span class="d-block d-lg-none">
+            <svg class="icon">
+                <use xlink:href="#chevron-left"></use>
+            </svg>
+        </span>
+        <span class="d-none d-lg-block">
+            <svg class="icon">
+                <use xlink:href="#close"></use>
+            </svg>
+            <span class="sr-only">main_navigation.close</span>
+        </span>
+        <span class="d-lg-none">
+            back
+        </span>
+    </a>
+    <div class="nav-panel-search-form">
+        <h2 class="h1 nav-panel-search-title">Search</h2>
+        <div itemscope itemtype="http://schema.org/WebSite">
+            <link itemprop="url" href="/?_locale=en" />
+            <form
+                class="search-form header-search"
+                action="/en/search?query="
+                method="get"
+                role="search"
+                itemprop="potentialAction" itemscope itemtype="http://schema.org/SearchAction"
+                novalidate="novalidate"
+            >
+                <meta itemprop="target" content="/en/search?query={query}" />
+                <div class="form-group">
+                    <label for="search-query-desktop" class="sr-only">Search</label>
+                    <div class="form-group-input has--icon search-global-wrapper">
+
+                                                
+                        
+                        <div><div class="autocomplete autocomplete--globalsearch" data-fratello-id="GlobalSiteSearch" data-props="{&quot;config&quot;:{&quot;input&quot;:{&quot;id&quot;:&quot;search-query-desktop&quot;,&quot;value&quot;:&quot;&quot;,&quot;placeholder&quot;:&quot;Enter a Family, Subfamily, Product, reference number or simple text&quot;,&quot;name&quot;:&quot;query&quot;},&quot;request&quot;:{&quot;minChars&quot;:2,&quot;limit&quot;:3,&quot;types&quot;:[&quot;family&quot;,&quot;sub_family&quot;,&quot;product&quot;,&quot;technical&quot;,&quot;project&quot;,&quot;content&quot;]},&quot;viewAll&quot;:{&quot;family&quot;:&quot;/en/search?query=__query__&amp;type=product&quot;,&quot;sub_family&quot;:&quot;/en/search?query=__query__&amp;type=product&quot;,&quot;technical&quot;:&quot;/en/search?query=__query__&amp;type=technical&quot;,&quot;project&quot;:&quot;/en/search?query=__query__&amp;type=project&quot;,&quot;content&quot;:&quot;/en/search?query=__query__&amp;type=content&quot;}},&quot;api&quot;:{&quot;search&quot;:{&quot;url&quot;:&quot;https://api.deltalight.com/search/auto-complete&quot;}},&quot;labels&quot;:{&quot;view_all&quot;:&quot;View all&quot;,&quot;family&quot;:&quot;Families&quot;,&quot;sub_family&quot;:&quot;Subfamilies&quot;,&quot;product&quot;:&quot;Products&quot;,&quot;technical&quot;:&quot;Technicals&quot;,&quot;project&quot;:&quot;Projects&quot;,&quot;content&quot;:&quot;Other content&quot;,&quot;sr_title&quot;:&quot;Search&quot;,&quot;no_results&quot;:&quot;No results found&quot;},&quot;reduxID&quot;:&quot;4046e842-be06-11f1-9b07-00505693bd3f_BE&quot;,&quot;hydrate&quot;:true}" data-redux-id="4046e842-be06-11f1-9b07-00505693bd3f_BE"><span class="sr-only">Search</span><input type="search" name="query" id="search-query-desktop" value="" placeholder="Enter a Family, Subfamily, Product, reference number or simple text" class="form-control" itemProp="query-input" data-assert-input="search" tabindex="0" autoComplete="off"/><input type="hidden" name="type" value="product"/></div></div>
+
+                        <button
+                            type="submit"
+                            class="btn btn--icon"
+                                                        data-assert-submit="search"
+                            data-toggle="search"
+                            data-location="header"
+                        >
+                            <svg class="icon">
+                                <use xlink:href="#search" />
+                            </svg>
+                            <button class="sr-only">Search</button>
+                        </button>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+    <input type="checkbox" class="sr-only" onfocus="document.getElementById('focus-trap-nav-panel-search').focus()" />
+</div>
+            </li>
+            <li>
+                <a
+                    href="/en/locator"
+                    class="nav-item"
+                    data-ga-interaction="navigation"
+                    data-ga-name="Deltalight locator"
+                    data-ga-click-url="/en/locator"
+                    data-ga-type="primary"
+                    data-ga-login="false"
+                >
+                    <svg class="icon">
+                        <use xlink:href="#map-pin"></use>
+                    </svg>
+                    <span class="sr-only">Deltalight locator</span>
+                </a>
+            </li>
+
+            <li class="account-toggle-wrapper" id="js-account-toggle-wrapper">
+                <a href="#nav-panel-account" aria-expanded="false" class="js-account-toggle nav-item" data-toggle="nav-panel" id="js-account-toggle">
+                    <div class="account-icon">
+                        <svg class="icon icon-user">
+                            <use xlink:href="#user"></use>
+                        </svg>
+                        <div><div data-fratello-id="ItemListCountBadge" data-props="{&quot;forHeader&quot;:true,&quot;reduxID&quot;:&quot;404732f2-be06-11f1-9532-00505693bd3f_BE&quot;,&quot;hydrate&quot;:true}" data-redux-id="404732f2-be06-11f1-9532-00505693bd3f_BE"></div></div>
+                    </div>
+                    <svg class="icon icon-close">
+                        <use xlink:href="#close"></use>
+                    </svg>
+                    <span class="sr-only">My Deltalight</span>
+                </a>
+<div class="nav-panel nav-panel--account" id="nav-panel-account">
+    <a href="#nav-panel-account" class="btn btn--icon nav-panel-close d-lg-none" data-trigger="nav-panel-close">
+        <span>
+            <svg class="icon">
+                <use xlink:href="#chevron-left"></use>
+            </svg>
+        </span>
+        back
+    </a>
+    
+<script>
+    isUserLoggedIn = false;
+    userRole = 'unknown';
+    userCompany = '';
+
+    dataLayer.push({
+        location: window.location.pathname.split('/')[1] || '',
+        login: isUserLoggedIn,
+        role: userRole,
+        organization: userCompany
+    });
+</script>
+
+    <h4>My Deltalight</h4>
+    <hr />
+    <a
+        href="/en/profile/pinlist"
+        class="pinlist-count link"
+        data-ga-interaction="navigation"
+        data-ga-name="My pinlist"
+        data-ga-click-url="/en/profile/pinlist"
+        data-ga-type="account-panel"
+        data-ga-login="false"
+    >
+        <svg class="icon">
+            <use xlink:href="#push-pin"></use>
+        </svg>
+        <span class="link-text">My pinlist</span>
+                            <div><div data-fratello-id="ItemListCountBadge" data-props="{&quot;numberOnly&quot;:false,&quot;isLightest&quot;:true,&quot;api&quot;:{&quot;count&quot;:{&quot;url&quot;:&quot;https://api.deltalight.com/wishlist/count&quot;}},&quot;reduxID&quot;:&quot;40479d32-be06-11f1-8802-00505693bd3f_BE&quot;,&quot;hydrate&quot;:true}" data-redux-id="40479d32-be06-11f1-8802-00505693bd3f_BE"></div></div>
+                </a>
+    <hr />
+    <p class="profile-cta">Create a My Deltalight account today or log in to save your Pin List and get quick access to your favourite products.</p>
+    <a
+        href="/en/sso-auto"
+        class="btn btn--light btn--login btn--block"
+        data-toggle="login-action"
+        id="focus-trap-nav-panel-account"
+    >
+        <span>Sign in</span>
+    </a>
+    <a href="/en/sso-registration" class="link" data-toggle="login-action">
+        <span class="link-text">Register as new user</span>
+    </a>
+
+    <script>
+        var loginActions = document.querySelectorAll('[data-toggle="login-action"]');
+        loginActions.forEach(function(loginAction) {
+            loginAction.addEventListener('click', function() {
+                // Save referrer to sessionStorage, so we can fetch it on the dashboard page
+                sessionStorage.setItem('loginReferrer', window.location);
+            });
+        });
+    </script>
+
+    <input type="checkbox" class="sr-only" onfocus="document.getElementById('focus-trap-nav-panel-account').focus()" />
+</div>
+</li>
+        </ul>
+    </nav>
+</header>
+    <button class="btn btn--icon btn--main-menu-open" id="js-open-main-menu">
+        <svg class="icon">
+            <use xlink:href="#menu"></use>
+        </svg>
+        <span class="sr-only">Open menu</span>
+    </button>
+
+
+    
+<div class="page-main" id="main-content">
+    <section class="page-header">
+        <div class="page-header-actions">
+                                </div>
+            <div class="container container--wide">
+        <section class="page-header">
+            <h1 class="page-error-title" data-assert-error-title>Sorry, the page you requested cannot be found.</h1>
+                            
+
+                        <a class="btn btn--light" href="https://deltalight.com/en/">
+                <span>Homepage</span>
+            </a>
+        </section>
+    </div>
+
+            </section>
+        <figure class="page-error-figure object-fit-cover">
+        <img src="/assets/deltalight/images/error.jpg?e5a315999cb8e51c67cd2c1e33e396208ce97454" alt="Sorry, something has seriously gone wrong." />
+    </figure>
+    <span class="page-error-code">404</span>
+</div>
+
+
+
+
+
+
+
+
+
+
+    <div><div data-fratello-id="GeneralNotification" data-props="{&quot;target&quot;:&quot;header&quot;,&quot;reduxID&quot;:&quot;4047dcde-be06-11f1-b7c0-00505693bd3f_BE&quot;,&quot;hydrate&quot;:true}" data-redux-id="4047dcde-be06-11f1-b7c0-00505693bd3f_BE" class="general-notification page-header-actions"></div></div>
+
+    
+
+
+    
+            <dialog data-name="language-select-dialog">
+            <div class="modal-header">
+                <h3 class="modal-title">Select your language</h3>
+                                    <button type="button" class="btn btn--icon" data-target="language-select-dialog" data-modaltrigger>
+                        <svg class="icon" aria-hidden="true">
+                            <use xlink:href="#close"></use>
+                        </svg>
+                        <span class="sr-only">Close dialog</span>
+                    </button>
+                            </div>
+            <div class="modal-body">
+                <form class="language-box" data-language-select-form novalidate>
+
+                                                                                                                            <div class="tabs tabs--switch" role="tablist" aria-label="Select region">                             <button type="button" class="tabs-item" role="tab" tabindex="0" aria-selected="true" aria-controls="region-intl-panel" id="region-intl-button">
+                                International
+                            </button>
+                            <div class="tabs-content" role="tabpanel" id="region-intl-panel" tabindex="0" aria-labelledby="region-intl-button">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+            <div
+            class="custom-control"
+            itemprop="availableLanguage"
+            itemscope
+            itemtype="http://schema.org/Language"
+        >
+            <input
+                type="radio"
+                id="DE-de"
+                name="box-languages-international"
+                data-language-radio
+                required="required"
+                value="/de"
+                data-assert-language="DE-de"                data-toggle="language"
+            />
+            <label class="custom-control-label" for="DE-de">
+                                    Deutsch
+                                <meta itemprop="url" content="/de">
+            </label>
+        </div>
+            <div
+            class="custom-control"
+            itemprop="availableLanguage"
+            itemscope
+            itemtype="http://schema.org/Language"
+        >
+            <input
+                type="radio"
+                id="BE-en"
+                name="box-languages-international"
+                data-language-radio
+                required="required"
+                value="/en"
+                data-assert-language="BE-en" checked                data-toggle="language"
+            />
+            <label class="custom-control-label" for="BE-en">
+                                    English (Other)
+                                <meta itemprop="url" content="/en">
+            </label>
+        </div>
+            <div
+            class="custom-control"
+            itemprop="availableLanguage"
+            itemscope
+            itemtype="http://schema.org/Language"
+        >
+            <input
+                type="radio"
+                id="GB-en"
+                name="box-languages-international"
+                data-language-radio
+                required="required"
+                value="/en-gb"
+                data-assert-language="GB-en"                data-toggle="language"
+            />
+            <label class="custom-control-label" for="GB-en">
+                                    English (GB)
+                                <meta itemprop="url" content="/en-gb">
+            </label>
+        </div>
+            <div
+            class="custom-control"
+            itemprop="availableLanguage"
+            itemscope
+            itemtype="http://schema.org/Language"
+        >
+            <input
+                type="radio"
+                id="ES-es"
+                name="box-languages-international"
+                data-language-radio
+                required="required"
+                value="/es-es"
+                data-assert-language="ES-es"                data-toggle="language"
+            />
+            <label class="custom-control-label" for="ES-es">
+                                    Español
+                                <meta itemprop="url" content="/es-es">
+            </label>
+        </div>
+            <div
+            class="custom-control"
+            itemprop="availableLanguage"
+            itemscope
+            itemtype="http://schema.org/Language"
+        >
+            <input
+                type="radio"
+                id="BE-fr"
+                name="box-languages-international"
+                data-language-radio
+                required="required"
+                value="/fr-be"
+                data-assert-language="BE-fr"                data-toggle="language"
+            />
+            <label class="custom-control-label" for="BE-fr">
+                                    Français (Belgique)
+                                <meta itemprop="url" content="/fr-be">
+            </label>
+        </div>
+            <div
+            class="custom-control"
+            itemprop="availableLanguage"
+            itemscope
+            itemtype="http://schema.org/Language"
+        >
+            <input
+                type="radio"
+                id="FR-fr"
+                name="box-languages-international"
+                data-language-radio
+                required="required"
+                value="/fr-fr"
+                data-assert-language="FR-fr"                data-toggle="language"
+            />
+            <label class="custom-control-label" for="FR-fr">
+                                    Français (France)
+                                <meta itemprop="url" content="/fr-fr">
+            </label>
+        </div>
+            <div
+            class="custom-control"
+            itemprop="availableLanguage"
+            itemscope
+            itemtype="http://schema.org/Language"
+        >
+            <input
+                type="radio"
+                id="IT-it"
+                name="box-languages-international"
+                data-language-radio
+                required="required"
+                value="/it"
+                data-assert-language="IT-it"                data-toggle="language"
+            />
+            <label class="custom-control-label" for="IT-it">
+                                    Italiano
+                                <meta itemprop="url" content="/it">
+            </label>
+        </div>
+            <div
+            class="custom-control"
+            itemprop="availableLanguage"
+            itemscope
+            itemtype="http://schema.org/Language"
+        >
+            <input
+                type="radio"
+                id="BE-nl"
+                name="box-languages-international"
+                data-language-radio
+                required="required"
+                value="/nl-be"
+                data-assert-language="BE-nl"                data-toggle="language"
+            />
+            <label class="custom-control-label" for="BE-nl">
+                                    Nederlands (België)
+                                <meta itemprop="url" content="/nl-be">
+            </label>
+        </div>
+            <div
+            class="custom-control"
+            itemprop="availableLanguage"
+            itemscope
+            itemtype="http://schema.org/Language"
+        >
+            <input
+                type="radio"
+                id="NL-nl"
+                name="box-languages-international"
+                data-language-radio
+                required="required"
+                value="/nl-nl"
+                data-assert-language="NL-nl"                data-toggle="language"
+            />
+            <label class="custom-control-label" for="NL-nl">
+                                    Nederlands (Nederland)
+                                <meta itemprop="url" content="/nl-nl">
+            </label>
+        </div>
+            <div
+            class="custom-control"
+            itemprop="availableLanguage"
+            itemscope
+            itemtype="http://schema.org/Language"
+        >
+            <input
+                type="radio"
+                id="PL-pl"
+                name="box-languages-international"
+                data-language-radio
+                required="required"
+                value="/pl"
+                data-assert-language="PL-pl"                data-toggle="language"
+            />
+            <label class="custom-control-label" for="PL-pl">
+                                    Polski
+                                <meta itemprop="url" content="/pl">
+            </label>
+        </div>
+            <div
+            class="custom-control"
+            itemprop="availableLanguage"
+            itemscope
+            itemtype="http://schema.org/Language"
+        >
+            <input
+                type="radio"
+                id="RU-ru"
+                name="box-languages-international"
+                data-language-radio
+                required="required"
+                value="/ru"
+                data-assert-language="RU-ru"                data-toggle="language"
+            />
+            <label class="custom-control-label" for="RU-ru">
+                                    русский
+                                <meta itemprop="url" content="/ru">
+            </label>
+        </div>
+    
+                            </div>
+                            <button type="button" class="tabs-item" role="tab" tabindex="-1" aria-selected="false" aria-controls="region-usa-panel" id="region-usa-button">
+                                USA/Canada
+                            </button>
+                            <div class="tabs-content is--hidden" role="tabpanel" id="region-usa-panel" tabindex="0" aria-labelledby="region-usa-button">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+            <div
+            class="custom-control"
+            itemprop="availableLanguage"
+            itemscope
+            itemtype="http://schema.org/Language"
+        >
+            <input
+                type="radio"
+                id="US-en"
+                name="box-languages-us-ca"
+                data-language-radio
+                required="required"
+                value="/en-us"
+                data-assert-language="US-en"                data-toggle="language"
+            />
+            <label class="custom-control-label" for="US-en">
+                                    English
+                                <meta itemprop="url" content="/en-us">
+            </label>
+        </div>
+            <div
+            class="custom-control"
+            itemprop="availableLanguage"
+            itemscope
+            itemtype="http://schema.org/Language"
+        >
+            <input
+                type="radio"
+                id="US-es"
+                name="box-languages-us-ca"
+                data-language-radio
+                required="required"
+                value="/es-us"
+                data-assert-language="US-es"                data-toggle="language"
+            />
+            <label class="custom-control-label" for="US-es">
+                                    Español
+                                <meta itemprop="url" content="/es-us">
+            </label>
+        </div>
+            <div
+            class="custom-control"
+            itemprop="availableLanguage"
+            itemscope
+            itemtype="http://schema.org/Language"
+        >
+            <input
+                type="radio"
+                id="CA-fr"
+                name="box-languages-us-ca"
+                data-language-radio
+                required="required"
+                value="/fr-ca"
+                data-assert-language="CA-fr"                data-toggle="language"
+            />
+            <label class="custom-control-label" for="CA-fr">
+                                    Français
+                                <meta itemprop="url" content="/fr-ca">
+            </label>
+        </div>
+    
+                            </div>
+                        </div>
+                    
+                    <button class="btn btn--dark language-box-submit" type="button" data-language-submit disabled>
+                        <span>Apply</span>
+                    </button>
+                </form>
+            </div>
+        </dialog>
+    
+
+
+    <script src="/assets/deltalight/js/webshop.js?e5a315999cb8e51c67cd2c1e33e396208ce97454"></script>
+    <script src="/core-ui-components/js/shopBundle.js?e5a315999cb8e51c67cd2c1e33e396208ce97454"></script>
+</body>
+</html>
